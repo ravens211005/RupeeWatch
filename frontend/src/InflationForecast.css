@@ -1,0 +1,273 @@
+
+.if-page {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+  color: var(--text, #172033);
+}
+
+.if-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+}
+
+.if-eyebrow {
+  color: #4776d0;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  margin-bottom: 8px;
+}
+
+.if-header h1 {
+  margin: 0 0 8px;
+  font-size: clamp(25px, 3vw, 34px);
+  letter-spacing: -0.8px;
+}
+
+.if-header p,
+.if-panel-heading p {
+  color: var(--muted, #667085);
+  margin: 0;
+  line-height: 1.6;
+}
+
+.if-refresh,
+.if-controls select {
+  border: 1px solid var(--border, #dce2ec);
+  border-radius: 10px;
+  background: var(--panel, #fff);
+  color: inherit;
+  padding: 11px 13px;
+  font: inherit;
+}
+
+.if-refresh {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.if-refresh:disabled {
+  opacity: 0.6;
+  cursor: wait;
+}
+
+.if-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  padding: 18px;
+  background: var(--panel, #fff);
+  border: 1px solid var(--border, #e5e9f0);
+  border-radius: 15px;
+}
+
+.if-controls label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--muted, #667085);
+  min-width: 190px;
+}
+
+.if-controls select {
+  min-width: 220px;
+  color: var(--text, #172033);
+  font-size: 14px;
+}
+
+.if-metrics {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.if-card,
+.if-panel {
+  background: var(--panel, #fff);
+  border: 1px solid var(--border, #e5e9f0);
+  border-radius: 15px;
+  padding: 20px;
+  min-width: 0;
+}
+
+.if-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.if-card-label {
+  color: var(--muted, #667085);
+  font-size: 12px;
+  font-weight: 650;
+}
+
+.if-card strong {
+  font-size: clamp(22px, 2.2vw, 29px);
+  letter-spacing: -0.6px;
+  overflow-wrap: anywhere;
+}
+
+.if-card .if-model-name {
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+.if-card small {
+  color: var(--muted, #667085);
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.if-panel {
+  padding: 22px;
+}
+
+.if-panel-heading {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 20px;
+}
+
+.if-panel-heading h2 {
+  margin: 0 0 7px;
+  font-size: 18px;
+}
+
+.if-panel-heading p {
+  font-size: 13px;
+}
+
+.if-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  border-radius: 999px;
+  padding: 7px 10px;
+  background: #eef4ff;
+  color: #315db2;
+  font-size: 12px;
+  white-space: nowrap;
+}
+
+.if-chart {
+  height: 330px;
+  width: 100%;
+}
+
+.if-table-wrap {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.if-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  text-align: left;
+}
+
+.if-table th,
+.if-table td {
+  padding: 14px 12px;
+  border-bottom: 1px solid var(--border, #e8ebf1);
+  white-space: nowrap;
+}
+
+.if-table th {
+  color: var(--muted, #667085);
+  font-size: 11px;
+  font-weight: 750;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.if-best {
+  display: inline-block;
+  margin-left: 8px;
+  border-radius: 6px;
+  padding: 4px 6px;
+  background: #e7f7ee;
+  color: #167448;
+  font-size: 10px;
+  font-weight: 750;
+}
+
+.if-note,
+.if-disclaimer {
+  color: var(--muted, #667085);
+  font-size: 12px;
+  line-height: 1.65;
+}
+
+.if-disclaimer {
+  margin: -6px 0 8px;
+}
+
+.if-error,
+.if-empty {
+  padding: 16px;
+  border: 1px solid var(--border, #e5e9f0);
+  border-radius: 12px;
+  background: var(--panel, #fff);
+  line-height: 1.6;
+}
+
+.if-error {
+  color: #a52c2c;
+  background: #fff5f5;
+  border-color: #f2cccc;
+}
+
+.if-empty {
+  color: var(--muted, #667085);
+}
+
+@media (max-width: 1050px) {
+  .if-metrics {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .if-header {
+    flex-direction: column;
+  }
+
+  .if-controls {
+    flex-direction: column;
+  }
+
+  .if-controls label,
+  .if-controls select {
+    width: 100%;
+    min-width: 0;
+    box-sizing: border-box;
+  }
+
+  .if-metrics {
+    grid-template-columns: 1fr;
+  }
+
+  .if-panel {
+    padding: 15px;
+  }
+
+  .if-panel-heading {
+    flex-direction: column;
+  }
+
+  .if-chart {
+    height: 280px;
+  }
+}

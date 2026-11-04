@@ -1,0 +1,6223 @@
+State,Year,Month,Total_Rainfall_mm,Average_monthly_Rainfall_mm
+Andhra Pradesh,2009,1,0.35,0.01
+Andhra Pradesh,2009,2,0.02,0.0
+Andhra Pradesh,2009,3,4.0,0.13
+Andhra Pradesh,2009,4,4.28,0.14
+Andhra Pradesh,2009,5,68.06,2.2
+Andhra Pradesh,2009,6,100.06,3.34
+Andhra Pradesh,2009,7,68.22,2.2
+Andhra Pradesh,2009,8,138.57,4.47
+Andhra Pradesh,2009,9,150.15,5.0
+Andhra Pradesh,2009,10,72.08,2.33
+Andhra Pradesh,2009,11,160.45,5.35
+Andhra Pradesh,2009,12,32.4,1.05
+Andhra Pradesh,2010,1,15.05,0.49
+Andhra Pradesh,2010,2,0.54,0.02
+Andhra Pradesh,2010,3,1.99,0.06
+Andhra Pradesh,2010,4,19.03,0.63
+Andhra Pradesh,2010,5,126.28,4.07
+Andhra Pradesh,2010,6,119.9,4.0
+Andhra Pradesh,2010,7,224.0,7.23
+Andhra Pradesh,2010,8,205.94,6.64
+Andhra Pradesh,2010,9,153.37,5.11
+Andhra Pradesh,2010,10,162.84,5.25
+Andhra Pradesh,2010,11,212.06,7.07
+Andhra Pradesh,2010,12,92.81,2.99
+Andhra Pradesh,2011,1,1.81,0.06
+Andhra Pradesh,2011,2,13.39,0.48
+Andhra Pradesh,2011,3,0.62,0.02
+Andhra Pradesh,2011,4,41.99,1.4
+Andhra Pradesh,2011,5,45.44,1.47
+Andhra Pradesh,2011,6,65.0,2.17
+Andhra Pradesh,2011,7,147.15,4.75
+Andhra Pradesh,2011,8,174.15,5.62
+Andhra Pradesh,2011,9,84.61,2.82
+Andhra Pradesh,2011,10,112.15,3.62
+Andhra Pradesh,2011,11,79.39,2.65
+Andhra Pradesh,2011,12,22.92,0.74
+Andhra Pradesh,2012,1,25.51,0.82
+Andhra Pradesh,2012,2,0.01,0.0
+Andhra Pradesh,2012,3,3.04,0.1
+Andhra Pradesh,2012,4,31.87,1.06
+Andhra Pradesh,2012,5,36.06,1.16
+Andhra Pradesh,2012,6,64.09,2.14
+Andhra Pradesh,2012,7,171.13,5.52
+Andhra Pradesh,2012,8,164.06,5.29
+Andhra Pradesh,2012,9,149.71,4.99
+Andhra Pradesh,2012,10,138.02,4.45
+Andhra Pradesh,2012,11,178.3,5.94
+Andhra Pradesh,2012,12,41.21,1.33
+Andhra Pradesh,2013,1,0.71,0.02
+Andhra Pradesh,2013,2,32.81,1.17
+Andhra Pradesh,2013,3,6.69,0.22
+Andhra Pradesh,2013,4,32.15,1.07
+Andhra Pradesh,2013,5,27.21,0.88
+Andhra Pradesh,2013,6,90.33,3.01
+Andhra Pradesh,2013,7,133.45,4.3
+Andhra Pradesh,2013,8,117.27,3.78
+Andhra Pradesh,2013,9,156.12,5.2
+Andhra Pradesh,2013,10,289.08,9.33
+Andhra Pradesh,2013,11,54.44,1.81
+Andhra Pradesh,2013,12,3.87,0.12
+Andhra Pradesh,2014,1,0.42,0.01
+Andhra Pradesh,2014,2,0.89,0.03
+Andhra Pradesh,2014,3,8.65,0.28
+Andhra Pradesh,2014,4,9.49,0.32
+Andhra Pradesh,2014,5,71.04,2.29
+Andhra Pradesh,2014,6,50.85,1.7
+Andhra Pradesh,2014,7,121.2,3.91
+Andhra Pradesh,2014,8,140.47,4.53
+Andhra Pradesh,2014,9,111.94,3.73
+Andhra Pradesh,2014,10,146.55,4.73
+Andhra Pradesh,2014,11,43.39,1.45
+Andhra Pradesh,2014,12,17.43,0.56
+Andhra Pradesh,2015,1,2.31,0.07
+Andhra Pradesh,2015,2,0.26,0.01
+Andhra Pradesh,2015,3,8.88,0.29
+Andhra Pradesh,2015,4,58.12,1.94
+Andhra Pradesh,2015,5,33.59,1.08
+Andhra Pradesh,2015,6,157.5,5.25
+Andhra Pradesh,2015,7,71.47,2.31
+Andhra Pradesh,2015,8,156.53,5.05
+Andhra Pradesh,2015,9,159.77,5.33
+Andhra Pradesh,2015,10,78.4,2.53
+Andhra Pradesh,2015,11,277.04,9.23
+Andhra Pradesh,2015,12,35.35,1.14
+Andhra Pradesh,2016,1,4.72,0.15
+Andhra Pradesh,2016,2,0.62,0.02
+Andhra Pradesh,2016,3,2.69,0.09
+Andhra Pradesh,2016,4,2.16,0.07
+Andhra Pradesh,2016,5,105.25,3.4
+Andhra Pradesh,2016,6,167.29,5.58
+Andhra Pradesh,2016,7,130.58,4.21
+Andhra Pradesh,2016,8,88.51,2.86
+Andhra Pradesh,2016,9,168.25,5.61
+Andhra Pradesh,2016,10,42.41,1.37
+Andhra Pradesh,2016,11,11.46,0.38
+Andhra Pradesh,2016,12,51.26,1.65
+Andhra Pradesh,2017,1,1.71,0.06
+Andhra Pradesh,2017,2,0.0,0.0
+Andhra Pradesh,2017,3,12.99,0.42
+Andhra Pradesh,2017,4,8.35,0.28
+Andhra Pradesh,2017,5,34.85,1.12
+Andhra Pradesh,2017,6,124.97,4.17
+Andhra Pradesh,2017,7,114.46,3.69
+Andhra Pradesh,2017,8,207.53,6.69
+Andhra Pradesh,2017,9,162.22,5.41
+Andhra Pradesh,2017,10,162.8,5.25
+Andhra Pradesh,2017,11,47.09,1.57
+Andhra Pradesh,2017,12,7.43,0.24
+Andhra Pradesh,2018,1,0.09,0.0
+Andhra Pradesh,2018,2,1.51,0.05
+Andhra Pradesh,2018,3,16.67,0.54
+Andhra Pradesh,2018,4,23.81,0.79
+Andhra Pradesh,2018,5,49.89,1.61
+Andhra Pradesh,2018,6,88.56,2.95
+Andhra Pradesh,2018,7,114.11,3.68
+Andhra Pradesh,2018,8,139.19,4.49
+Andhra Pradesh,2018,9,99.85,3.33
+Andhra Pradesh,2018,10,51.69,1.67
+Andhra Pradesh,2018,11,45.99,1.53
+Andhra Pradesh,2018,12,40.75,1.31
+Andhra Pradesh,2019,1,11.28,0.36
+Andhra Pradesh,2019,2,1.36,0.05
+Andhra Pradesh,2019,3,4.3,0.14
+Andhra Pradesh,2019,4,17.07,0.57
+Andhra Pradesh,2019,5,29.83,0.96
+Andhra Pradesh,2019,6,57.96,1.93
+Andhra Pradesh,2019,7,131.14,4.23
+Andhra Pradesh,2019,8,147.7,4.76
+Andhra Pradesh,2019,9,235.9,7.86
+Andhra Pradesh,2019,10,232.54,7.5
+Andhra Pradesh,2019,11,31.47,1.05
+Andhra Pradesh,2019,12,36.67,1.18
+Andhra Pradesh,2020,1,14.37,0.46
+Andhra Pradesh,2020,2,8.01,0.28
+Andhra Pradesh,2020,3,15.44,0.5
+Andhra Pradesh,2020,4,44.32,1.48
+Andhra Pradesh,2020,5,20.36,0.73
+Andhra Pradesh,2020,6,122.36,4.08
+Andhra Pradesh,2020,7,126.78,7.92
+Andhra Pradesh,2020,8,148.55,4.79
+Andhra Pradesh,2020,9,243.24,8.11
+Andhra Pradesh,2020,10,189.44,6.11
+Andhra Pradesh,2020,11,196.97,6.57
+Andhra Pradesh,2020,12,42.09,1.36
+Andhra Pradesh,2021,1,18.67,0.6
+Andhra Pradesh,2021,2,8.67,0.31
+Andhra Pradesh,2021,3,0.48,0.02
+Andhra Pradesh,2021,4,28.29,0.98
+Andhra Pradesh,2021,5,68.78,2.37
+Andhra Pradesh,2021,6,78.07,3.25
+Andhra Pradesh,2021,7,175.76,6.06
+Andhra Pradesh,2021,8,139.48,4.5
+Andhra Pradesh,2021,9,183.76,6.13
+Andhra Pradesh,2021,10,126.24,4.07
+Andhra Pradesh,2021,11,305.0,10.17
+Andhra Pradesh,2021,12,22.65,0.73
+Andhra Pradesh,2022,1,24.18,0.78
+Andhra Pradesh,2022,2,0.6,0.02
+Andhra Pradesh,2022,3,2.74,0.09
+Andhra Pradesh,2022,4,6.35,0.23
+Andhra Pradesh,2022,5,111.76,3.61
+Andhra Pradesh,2022,6,111.07,3.7
+Andhra Pradesh,2022,7,148.45,5.12
+Andhra Pradesh,2022,8,160.14,5.17
+Andhra Pradesh,2022,9,154.37,5.15
+Andhra Pradesh,2022,10,177.15,5.71
+Andhra Pradesh,2022,11,76.23,2.54
+Andhra Pradesh,2022,12,88.1,2.84
+Andhra Pradesh,2023,1,1.07,0.04
+Andhra Pradesh,2023,2,0.03,0.0
+Andhra Pradesh,2023,3,53.34,1.72
+Andhra Pradesh,2023,4,26.1,0.87
+Andhra Pradesh,2023,5,90.01,2.9
+Andhra Pradesh,2023,6,64.33,2.22
+Andhra Pradesh,2023,7,160.55,5.18
+Andhra Pradesh,2023,8,74.6,2.41
+Andhra Pradesh,2023,9,177.71,5.92
+Andhra Pradesh,2023,10,17.73,0.57
+Andhra Pradesh,2023,11,74.68,2.49
+Andhra Pradesh,2023,12,140.49,4.53
+Andhra Pradesh,2024,1,2.21,0.07
+Andhra Pradesh,2024,2,0.08,0.0
+Andhra Pradesh,2024,3,2.3,0.12
+Arunachal Pradesh,2009,1,29.25,0.94
+Arunachal Pradesh,2009,2,70.32,2.51
+Arunachal Pradesh,2009,3,40.27,1.3
+Arunachal Pradesh,2009,4,154.69,5.16
+Arunachal Pradesh,2009,5,172.6,5.57
+Arunachal Pradesh,2009,6,319.92,10.66
+Arunachal Pradesh,2009,7,416.39,13.43
+Arunachal Pradesh,2009,8,499.47,16.11
+Arunachal Pradesh,2009,9,217.72,7.26
+Arunachal Pradesh,2009,10,109.92,3.55
+Arunachal Pradesh,2009,11,41.58,1.39
+Arunachal Pradesh,2009,12,15.61,0.5
+Arunachal Pradesh,2010,1,0.0,0.0
+Arunachal Pradesh,2010,2,18.6,0.66
+Arunachal Pradesh,2010,3,190.77,6.15
+Arunachal Pradesh,2010,4,443.83,14.79
+Arunachal Pradesh,2010,5,382.53,12.34
+Arunachal Pradesh,2010,6,502.7,16.76
+Arunachal Pradesh,2010,7,448.05,14.45
+Arunachal Pradesh,2010,8,328.36,10.59
+Arunachal Pradesh,2010,9,465.07,15.5
+Arunachal Pradesh,2010,10,82.16,2.65
+Arunachal Pradesh,2010,11,52.53,1.75
+Arunachal Pradesh,2010,12,12.72,0.41
+Arunachal Pradesh,2011,1,5.78,0.19
+Arunachal Pradesh,2011,2,14.21,0.51
+Arunachal Pradesh,2011,3,100.85,3.25
+Arunachal Pradesh,2011,4,78.9,2.63
+Arunachal Pradesh,2011,5,137.26,4.43
+Arunachal Pradesh,2011,6,260.71,8.69
+Arunachal Pradesh,2011,7,476.0,15.35
+Arunachal Pradesh,2011,8,253.59,8.18
+Arunachal Pradesh,2011,9,229.71,7.66
+Arunachal Pradesh,2011,10,21.83,0.7
+Arunachal Pradesh,2011,11,6.07,0.2
+Arunachal Pradesh,2011,12,1.2,0.04
+Arunachal Pradesh,2012,1,17.55,0.57
+Arunachal Pradesh,2012,2,10.5,0.36
+Arunachal Pradesh,2012,3,39.68,1.28
+Arunachal Pradesh,2012,4,184.5,6.15
+Arunachal Pradesh,2012,5,198.68,6.41
+Arunachal Pradesh,2012,6,362.76,12.09
+Arunachal Pradesh,2012,7,403.56,13.02
+Arunachal Pradesh,2012,8,205.63,6.63
+Arunachal Pradesh,2012,9,0.0,0.0
+Arunachal Pradesh,2012,10,0.0,0.0
+Arunachal Pradesh,2012,11,0.0,0.0
+Arunachal Pradesh,2012,12,0.0,0.0
+Arunachal Pradesh,2013,1,21.17,0.68
+Arunachal Pradesh,2013,2,33.99,1.21
+Arunachal Pradesh,2013,3,119.15,3.84
+Arunachal Pradesh,2013,4,214.37,7.15
+Arunachal Pradesh,2013,5,348.17,11.23
+Arunachal Pradesh,2013,6,302.32,10.08
+Arunachal Pradesh,2013,7,397.85,12.83
+Arunachal Pradesh,2013,8,267.09,8.62
+Arunachal Pradesh,2013,9,313.89,10.46
+Arunachal Pradesh,2013,10,175.76,5.67
+Arunachal Pradesh,2013,11,9.18,0.31
+Arunachal Pradesh,2013,12,9.56,0.31
+Arunachal Pradesh,2014,1,17.48,0.56
+Arunachal Pradesh,2014,2,92.76,3.31
+Arunachal Pradesh,2014,3,76.21,2.46
+Arunachal Pradesh,2014,4,78.74,2.62
+Arunachal Pradesh,2014,5,350.25,11.3
+Arunachal Pradesh,2014,6,300.07,10.0
+Arunachal Pradesh,2014,7,354.39,11.43
+Arunachal Pradesh,2014,8,638.07,20.58
+Arunachal Pradesh,2014,9,330.84,11.03
+Arunachal Pradesh,2014,10,32.59,1.05
+Arunachal Pradesh,2014,11,14.42,0.48
+Arunachal Pradesh,2014,12,6.81,0.22
+Arunachal Pradesh,2015,1,30.93,1.0
+Arunachal Pradesh,2015,2,48.06,1.72
+Arunachal Pradesh,2015,3,104.09,3.36
+Arunachal Pradesh,2015,4,288.71,9.62
+Arunachal Pradesh,2015,5,248.34,8.01
+Arunachal Pradesh,2015,6,582.89,19.43
+Arunachal Pradesh,2015,7,276.9,8.93
+Arunachal Pradesh,2015,8,603.85,19.48
+Arunachal Pradesh,2015,9,302.03,10.07
+Arunachal Pradesh,2015,10,59.11,1.91
+Arunachal Pradesh,2015,11,28.07,0.94
+Arunachal Pradesh,2015,12,29.54,0.95
+Arunachal Pradesh,2016,1,24.24,0.78
+Arunachal Pradesh,2016,2,84.68,2.92
+Arunachal Pradesh,2016,3,161.28,5.2
+Arunachal Pradesh,2016,4,586.72,19.56
+Arunachal Pradesh,2016,5,341.01,11.0
+Arunachal Pradesh,2016,6,383.76,12.79
+Arunachal Pradesh,2016,7,794.19,25.62
+Arunachal Pradesh,2016,8,202.12,6.52
+Arunachal Pradesh,2016,9,529.06,17.64
+Arunachal Pradesh,2016,10,182.0,5.87
+Arunachal Pradesh,2016,11,9.99,0.33
+Arunachal Pradesh,2016,12,6.14,0.2
+Arunachal Pradesh,2017,1,6.48,0.21
+Arunachal Pradesh,2017,2,65.26,2.33
+Arunachal Pradesh,2017,3,172.81,5.57
+Arunachal Pradesh,2017,4,401.1,13.37
+Arunachal Pradesh,2017,5,325.68,10.51
+Arunachal Pradesh,2017,6,466.21,15.54
+Arunachal Pradesh,2017,7,534.81,17.25
+Arunachal Pradesh,2017,8,565.87,18.25
+Arunachal Pradesh,2017,9,318.39,10.61
+Arunachal Pradesh,2017,10,260.0,8.39
+Arunachal Pradesh,2017,11,12.47,0.42
+Arunachal Pradesh,2017,12,3.22,0.1
+Arunachal Pradesh,2018,1,30.48,0.98
+Arunachal Pradesh,2018,2,49.75,1.78
+Arunachal Pradesh,2018,3,162.38,5.24
+Arunachal Pradesh,2018,4,182.02,6.07
+Arunachal Pradesh,2018,5,275.54,8.89
+Arunachal Pradesh,2018,6,391.17,13.04
+Arunachal Pradesh,2018,7,408.93,13.19
+Arunachal Pradesh,2018,8,255.88,8.25
+Arunachal Pradesh,2018,9,340.63,11.35
+Arunachal Pradesh,2018,10,72.71,2.35
+Arunachal Pradesh,2018,11,68.75,2.29
+Arunachal Pradesh,2018,12,27.2,0.88
+Arunachal Pradesh,2019,1,12.28,0.4
+Arunachal Pradesh,2019,2,86.82,3.1
+Arunachal Pradesh,2019,3,130.38,4.21
+Arunachal Pradesh,2019,4,123.44,4.11
+Arunachal Pradesh,2019,5,461.19,14.88
+Arunachal Pradesh,2019,6,375.58,12.52
+Arunachal Pradesh,2019,7,704.27,22.72
+Arunachal Pradesh,2019,8,168.03,5.42
+Arunachal Pradesh,2019,9,345.92,11.53
+Arunachal Pradesh,2019,10,117.97,3.81
+Arunachal Pradesh,2019,11,17.05,0.57
+Arunachal Pradesh,2019,12,15.53,0.5
+Arunachal Pradesh,2020,1,66.92,2.16
+Arunachal Pradesh,2020,2,36.16,1.25
+Arunachal Pradesh,2020,3,42.55,1.37
+Arunachal Pradesh,2020,4,162.2,5.41
+Arunachal Pradesh,2020,5,380.7,13.6
+Arunachal Pradesh,2020,6,552.86,18.43
+Arunachal Pradesh,2020,7,359.56,22.47
+Arunachal Pradesh,2020,8,308.92,9.97
+Arunachal Pradesh,2020,9,452.35,15.08
+Arunachal Pradesh,2020,10,182.37,5.88
+Arunachal Pradesh,2020,11,61.77,2.06
+Arunachal Pradesh,2020,12,15.06,0.49
+Arunachal Pradesh,2021,1,23.33,0.75
+Arunachal Pradesh,2021,2,9.34,0.33
+Arunachal Pradesh,2021,3,95.62,3.08
+Arunachal Pradesh,2021,4,165.52,5.71
+Arunachal Pradesh,2021,5,289.2,9.97
+Arunachal Pradesh,2021,6,289.42,12.06
+Arunachal Pradesh,2021,7,252.57,8.71
+Arunachal Pradesh,2021,8,478.1,15.42
+Arunachal Pradesh,2021,9,141.48,4.72
+Arunachal Pradesh,2021,10,112.94,3.64
+Arunachal Pradesh,2021,11,13.39,0.45
+Arunachal Pradesh,2021,12,15.2,0.49
+Arunachal Pradesh,2022,1,49.86,1.61
+Arunachal Pradesh,2022,2,83.51,3.09
+Arunachal Pradesh,2022,3,97.59,3.25
+Arunachal Pradesh,2022,4,485.76,17.35
+Arunachal Pradesh,2022,5,364.31,11.75
+Arunachal Pradesh,2022,6,606.73,20.22
+Arunachal Pradesh,2022,7,311.07,10.73
+Arunachal Pradesh,2022,8,197.1,6.36
+Arunachal Pradesh,2022,9,295.61,9.85
+Arunachal Pradesh,2022,10,352.91,11.38
+Arunachal Pradesh,2022,11,0.81,0.03
+Arunachal Pradesh,2022,12,23.15,0.75
+Arunachal Pradesh,2023,1,8.41,0.28
+Arunachal Pradesh,2023,2,105.63,3.77
+Arunachal Pradesh,2023,3,129.32,4.17
+Arunachal Pradesh,2023,4,123.55,4.12
+Arunachal Pradesh,2023,5,213.97,6.9
+Arunachal Pradesh,2023,6,379.07,13.07
+Arunachal Pradesh,2023,7,450.34,14.53
+Arunachal Pradesh,2023,8,381.19,12.3
+Arunachal Pradesh,2023,9,125.74,4.19
+Arunachal Pradesh,2023,10,155.58,5.02
+Arunachal Pradesh,2023,11,15.91,0.53
+Arunachal Pradesh,2023,12,18.97,0.61
+Arunachal Pradesh,2024,1,9.83,0.32
+Arunachal Pradesh,2024,2,104.11,3.59
+Arunachal Pradesh,2024,3,36.25,1.81
+Assam,2009,1,9.07,0.29
+Assam,2009,2,21.85,0.78
+Assam,2009,3,48.47,1.56
+Assam,2009,4,134.57,4.49
+Assam,2009,5,186.74,6.02
+Assam,2009,6,260.27,8.68
+Assam,2009,7,338.62,10.92
+Assam,2009,8,381.71,12.31
+Assam,2009,9,165.55,5.52
+Assam,2009,10,120.54,3.89
+Assam,2009,11,15.1,0.5
+Assam,2009,12,4.76,0.15
+Assam,2010,1,0.71,0.02
+Assam,2010,2,4.43,0.16
+Assam,2010,3,134.05,4.32
+Assam,2010,4,397.4,13.25
+Assam,2010,5,351.7,11.35
+Assam,2010,6,430.52,14.35
+Assam,2010,7,345.06,11.13
+Assam,2010,8,302.66,9.76
+Assam,2010,9,310.89,10.36
+Assam,2010,10,95.17,3.07
+Assam,2010,11,13.84,0.46
+Assam,2010,12,9.53,0.31
+Assam,2011,1,9.59,0.31
+Assam,2011,2,11.14,0.4
+Assam,2011,3,102.54,3.31
+Assam,2011,4,99.75,3.32
+Assam,2011,5,242.87,7.83
+Assam,2011,6,293.54,9.78
+Assam,2011,7,378.2,12.2
+Assam,2011,8,268.67,8.67
+Assam,2011,9,206.17,6.87
+Assam,2011,10,33.74,1.09
+Assam,2011,11,8.92,0.3
+Assam,2011,12,1.24,0.04
+Assam,2012,1,18.23,0.59
+Assam,2012,2,8.34,0.29
+Assam,2012,3,24.52,0.79
+Assam,2012,4,280.56,9.35
+Assam,2012,5,170.83,5.51
+Assam,2012,6,526.61,17.55
+Assam,2012,7,363.59,11.73
+Assam,2012,8,268.76,8.67
+Assam,2012,9,96.88,3.23
+Assam,2012,10,42.47,1.37
+Assam,2012,11,0.0,0.0
+Assam,2012,12,0.0,0.0
+Assam,2013,1,1.8,0.06
+Assam,2013,2,10.06,0.36
+Assam,2013,3,57.01,1.84
+Assam,2013,4,128.56,4.29
+Assam,2013,5,338.02,10.9
+Assam,2013,6,243.18,8.11
+Assam,2013,7,368.82,11.9
+Assam,2013,8,291.99,9.42
+Assam,2013,9,215.94,7.2
+Assam,2013,10,132.64,4.28
+Assam,2013,11,0.62,0.02
+Assam,2013,12,3.17,0.1
+Assam,2014,1,2.38,0.08
+Assam,2014,2,29.24,1.04
+Assam,2014,3,27.85,0.9
+Assam,2014,4,55.18,1.84
+Assam,2014,5,312.42,10.08
+Assam,2014,6,341.62,11.39
+Assam,2014,7,330.45,10.66
+Assam,2014,8,360.6,11.63
+Assam,2014,9,334.79,11.16
+Assam,2014,10,30.56,0.99
+Assam,2014,11,2.3,0.08
+Assam,2014,12,0.59,0.02
+Assam,2015,1,12.49,0.4
+Assam,2015,2,14.9,0.53
+Assam,2015,3,30.45,0.98
+Assam,2015,4,233.64,7.79
+Assam,2015,5,285.89,9.22
+Assam,2015,6,417.37,13.91
+Assam,2015,7,269.0,8.68
+Assam,2015,8,415.32,13.4
+Assam,2015,9,194.31,6.48
+Assam,2015,10,63.02,2.03
+Assam,2015,11,16.07,0.54
+Assam,2015,12,18.97,0.61
+Assam,2016,1,20.04,0.65
+Assam,2016,2,25.26,0.87
+Assam,2016,3,74.84,2.41
+Assam,2016,4,372.73,12.42
+Assam,2016,5,316.63,10.21
+Assam,2016,6,303.24,10.11
+Assam,2016,7,418.42,13.5
+Assam,2016,8,180.47,5.82
+Assam,2016,9,296.32,9.88
+Assam,2016,10,96.24,3.1
+Assam,2016,11,33.39,1.11
+Assam,2016,12,5.75,0.19
+Assam,2017,1,1.72,0.06
+Assam,2017,2,46.79,1.67
+Assam,2017,3,114.73,3.7
+Assam,2017,4,283.35,9.44
+Assam,2017,5,246.6,7.95
+Assam,2017,6,349.33,11.64
+Assam,2017,7,381.19,12.3
+Assam,2017,8,364.7,11.76
+Assam,2017,9,303.84,10.13
+Assam,2017,10,193.72,6.25
+Assam,2017,11,10.41,0.35
+Assam,2017,12,13.94,0.45
+Assam,2018,1,8.25,0.27
+Assam,2018,2,20.65,0.74
+Assam,2018,3,87.44,2.82
+Assam,2018,4,134.17,4.47
+Assam,2018,5,235.59,7.6
+Assam,2018,6,361.81,12.06
+Assam,2018,7,321.97,10.39
+Assam,2018,8,271.2,8.75
+Assam,2018,9,271.19,9.04
+Assam,2018,10,49.61,1.6
+Assam,2018,11,21.01,0.7
+Assam,2018,12,29.09,0.94
+Assam,2019,1,4.58,0.15
+Assam,2019,2,33.74,1.2
+Assam,2019,3,56.86,1.83
+Assam,2019,4,166.09,5.54
+Assam,2019,5,383.08,12.36
+Assam,2019,6,312.44,10.41
+Assam,2019,7,512.84,16.54
+Assam,2019,8,207.29,6.69
+Assam,2019,9,286.72,9.56
+Assam,2019,10,146.42,4.72
+Assam,2019,11,13.63,0.45
+Assam,2019,12,3.06,0.1
+Assam,2020,1,20.84,0.67
+Assam,2020,2,19.42,0.67
+Assam,2020,3,21.75,0.7
+Assam,2020,4,137.12,4.57
+Assam,2020,5,353.02,12.61
+Assam,2020,6,490.13,16.34
+Assam,2020,7,279.38,17.46
+Assam,2020,8,245.82,7.93
+Assam,2020,9,349.86,11.66
+Assam,2020,10,157.71,5.09
+Assam,2020,11,24.36,0.81
+Assam,2020,12,1.0,0.03
+Assam,2021,1,11.93,0.38
+Assam,2021,2,2.99,0.11
+Assam,2021,3,40.94,1.32
+Assam,2021,4,68.4,2.36
+Assam,2021,5,213.75,7.37
+Assam,2021,6,303.58,12.65
+Assam,2021,7,267.71,9.23
+Assam,2021,8,303.4,9.79
+Assam,2021,9,165.36,5.51
+Assam,2021,10,105.19,3.39
+Assam,2021,11,4.52,0.15
+Assam,2021,12,12.49,0.4
+Assam,2022,1,25.62,0.83
+Assam,2022,2,53.68,1.99
+Assam,2022,3,41.33,1.38
+Assam,2022,4,295.09,10.54
+Assam,2022,5,376.71,12.15
+Assam,2022,6,625.88,20.86
+Assam,2022,7,288.08,9.93
+Assam,2022,8,229.11,7.39
+Assam,2022,9,203.67,6.79
+Assam,2022,10,199.59,6.44
+Assam,2022,11,0.15,0.0
+Assam,2022,12,7.22,0.23
+Assam,2023,1,0.81,0.03
+Assam,2023,2,29.9,1.07
+Assam,2023,3,93.25,3.01
+Assam,2023,4,120.16,4.01
+Assam,2023,5,166.41,5.37
+Assam,2023,6,476.95,16.45
+Assam,2023,7,317.44,10.24
+Assam,2023,8,351.2,11.33
+Assam,2023,9,171.52,5.72
+Assam,2023,10,118.6,3.83
+Assam,2023,11,17.15,0.57
+Assam,2023,12,18.55,0.6
+Assam,2024,1,2.33,0.08
+Assam,2024,2,37.04,1.28
+Assam,2024,3,6.84,0.34
+Bihar,2009,1,0.3,0.01
+Bihar,2009,2,0.31,0.01
+Bihar,2009,3,1.71,0.06
+Bihar,2009,4,2.71,0.09
+Bihar,2009,5,109.07,3.52
+Bihar,2009,6,78.1,2.6
+Bihar,2009,7,227.49,7.34
+Bihar,2009,8,306.69,9.89
+Bihar,2009,9,124.46,4.15
+Bihar,2009,10,88.17,2.84
+Bihar,2009,11,3.99,0.13
+Bihar,2009,12,0.46,0.01
+Bihar,2010,1,0.4,0.01
+Bihar,2010,2,2.23,0.08
+Bihar,2010,3,0.57,0.02
+Bihar,2010,4,8.0,0.27
+Bihar,2010,5,90.27,2.91
+Bihar,2010,6,131.77,4.39
+Bihar,2010,7,266.81,8.61
+Bihar,2010,8,206.9,6.67
+Bihar,2010,9,167.73,5.59
+Bihar,2010,10,51.34,1.66
+Bihar,2010,11,2.2,0.07
+Bihar,2010,12,1.39,0.04
+Bihar,2011,1,7.43,0.24
+Bihar,2011,2,9.27,0.33
+Bihar,2011,3,12.45,0.4
+Bihar,2011,4,32.38,1.08
+Bihar,2011,5,92.79,2.99
+Bihar,2011,6,235.33,7.84
+Bihar,2011,7,267.27,8.62
+Bihar,2011,8,277.6,8.95
+Bihar,2011,9,237.62,7.92
+Bihar,2011,10,11.78,0.38
+Bihar,2011,11,3.79,0.13
+Bihar,2011,12,3.48,0.11
+Bihar,2012,1,17.63,0.57
+Bihar,2012,2,1.88,0.06
+Bihar,2012,3,6.96,0.22
+Bihar,2012,4,36.59,1.22
+Bihar,2012,5,34.67,1.12
+Bihar,2012,6,117.43,3.91
+Bihar,2012,7,352.05,11.36
+Bihar,2012,8,214.55,6.92
+Bihar,2012,9,258.34,8.61
+Bihar,2012,10,44.79,1.44
+Bihar,2012,11,10.52,0.35
+Bihar,2012,12,0.06,0.0
+Bihar,2013,1,5.5,0.18
+Bihar,2013,2,22.13,0.79
+Bihar,2013,3,1.01,0.03
+Bihar,2013,4,29.22,0.97
+Bihar,2013,5,96.78,3.12
+Bihar,2013,6,196.7,6.56
+Bihar,2013,7,176.24,5.69
+Bihar,2013,8,217.75,7.02
+Bihar,2013,9,144.86,4.83
+Bihar,2013,10,203.29,6.56
+Bihar,2013,11,0.47,0.02
+Bihar,2013,12,0.0,0.0
+Bihar,2014,1,15.76,0.51
+Bihar,2014,2,32.98,1.18
+Bihar,2014,3,8.78,0.28
+Bihar,2014,4,1.19,0.04
+Bihar,2014,5,121.34,3.91
+Bihar,2014,6,123.09,4.1
+Bihar,2014,7,273.27,8.82
+Bihar,2014,8,328.03,10.58
+Bihar,2014,9,169.52,5.65
+Bihar,2014,10,45.71,1.47
+Bihar,2014,11,0.0,0.0
+Bihar,2014,12,1.3,0.04
+Bihar,2015,1,13.99,0.45
+Bihar,2015,2,2.52,0.09
+Bihar,2015,3,31.47,1.02
+Bihar,2015,4,44.62,1.49
+Bihar,2015,5,59.54,1.92
+Bihar,2015,6,142.68,4.76
+Bihar,2015,7,255.05,8.23
+Bihar,2015,8,313.8,10.12
+Bihar,2015,9,114.76,3.83
+Bihar,2015,10,9.9,0.32
+Bihar,2015,11,0.16,0.01
+Bihar,2015,12,0.01,0.0
+Bihar,2016,1,9.62,0.31
+Bihar,2016,2,0.7,0.02
+Bihar,2016,3,5.15,0.17
+Bihar,2016,4,3.71,0.12
+Bihar,2016,5,93.63,3.02
+Bihar,2016,6,154.6,5.15
+Bihar,2016,7,366.55,11.82
+Bihar,2016,8,157.68,5.09
+Bihar,2016,9,367.57,12.25
+Bihar,2016,10,66.3,2.14
+Bihar,2016,11,0.0,0.0
+Bihar,2016,12,0.0,0.0
+Bihar,2017,1,2.11,0.07
+Bihar,2017,2,0.16,0.01
+Bihar,2017,3,22.76,0.73
+Bihar,2017,4,31.4,1.05
+Bihar,2017,5,86.16,2.78
+Bihar,2017,6,94.52,3.15
+Bihar,2017,7,358.65,11.57
+Bihar,2017,8,361.39,11.66
+Bihar,2017,9,135.78,4.53
+Bihar,2017,10,60.04,1.94
+Bihar,2017,11,0.24,0.01
+Bihar,2017,12,0.13,0.0
+Bihar,2018,1,0.0,0.0
+Bihar,2018,2,1.46,0.05
+Bihar,2018,3,7.55,0.24
+Bihar,2018,4,46.77,1.56
+Bihar,2018,5,40.96,1.32
+Bihar,2018,6,111.89,3.73
+Bihar,2018,7,295.5,9.53
+Bihar,2018,8,262.66,8.47
+Bihar,2018,9,116.24,3.87
+Bihar,2018,10,19.51,0.63
+Bihar,2018,11,0.05,0.0
+Bihar,2018,12,5.42,0.17
+Bihar,2019,1,4.45,0.14
+Bihar,2019,2,24.2,0.86
+Bihar,2019,3,3.99,0.13
+Bihar,2019,4,36.44,1.21
+Bihar,2019,5,37.23,1.2
+Bihar,2019,6,99.79,3.33
+Bihar,2019,7,423.45,13.66
+Bihar,2019,8,141.76,4.57
+Bihar,2019,9,396.43,13.21
+Bihar,2019,10,30.27,0.98
+Bihar,2019,11,2.07,0.07
+Bihar,2019,12,13.58,0.44
+Bihar,2020,1,8.82,0.28
+Bihar,2020,2,26.36,0.91
+Bihar,2020,3,46.33,1.49
+Bihar,2020,4,52.81,1.76
+Bihar,2020,5,74.16,2.65
+Bihar,2020,6,314.1,10.47
+Bihar,2020,7,246.58,15.41
+Bihar,2020,8,204.96,6.61
+Bihar,2020,9,343.96,11.47
+Bihar,2020,10,33.28,1.07
+Bihar,2020,11,0.96,0.03
+Bihar,2020,12,0.11,0.0
+Bihar,2021,1,0.21,0.01
+Bihar,2021,2,0.61,0.02
+Bihar,2021,3,1.87,0.06
+Bihar,2021,4,6.38,0.22
+Bihar,2021,5,259.16,8.94
+Bihar,2021,6,283.06,11.79
+Bihar,2021,7,273.95,9.45
+Bihar,2021,8,345.37,11.14
+Bihar,2021,9,105.75,3.52
+Bihar,2021,10,195.73,6.31
+Bihar,2021,11,0.07,0.0
+Bihar,2021,12,11.44,0.37
+Bihar,2022,1,10.87,0.35
+Bihar,2022,2,29.96,1.11
+Bihar,2022,3,0.47,0.02
+Bihar,2022,4,13.36,0.48
+Bihar,2022,5,93.94,3.03
+Bihar,2022,6,202.16,6.74
+Bihar,2022,7,143.36,4.94
+Bihar,2022,8,179.55,5.79
+Bihar,2022,9,209.07,6.97
+Bihar,2022,10,90.83,2.93
+Bihar,2022,11,0.0,0.0
+Bihar,2022,12,0.06,0.0
+Bihar,2023,1,0.14,0.0
+Bihar,2023,2,0.0,0.0
+Bihar,2023,3,20.95,0.68
+Bihar,2023,4,13.95,0.46
+Bihar,2023,5,42.7,1.38
+Bihar,2023,6,93.52,3.22
+Bihar,2023,7,191.28,6.17
+Bihar,2023,8,323.18,10.43
+Bihar,2023,9,204.44,6.81
+Bihar,2023,10,93.33,3.01
+Bihar,2023,11,0.04,0.0
+Bihar,2023,12,7.8,0.25
+Bihar,2024,1,0.86,0.03
+Bihar,2024,2,11.83,0.41
+Bihar,2024,3,6.77,0.34
+Chandigarh,2009,1,9.5,0.31
+Chandigarh,2009,2,20.0,0.71
+Chandigarh,2009,3,20.3,0.65
+Chandigarh,2009,4,13.8,0.46
+Chandigarh,2009,5,25.9,0.84
+Chandigarh,2009,6,35.9,1.2
+Chandigarh,2009,7,201.2,6.49
+Chandigarh,2009,8,189.3,6.11
+Chandigarh,2009,9,316.0,10.53
+Chandigarh,2009,10,12.9,0.42
+Chandigarh,2009,11,13.8,0.46
+Chandigarh,2009,12,1.2,0.04
+Chandigarh,2010,1,8.1,0.26
+Chandigarh,2010,2,27.5,0.98
+Chandigarh,2010,3,0.0,0.0
+Chandigarh,2010,4,3.4,0.11
+Chandigarh,2010,5,14.0,0.45
+Chandigarh,2010,6,142.3,4.74
+Chandigarh,2010,7,385.1,12.42
+Chandigarh,2010,8,233.8,7.54
+Chandigarh,2010,9,354.9,11.83
+Chandigarh,2010,10,16.6,0.54
+Chandigarh,2010,11,1.4,0.05
+Chandigarh,2010,12,52.5,1.69
+Chandigarh,2011,1,14.8,0.48
+Chandigarh,2011,2,49.2,1.76
+Chandigarh,2011,3,15.7,0.51
+Chandigarh,2011,4,20.4,0.68
+Chandigarh,2011,5,42.2,1.36
+Chandigarh,2011,6,341.5,11.38
+Chandigarh,2011,7,508.4,16.4
+Chandigarh,2011,8,353.0,11.39
+Chandigarh,2011,9,157.4,5.25
+Chandigarh,2011,10,0.0,0.0
+Chandigarh,2011,11,0.0,0.0
+Chandigarh,2011,12,12.7,0.41
+Chandigarh,2012,1,75.2,2.43
+Chandigarh,2012,2,8.6,0.3
+Chandigarh,2012,3,4.8,0.15
+Chandigarh,2012,4,47.5,1.58
+Chandigarh,2012,5,0.9,0.03
+Chandigarh,2012,6,33.9,1.13
+Chandigarh,2012,7,326.8,10.54
+Chandigarh,2012,8,350.3,11.3
+Chandigarh,2012,9,137.6,4.59
+Chandigarh,2012,10,0.0,0.0
+Chandigarh,2012,11,2.4,0.08
+Chandigarh,2012,12,16.1,0.52
+Chandigarh,2013,1,60.7,1.96
+Chandigarh,2013,2,96.4,3.44
+Chandigarh,2013,3,21.5,0.69
+Chandigarh,2013,4,1.4,0.05
+Chandigarh,2013,5,11.7,0.38
+Chandigarh,2013,6,228.4,7.61
+Chandigarh,2013,7,215.9,6.96
+Chandigarh,2013,8,260.6,8.41
+Chandigarh,2013,9,77.8,2.59
+Chandigarh,2013,10,30.9,1.0
+Chandigarh,2013,11,10.4,0.35
+Chandigarh,2013,12,10.5,0.34
+Chandigarh,2014,1,77.5,2.5
+Chandigarh,2014,2,45.6,1.63
+Chandigarh,2014,3,77.8,2.51
+Chandigarh,2014,4,25.2,0.84
+Chandigarh,2014,5,77.4,2.5
+Chandigarh,2014,6,51.7,1.72
+Chandigarh,2014,7,185.7,5.99
+Chandigarh,2014,8,43.8,1.41
+Chandigarh,2014,9,132.3,4.41
+Chandigarh,2014,10,9.2,0.3
+Chandigarh,2014,11,0.0,0.0
+Chandigarh,2014,12,92.9,3.0
+Chandigarh,2015,1,40.6,1.31
+Chandigarh,2015,2,45.1,1.61
+Chandigarh,2015,3,118.7,3.83
+Chandigarh,2015,4,17.1,0.57
+Chandigarh,2015,5,19.1,0.62
+Chandigarh,2015,6,82.9,2.76
+Chandigarh,2015,7,278.6,8.99
+Chandigarh,2015,8,108.7,3.51
+Chandigarh,2015,9,96.2,3.21
+Chandigarh,2015,10,16.1,0.52
+Chandigarh,2015,11,0.4,0.01
+Chandigarh,2015,12,0.5,0.02
+Chandigarh,2016,1,0.0,0.0
+Chandigarh,2016,2,1.3,0.04
+Chandigarh,2016,3,49.8,1.61
+Chandigarh,2016,4,19.0,0.63
+Chandigarh,2016,5,56.5,1.82
+Chandigarh,2016,6,126.9,4.23
+Chandigarh,2016,7,116.3,3.75
+Chandigarh,2016,8,125.2,4.04
+Chandigarh,2016,9,54.8,1.83
+Chandigarh,2016,10,0.3,0.01
+Chandigarh,2016,11,0.0,0.0
+Chandigarh,2016,12,25.3,0.82
+Chandigarh,2017,1,97.1,3.13
+Chandigarh,2017,2,2.3,0.08
+Chandigarh,2017,3,21.1,0.68
+Chandigarh,2017,4,11.5,0.38
+Chandigarh,2017,5,4.9,0.16
+Chandigarh,2017,6,75.3,2.51
+Chandigarh,2017,7,203.4,6.56
+Chandigarh,2017,8,278.3,8.98
+Chandigarh,2017,9,147.2,4.91
+Chandigarh,2017,10,0.0,0.0
+Chandigarh,2017,11,0.0,0.0
+Chandigarh,2017,12,16.6,0.54
+Chandigarh,2018,1,5.7,0.18
+Chandigarh,2018,2,51.5,1.84
+Chandigarh,2018,3,3.0,0.1
+Chandigarh,2018,4,27.2,0.91
+Chandigarh,2018,5,10.7,0.35
+Chandigarh,2018,6,121.5,4.05
+Chandigarh,2018,7,287.7,9.28
+Chandigarh,2018,8,286.5,9.24
+Chandigarh,2018,9,261.2,8.71
+Chandigarh,2018,10,14.4,0.46
+Chandigarh,2018,11,8.9,0.3
+Chandigarh,2018,12,7.6,0.25
+Chandigarh,2019,1,19.7,0.64
+Chandigarh,2019,2,53.1,1.9
+Chandigarh,2019,3,25.9,0.84
+Chandigarh,2019,4,35.2,1.17
+Chandigarh,2019,5,20.1,0.65
+Chandigarh,2019,6,22.3,0.74
+Chandigarh,2019,7,306.8,9.9
+Chandigarh,2019,8,244.7,7.89
+Chandigarh,2019,9,148.1,4.94
+Chandigarh,2019,10,0.2,0.01
+Chandigarh,2019,11,31.8,1.06
+Chandigarh,2019,12,32.1,1.04
+Chandigarh,2020,1,52.6,1.7
+Chandigarh,2020,2,8.3,0.29
+Chandigarh,2020,3,81.5,2.63
+Chandigarh,2020,4,29.1,0.97
+Chandigarh,2020,5,29.2,1.04
+Chandigarh,2020,6,98.5,3.28
+Chandigarh,2020,7,196.5,12.28
+Chandigarh,2020,8,315.6,10.18
+Chandigarh,2020,9,17.8,0.59
+Chandigarh,2020,10,0.0,0.0
+Chandigarh,2020,11,29.2,0.97
+Chandigarh,2020,12,9.1,0.29
+Chandigarh,2021,1,10.5,0.34
+Chandigarh,2021,2,16.7,0.6
+Chandigarh,2021,3,7.6,0.25
+Chandigarh,2021,4,18.0,0.62
+Chandigarh,2021,5,59.4,2.05
+Chandigarh,2021,6,77.0,3.21
+Chandigarh,2021,7,197.7,6.82
+Chandigarh,2021,8,195.9,6.32
+Chandigarh,2021,9,183.8,6.13
+Chandigarh,2021,10,50.9,1.64
+Chandigarh,2021,11,0.1,0.0
+Chandigarh,2021,12,1.4,0.05
+Chandigarh,2022,1,205.7,6.64
+Chandigarh,2022,2,37.6,1.39
+Chandigarh,2022,3,0.0,0.0
+Chandigarh,2022,4,0.4,0.01
+Chandigarh,2022,5,33.1,1.07
+Chandigarh,2022,6,75.4,2.51
+Chandigarh,2022,7,405.0,13.97
+Chandigarh,2022,8,191.7,6.18
+Chandigarh,2022,9,220.6,7.35
+Chandigarh,2022,10,40.1,1.29
+Chandigarh,2022,11,0.1,0.0
+Chandigarh,2022,12,0.1,0.0
+Chandigarh,2023,1,29.3,0.98
+Chandigarh,2023,2,0.0,0.0
+Chandigarh,2023,3,79.2,2.55
+Chandigarh,2023,4,43.1,1.44
+Chandigarh,2023,5,90.3,2.91
+Chandigarh,2023,6,111.4,3.84
+Chandigarh,2023,7,810.4,26.14
+Chandigarh,2023,8,261.0,8.42
+Chandigarh,2023,9,73.0,2.43
+Chandigarh,2023,10,20.7,0.67
+Chandigarh,2023,11,18.0,0.6
+Chandigarh,2023,12,26.8,0.86
+Chandigarh,2024,1,0.0,0.0
+Chandigarh,2024,2,72.7,2.51
+Chandigarh,2024,3,27.1,1.36
+Chhattisgarh,2009,1,4.46,0.14
+Chhattisgarh,2009,2,0.2,0.01
+Chhattisgarh,2009,3,4.39,0.14
+Chhattisgarh,2009,4,5.44,0.18
+Chhattisgarh,2009,5,27.11,0.87
+Chhattisgarh,2009,6,61.52,2.05
+Chhattisgarh,2009,7,478.24,15.43
+Chhattisgarh,2009,8,274.45,8.85
+Chhattisgarh,2009,9,103.15,3.44
+Chhattisgarh,2009,10,35.68,1.15
+Chhattisgarh,2009,11,22.57,0.75
+Chhattisgarh,2009,12,0.44,0.01
+Chhattisgarh,2010,1,3.53,0.11
+Chhattisgarh,2010,2,5.43,0.19
+Chhattisgarh,2010,3,2.1,0.07
+Chhattisgarh,2010,4,12.63,0.42
+Chhattisgarh,2010,5,42.4,1.37
+Chhattisgarh,2010,6,100.86,3.36
+Chhattisgarh,2010,7,400.79,12.93
+Chhattisgarh,2010,8,297.33,9.59
+Chhattisgarh,2010,9,278.24,9.27
+Chhattisgarh,2010,10,68.61,2.21
+Chhattisgarh,2010,11,21.36,0.71
+Chhattisgarh,2010,12,26.36,0.85
+Chhattisgarh,2011,1,1.03,0.03
+Chhattisgarh,2011,2,6.21,0.22
+Chhattisgarh,2011,3,1.73,0.06
+Chhattisgarh,2011,4,37.92,1.26
+Chhattisgarh,2011,5,19.08,0.62
+Chhattisgarh,2011,6,183.39,6.11
+Chhattisgarh,2011,7,274.93,8.87
+Chhattisgarh,2011,8,381.53,12.31
+Chhattisgarh,2011,9,388.05,12.94
+Chhattisgarh,2011,10,14.68,0.47
+Chhattisgarh,2011,11,0.01,0.0
+Chhattisgarh,2011,12,2.2,0.07
+Chhattisgarh,2012,1,34.47,1.11
+Chhattisgarh,2012,2,3.45,0.12
+Chhattisgarh,2012,3,2.03,0.07
+Chhattisgarh,2012,4,13.95,0.46
+Chhattisgarh,2012,5,12.81,0.41
+Chhattisgarh,2012,6,157.51,5.25
+Chhattisgarh,2012,7,412.08,13.29
+Chhattisgarh,2012,8,444.87,14.35
+Chhattisgarh,2012,9,252.99,8.43
+Chhattisgarh,2012,10,30.36,0.98
+Chhattisgarh,2012,11,35.45,1.18
+Chhattisgarh,2012,12,5.49,0.18
+Chhattisgarh,2013,1,1.96,0.06
+Chhattisgarh,2013,2,19.94,0.71
+Chhattisgarh,2013,3,4.35,0.14
+Chhattisgarh,2013,4,45.23,1.51
+Chhattisgarh,2013,5,12.07,0.39
+Chhattisgarh,2013,6,262.36,8.75
+Chhattisgarh,2013,7,405.72,13.09
+Chhattisgarh,2013,8,328.52,10.6
+Chhattisgarh,2013,9,151.62,5.05
+Chhattisgarh,2013,10,185.02,5.97
+Chhattisgarh,2013,11,0.33,0.01
+Chhattisgarh,2013,12,0.04,0.0
+Chhattisgarh,2014,1,2.23,0.07
+Chhattisgarh,2014,2,31.7,1.13
+Chhattisgarh,2014,3,26.75,0.86
+Chhattisgarh,2014,4,13.69,0.46
+Chhattisgarh,2014,5,33.65,1.09
+Chhattisgarh,2014,6,108.99,3.63
+Chhattisgarh,2014,7,429.59,13.86
+Chhattisgarh,2014,8,332.47,10.72
+Chhattisgarh,2014,9,244.12,8.14
+Chhattisgarh,2014,10,73.36,2.37
+Chhattisgarh,2014,11,3.35,0.11
+Chhattisgarh,2014,12,1.16,0.04
+Chhattisgarh,2015,1,13.38,0.43
+Chhattisgarh,2015,2,1.06,0.04
+Chhattisgarh,2015,3,16.96,0.55
+Chhattisgarh,2015,4,45.31,1.51
+Chhattisgarh,2015,5,14.05,0.45
+Chhattisgarh,2015,6,260.87,8.7
+Chhattisgarh,2015,7,270.03,8.71
+Chhattisgarh,2015,8,295.83,9.54
+Chhattisgarh,2015,9,208.19,6.94
+Chhattisgarh,2015,10,18.81,0.61
+Chhattisgarh,2015,11,0.89,0.03
+Chhattisgarh,2015,12,2.03,0.07
+Chhattisgarh,2016,1,7.97,0.26
+Chhattisgarh,2016,2,4.69,0.16
+Chhattisgarh,2016,3,22.16,0.71
+Chhattisgarh,2016,4,4.64,0.15
+Chhattisgarh,2016,5,36.61,1.18
+Chhattisgarh,2016,6,164.23,5.47
+Chhattisgarh,2016,7,356.57,11.5
+Chhattisgarh,2016,8,348.04,11.23
+Chhattisgarh,2016,9,292.51,9.75
+Chhattisgarh,2016,10,77.18,2.49
+Chhattisgarh,2016,11,0.1,0.0
+Chhattisgarh,2016,12,0.09,0.0
+Chhattisgarh,2017,1,1.51,0.05
+Chhattisgarh,2017,2,1.26,0.04
+Chhattisgarh,2017,3,8.02,0.26
+Chhattisgarh,2017,4,1.94,0.06
+Chhattisgarh,2017,5,18.3,0.59
+Chhattisgarh,2017,6,190.18,6.34
+Chhattisgarh,2017,7,372.06,12.0
+Chhattisgarh,2017,8,292.7,9.44
+Chhattisgarh,2017,9,172.51,5.75
+Chhattisgarh,2017,10,71.0,2.29
+Chhattisgarh,2017,11,0.58,0.02
+Chhattisgarh,2017,12,0.0,0.0
+Chhattisgarh,2018,1,0.0,0.0
+Chhattisgarh,2018,2,9.04,0.32
+Chhattisgarh,2018,3,0.66,0.02
+Chhattisgarh,2018,4,29.48,0.98
+Chhattisgarh,2018,5,41.67,1.34
+Chhattisgarh,2018,6,152.39,5.08
+Chhattisgarh,2018,7,383.83,12.38
+Chhattisgarh,2018,8,409.32,13.2
+Chhattisgarh,2018,9,148.11,4.94
+Chhattisgarh,2018,10,6.08,0.2
+Chhattisgarh,2018,11,0.13,0.0
+Chhattisgarh,2018,12,46.2,1.49
+Chhattisgarh,2019,1,13.8,0.45
+Chhattisgarh,2019,2,12.36,0.44
+Chhattisgarh,2019,3,14.52,0.47
+Chhattisgarh,2019,4,14.46,0.48
+Chhattisgarh,2019,5,16.93,0.55
+Chhattisgarh,2019,6,130.7,4.36
+Chhattisgarh,2019,7,356.79,11.51
+Chhattisgarh,2019,8,404.23,13.04
+Chhattisgarh,2019,9,340.02,11.33
+Chhattisgarh,2019,10,105.37,3.4
+Chhattisgarh,2019,11,1.53,0.05
+Chhattisgarh,2019,12,4.71,0.15
+Chhattisgarh,2020,1,30.62,0.99
+Chhattisgarh,2020,2,40.28,1.39
+Chhattisgarh,2020,3,58.63,1.89
+Chhattisgarh,2020,4,33.01,1.1
+Chhattisgarh,2020,5,41.06,1.47
+Chhattisgarh,2020,6,280.18,9.34
+Chhattisgarh,2020,7,150.84,9.43
+Chhattisgarh,2020,8,507.79,16.38
+Chhattisgarh,2020,9,163.53,5.45
+Chhattisgarh,2020,10,90.35,2.91
+Chhattisgarh,2020,11,5.76,0.19
+Chhattisgarh,2020,12,1.02,0.03
+Chhattisgarh,2021,1,2.47,0.08
+Chhattisgarh,2021,2,10.5,0.37
+Chhattisgarh,2021,3,5.81,0.19
+Chhattisgarh,2021,4,13.98,0.48
+Chhattisgarh,2021,5,72.13,2.49
+Chhattisgarh,2021,6,182.15,7.59
+Chhattisgarh,2021,7,301.68,10.4
+Chhattisgarh,2021,8,210.44,6.79
+Chhattisgarh,2021,9,296.42,9.88
+Chhattisgarh,2021,10,42.82,1.38
+Chhattisgarh,2021,11,24.25,0.81
+Chhattisgarh,2021,12,28.79,0.93
+Chhattisgarh,2022,1,40.27,1.3
+Chhattisgarh,2022,2,11.55,0.43
+Chhattisgarh,2022,3,0.72,0.02
+Chhattisgarh,2022,4,9.32,0.33
+Chhattisgarh,2022,5,27.19,0.88
+Chhattisgarh,2022,6,134.08,4.47
+Chhattisgarh,2022,7,405.11,13.97
+Chhattisgarh,2022,8,442.35,14.27
+Chhattisgarh,2022,9,224.14,7.47
+Chhattisgarh,2022,10,71.6,2.31
+Chhattisgarh,2022,11,0.03,0.0
+Chhattisgarh,2022,12,2.29,0.07
+Chhattisgarh,2023,1,0.15,0.0
+Chhattisgarh,2023,2,0.0,0.0
+Chhattisgarh,2023,3,39.43,1.27
+Chhattisgarh,2023,4,43.59,1.45
+Chhattisgarh,2023,5,41.28,1.33
+Chhattisgarh,2023,6,167.27,5.77
+Chhattisgarh,2023,7,321.51,10.37
+Chhattisgarh,2023,8,245.02,7.9
+Chhattisgarh,2023,9,324.15,10.8
+Chhattisgarh,2023,10,37.57,1.21
+Chhattisgarh,2023,11,5.02,0.17
+Chhattisgarh,2023,12,31.48,1.02
+Chhattisgarh,2024,1,4.97,0.16
+Chhattisgarh,2024,2,8.15,0.28
+Chhattisgarh,2024,3,23.05,1.15
+Delhi,2009,1,2.35,0.08
+Delhi,2009,2,2.77,0.1
+Delhi,2009,3,4.17,0.13
+Delhi,2009,4,1.92,0.06
+Delhi,2009,5,28.9,0.93
+Delhi,2009,6,14.32,0.48
+Delhi,2009,7,105.84,3.41
+Delhi,2009,8,118.33,3.82
+Delhi,2009,9,149.0,4.97
+Delhi,2009,10,3.35,0.11
+Delhi,2009,11,5.9,0.2
+Delhi,2009,12,1.43,0.05
+Delhi,2010,1,3.48,0.11
+Delhi,2010,2,15.82,0.57
+Delhi,2010,3,0.0,0.0
+Delhi,2010,4,0.15,0.0
+Delhi,2010,5,3.81,0.12
+Delhi,2010,6,5.06,0.17
+Delhi,2010,7,135.55,4.37
+Delhi,2010,8,304.87,9.83
+Delhi,2010,9,275.28,9.18
+Delhi,2010,10,8.92,0.29
+Delhi,2010,11,9.65,0.32
+Delhi,2010,12,4.16,0.13
+Delhi,2011,1,0.0,0.0
+Delhi,2011,2,25.99,0.93
+Delhi,2011,3,1.34,0.04
+Delhi,2011,4,6.32,0.21
+Delhi,2011,5,38.29,1.24
+Delhi,2011,6,75.7,2.52
+Delhi,2011,7,150.64,4.86
+Delhi,2011,8,164.19,5.3
+Delhi,2011,9,113.59,3.79
+Delhi,2011,10,0.0,0.0
+Delhi,2011,11,0.0,0.0
+Delhi,2011,12,0.78,0.03
+Delhi,2012,1,9.64,0.31
+Delhi,2012,2,0.0,0.0
+Delhi,2012,3,8.15,0.26
+Delhi,2012,4,18.88,0.63
+Delhi,2012,5,3.04,0.1
+Delhi,2012,6,0.28,0.01
+Delhi,2012,7,106.98,3.45
+Delhi,2012,8,176.33,5.69
+Delhi,2012,9,105.66,3.52
+Delhi,2012,10,2.28,0.07
+Delhi,2012,11,0.46,0.02
+Delhi,2012,12,4.9,0.16
+Delhi,2013,1,26.3,0.85
+Delhi,2013,2,75.3,2.69
+Delhi,2013,3,8.07,0.26
+Delhi,2013,4,5.42,0.18
+Delhi,2013,5,0.29,0.01
+Delhi,2013,6,89.04,2.97
+Delhi,2013,7,190.01,6.13
+Delhi,2013,8,207.16,6.68
+Delhi,2013,9,49.81,1.66
+Delhi,2013,10,32.47,1.05
+Delhi,2013,11,0.19,0.01
+Delhi,2013,12,3.0,0.1
+Delhi,2014,1,13.13,0.42
+Delhi,2014,2,41.88,1.5
+Delhi,2014,3,44.27,1.43
+Delhi,2014,4,8.96,0.3
+Delhi,2014,5,34.96,1.13
+Delhi,2014,6,27.35,0.91
+Delhi,2014,7,104.25,3.36
+Delhi,2014,8,64.98,2.1
+Delhi,2014,9,68.47,2.28
+Delhi,2014,10,0.78,0.03
+Delhi,2014,11,0.0,0.0
+Delhi,2014,12,11.63,0.38
+Delhi,2015,1,21.97,0.71
+Delhi,2015,2,1.14,0.04
+Delhi,2015,3,96.93,3.13
+Delhi,2015,4,28.01,0.93
+Delhi,2015,5,7.86,0.25
+Delhi,2015,6,68.15,2.27
+Delhi,2015,7,225.55,7.28
+Delhi,2015,8,212.77,6.86
+Delhi,2015,9,19.96,0.67
+Delhi,2015,10,0.9,0.03
+Delhi,2015,11,1.09,0.04
+Delhi,2015,12,0.0,0.0
+Delhi,2016,1,0.0,0.0
+Delhi,2016,2,0.3,0.01
+Delhi,2016,3,16.22,0.52
+Delhi,2016,4,0.1,0.0
+Delhi,2016,5,26.71,0.86
+Delhi,2016,6,30.95,1.03
+Delhi,2016,7,247.78,7.99
+Delhi,2016,8,123.21,3.97
+Delhi,2016,9,48.48,1.62
+Delhi,2016,10,11.67,0.38
+Delhi,2016,11,0.0,0.0
+Delhi,2016,12,0.0,0.0
+Delhi,2017,1,27.94,0.9
+Delhi,2017,2,0.0,0.0
+Delhi,2017,3,9.98,0.32
+Delhi,2017,4,11.31,0.38
+Delhi,2017,5,17.39,0.56
+Delhi,2017,6,106.92,3.56
+Delhi,2017,7,126.6,4.08
+Delhi,2017,8,86.52,2.79
+Delhi,2017,9,119.2,3.97
+Delhi,2017,10,0.0,0.0
+Delhi,2017,11,0.37,0.01
+Delhi,2017,12,6.2,0.2
+Delhi,2018,1,3.19,0.1
+Delhi,2018,2,0.0,0.0
+Delhi,2018,3,0.0,0.0
+Delhi,2018,4,8.56,0.29
+Delhi,2018,5,9.92,0.32
+Delhi,2018,6,45.25,1.51
+Delhi,2018,7,203.67,6.57
+Delhi,2018,8,116.47,3.76
+Delhi,2018,9,151.84,5.06
+Delhi,2018,10,0.0,0.0
+Delhi,2018,11,4.61,0.15
+Delhi,2018,12,0.47,0.02
+Delhi,2019,1,34.1,1.1
+Delhi,2019,2,29.67,1.06
+Delhi,2019,3,7.26,0.23
+Delhi,2019,4,5.24,0.17
+Delhi,2019,5,25.28,0.82
+Delhi,2019,6,9.73,0.32
+Delhi,2019,7,144.58,4.66
+Delhi,2019,8,135.48,4.37
+Delhi,2019,9,56.32,1.88
+Delhi,2019,10,20.13,0.65
+Delhi,2019,11,2.35,0.08
+Delhi,2019,12,29.33,0.95
+Delhi,2020,1,30.17,0.97
+Delhi,2020,2,0.98,0.03
+Delhi,2020,3,75.97,2.45
+Delhi,2020,4,10.04,0.33
+Delhi,2020,5,21.55,0.77
+Delhi,2020,6,50.51,1.68
+Delhi,2020,7,55.22,3.45
+Delhi,2020,8,218.4,7.05
+Delhi,2020,9,20.47,0.68
+Delhi,2020,10,0.0,0.0
+Delhi,2020,11,1.43,0.05
+Delhi,2020,12,0.68,0.02
+Delhi,2021,1,37.11,1.2
+Delhi,2021,2,2.18,0.08
+Delhi,2021,3,2.93,0.09
+Delhi,2021,4,2.16,0.07
+Delhi,2021,5,105.64,3.64
+Delhi,2021,6,24.88,1.04
+Delhi,2021,7,255.94,8.83
+Delhi,2021,8,196.75,6.35
+Delhi,2021,9,265.96,8.87
+Delhi,2021,10,74.34,2.4
+Delhi,2021,11,0.0,0.0
+Delhi,2021,12,4.49,0.14
+Delhi,2022,1,71.83,2.32
+Delhi,2022,2,17.57,0.65
+Delhi,2022,3,0.0,0.0
+Delhi,2022,4,0.12,0.0
+Delhi,2022,5,54.62,1.76
+Delhi,2022,6,22.06,0.74
+Delhi,2022,7,184.77,6.37
+Delhi,2022,8,57.76,1.86
+Delhi,2022,9,160.62,5.35
+Delhi,2022,10,99.19,3.2
+Delhi,2022,11,0.0,0.0
+Delhi,2022,12,0.0,0.0
+Delhi,2023,1,14.1,0.47
+Delhi,2023,2,0.0,0.0
+Delhi,2023,3,53.18,1.72
+Delhi,2023,4,7.64,0.25
+Delhi,2023,5,81.33,2.62
+Delhi,2023,6,112.6,3.88
+Delhi,2023,7,277.11,8.94
+Delhi,2023,8,89.19,2.88
+Delhi,2023,9,96.26,3.21
+Delhi,2023,10,6.13,0.2
+Delhi,2023,11,8.94,0.3
+Delhi,2023,12,0.07,0.0
+Delhi,2024,1,0.05,0.0
+Delhi,2024,2,24.43,0.84
+Delhi,2024,3,8.77,0.44
+Goa,2009,1,0.16,0.01
+Goa,2009,2,0.0,0.0
+Goa,2009,3,20.07,0.65
+Goa,2009,4,15.48,0.52
+Goa,2009,5,32.23,1.04
+Goa,2009,6,507.27,16.91
+Goa,2009,7,2159.37,69.66
+Goa,2009,8,504.76,16.28
+Goa,2009,9,549.79,18.33
+Goa,2009,10,301.31,9.72
+Goa,2009,11,112.76,3.76
+Goa,2009,12,5.02,0.16
+Goa,2010,1,23.07,0.74
+Goa,2010,2,0.0,0.0
+Goa,2010,3,1.24,0.04
+Goa,2010,4,11.32,0.38
+Goa,2010,5,48.63,1.57
+Goa,2010,6,686.76,22.89
+Goa,2010,7,1217.43,39.27
+Goa,2010,8,796.48,25.69
+Goa,2010,9,559.31,18.64
+Goa,2010,10,263.7,8.51
+Goa,2010,11,201.15,6.7
+Goa,2010,12,3.93,0.13
+Goa,2011,1,0.0,0.0
+Goa,2011,2,0.01,0.0
+Goa,2011,3,0.0,0.0
+Goa,2011,4,17.4,0.58
+Goa,2011,5,7.7,0.25
+Goa,2011,6,1280.13,42.67
+Goa,2011,7,1312.04,42.32
+Goa,2011,8,968.12,31.23
+Goa,2011,9,569.32,18.98
+Goa,2011,10,139.17,4.49
+Goa,2011,11,37.72,1.26
+Goa,2011,12,0.0,0.0
+Goa,2012,1,0.0,0.0
+Goa,2012,2,0.0,0.0
+Goa,2012,3,0.0,0.0
+Goa,2012,4,7.24,0.24
+Goa,2012,5,0.73,0.02
+Goa,2012,6,987.79,32.93
+Goa,2012,7,1002.62,32.34
+Goa,2012,8,910.84,29.38
+Goa,2012,9,337.99,11.27
+Goa,2012,10,131.37,4.24
+Goa,2012,11,24.42,0.81
+Goa,2012,12,0.05,0.0
+Goa,2013,1,0.0,0.0
+Goa,2013,2,18.03,0.64
+Goa,2013,3,0.88,0.03
+Goa,2013,4,3.57,0.12
+Goa,2013,5,61.18,1.97
+Goa,2013,6,921.82,30.73
+Goa,2013,7,1860.39,60.01
+Goa,2013,8,625.45,20.18
+Goa,2013,9,354.15,11.8
+Goa,2013,10,165.91,5.35
+Goa,2013,11,8.46,0.28
+Goa,2013,12,0.0,0.0
+Goa,2014,1,0.0,0.0
+Goa,2014,2,0.29,0.01
+Goa,2014,3,0.48,0.02
+Goa,2014,4,13.25,0.44
+Goa,2014,5,116.93,3.77
+Goa,2014,6,444.63,14.82
+Goa,2014,7,1357.8,43.8
+Goa,2014,8,1070.79,34.54
+Goa,2014,9,427.65,14.26
+Goa,2014,10,231.2,7.46
+Goa,2014,11,17.95,0.6
+Goa,2014,12,23.03,0.74
+Goa,2015,1,2.59,0.08
+Goa,2015,2,0.0,0.0
+Goa,2015,3,40.95,1.32
+Goa,2015,4,9.9,0.33
+Goa,2015,5,65.73,2.12
+Goa,2015,6,754.09,25.14
+Goa,2015,7,720.25,23.23
+Goa,2015,8,498.02,16.07
+Goa,2015,9,237.89,7.93
+Goa,2015,10,146.04,4.71
+Goa,2015,11,24.08,0.8
+Goa,2015,12,0.1,0.0
+Goa,2016,1,0.44,0.01
+Goa,2016,2,0.81,0.03
+Goa,2016,3,0.84,0.03
+Goa,2016,4,2.42,0.08
+Goa,2016,5,21.76,0.7
+Goa,2016,6,876.74,29.22
+Goa,2016,7,882.94,28.48
+Goa,2016,8,579.87,18.71
+Goa,2016,9,295.38,9.85
+Goa,2016,10,82.12,2.65
+Goa,2016,11,6.19,0.21
+Goa,2016,12,1.21,0.04
+Goa,2017,1,0.0,0.0
+Goa,2017,2,0.0,0.0
+Goa,2017,3,0.1,0.0
+Goa,2017,4,2.85,0.1
+Goa,2017,5,86.79,2.8
+Goa,2017,6,764.53,25.48
+Goa,2017,7,904.48,29.18
+Goa,2017,8,448.01,14.45
+Goa,2017,9,330.94,11.03
+Goa,2017,10,143.56,4.63
+Goa,2017,11,2.8,0.09
+Goa,2017,12,8.74,0.28
+Goa,2018,1,0.0,0.0
+Goa,2018,2,1.18,0.04
+Goa,2018,3,4.88,0.16
+Goa,2018,4,12.95,0.43
+Goa,2018,5,134.84,4.35
+Goa,2018,6,896.31,29.88
+Goa,2018,7,1133.77,36.57
+Goa,2018,8,755.6,24.37
+Goa,2018,9,113.79,3.79
+Goa,2018,10,100.96,3.26
+Goa,2018,11,7.49,0.25
+Goa,2018,12,3.18,0.1
+Goa,2019,1,0.0,0.0
+Goa,2019,2,0.0,0.0
+Goa,2019,3,1.46,0.05
+Goa,2019,4,7.39,0.25
+Goa,2019,5,5.12,0.17
+Goa,2019,6,656.2,21.87
+Goa,2019,7,1384.22,44.65
+Goa,2019,8,1358.75,43.83
+Goa,2019,9,666.65,22.22
+Goa,2019,10,533.97,17.22
+Goa,2019,11,45.47,1.52
+Goa,2019,12,1.01,0.03
+Goa,2020,1,0.03,0.0
+Goa,2020,2,0.0,0.0
+Goa,2020,3,3.7,0.12
+Goa,2020,4,22.57,0.75
+Goa,2020,5,22.28,0.8
+Goa,2020,6,921.27,30.71
+Goa,2020,7,775.13,48.45
+Goa,2020,8,1348.5,43.5
+Goa,2020,9,690.37,23.01
+Goa,2020,10,245.56,7.92
+Goa,2020,11,0.28,0.01
+Goa,2020,12,18.04,0.58
+Goa,2021,1,22.83,0.74
+Goa,2021,2,12.43,0.44
+Goa,2021,3,3.2,0.1
+Goa,2021,4,19.03,0.66
+Goa,2021,5,333.72,11.51
+Goa,2021,6,880.58,36.69
+Goa,2021,7,1071.93,36.96
+Goa,2021,8,411.89,13.29
+Goa,2021,9,611.55,20.38
+Goa,2021,10,222.68,7.18
+Goa,2021,11,176.01,5.87
+Goa,2021,12,71.64,2.31
+Goa,2022,1,0.72,0.02
+Goa,2022,2,0.0,0.0
+Goa,2022,3,6.16,0.21
+Goa,2022,4,36.83,1.32
+Goa,2022,5,117.74,3.8
+Goa,2022,6,749.55,24.98
+Goa,2022,7,1316.87,45.41
+Goa,2022,8,650.06,20.97
+Goa,2022,9,436.34,14.54
+Goa,2022,10,166.49,5.37
+Goa,2022,11,15.2,0.51
+Goa,2022,12,7.46,0.24
+Goa,2023,1,0.0,0.0
+Goa,2023,2,0.0,0.0
+Goa,2023,3,0.56,0.02
+Goa,2023,4,2.19,0.07
+Goa,2023,5,28.29,0.91
+Goa,2023,6,522.05,18.0
+Goa,2023,7,2059.91,66.45
+Goa,2023,8,334.74,10.8
+Goa,2023,9,504.46,16.82
+Goa,2023,10,154.34,4.98
+Goa,2023,11,66.44,2.21
+Goa,2023,12,0.02,0.0
+Goa,2024,1,3.67,0.12
+Goa,2024,2,0.0,0.0
+Goa,2024,3,0.0,0.0
+Gujarat,2009,1,0.0,0.0
+Gujarat,2009,2,0.0,0.0
+Gujarat,2009,3,0.91,0.03
+Gujarat,2009,4,0.0,0.0
+Gujarat,2009,5,0.06,0.0
+Gujarat,2009,6,47.7,1.59
+Gujarat,2009,7,392.39,12.66
+Gujarat,2009,8,123.87,4.0
+Gujarat,2009,9,32.71,1.09
+Gujarat,2009,10,14.97,0.48
+Gujarat,2009,11,7.33,0.24
+Gujarat,2009,12,0.51,0.02
+Gujarat,2010,1,0.17,0.01
+Gujarat,2010,2,0.15,0.01
+Gujarat,2010,3,0.0,0.0
+Gujarat,2010,4,0.0,0.0
+Gujarat,2010,5,0.23,0.01
+Gujarat,2010,6,65.82,2.19
+Gujarat,2010,7,352.68,11.38
+Gujarat,2010,8,365.43,11.79
+Gujarat,2010,9,186.48,6.22
+Gujarat,2010,10,7.16,0.23
+Gujarat,2010,11,57.08,1.9
+Gujarat,2010,12,0.12,0.0
+Gujarat,2011,1,0.0,0.0
+Gujarat,2011,2,1.06,0.04
+Gujarat,2011,3,0.0,0.0
+Gujarat,2011,4,0.0,0.0
+Gujarat,2011,5,0.07,0.0
+Gujarat,2011,6,84.63,2.82
+Gujarat,2011,7,316.9,10.22
+Gujarat,2011,8,459.86,14.83
+Gujarat,2011,9,184.48,6.15
+Gujarat,2011,10,9.92,0.32
+Gujarat,2011,11,0.0,0.0
+Gujarat,2011,12,0.0,0.0
+Gujarat,2012,1,0.0,0.0
+Gujarat,2012,2,0.0,0.0
+Gujarat,2012,3,0.0,0.0
+Gujarat,2012,4,0.63,0.02
+Gujarat,2012,5,0.47,0.02
+Gujarat,2012,6,32.52,1.08
+Gujarat,2012,7,116.97,3.77
+Gujarat,2012,8,140.35,4.53
+Gujarat,2012,9,271.72,9.06
+Gujarat,2012,10,6.19,0.2
+Gujarat,2012,11,0.0,0.0
+Gujarat,2012,12,0.63,0.02
+Gujarat,2013,1,1.2,0.04
+Gujarat,2013,2,0.8,0.03
+Gujarat,2013,3,0.0,0.0
+Gujarat,2013,4,9.12,0.3
+Gujarat,2013,5,0.08,0.0
+Gujarat,2013,6,163.77,5.46
+Gujarat,2013,7,333.93,10.77
+Gujarat,2013,8,167.46,5.4
+Gujarat,2013,9,295.55,9.85
+Gujarat,2013,10,50.93,1.64
+Gujarat,2013,11,0.04,0.0
+Gujarat,2013,12,0.0,0.0
+Gujarat,2014,1,4.89,0.16
+Gujarat,2014,2,0.22,0.01
+Gujarat,2014,3,0.27,0.01
+Gujarat,2014,4,1.2,0.04
+Gujarat,2014,5,2.67,0.09
+Gujarat,2014,6,19.64,0.65
+Gujarat,2014,7,250.75,8.09
+Gujarat,2014,8,149.51,4.82
+Gujarat,2014,9,194.18,6.47
+Gujarat,2014,10,5.29,0.17
+Gujarat,2014,11,3.09,0.1
+Gujarat,2014,12,0.13,0.0
+Gujarat,2015,1,1.24,0.04
+Gujarat,2015,2,0.01,0.0
+Gujarat,2015,3,6.58,0.21
+Gujarat,2015,4,4.24,0.14
+Gujarat,2015,5,0.87,0.03
+Gujarat,2015,6,145.99,4.87
+Gujarat,2015,7,334.92,10.8
+Gujarat,2015,8,26.67,0.86
+Gujarat,2015,9,98.81,3.29
+Gujarat,2015,10,3.08,0.1
+Gujarat,2015,11,0.44,0.01
+Gujarat,2015,12,0.0,0.0
+Gujarat,2016,1,0.0,0.0
+Gujarat,2016,2,0.0,0.0
+Gujarat,2016,3,0.33,0.01
+Gujarat,2016,4,0.0,0.0
+Gujarat,2016,5,0.78,0.03
+Gujarat,2016,6,32.66,1.09
+Gujarat,2016,7,180.51,5.82
+Gujarat,2016,8,268.38,8.66
+Gujarat,2016,9,78.86,2.63
+Gujarat,2016,10,69.44,2.24
+Gujarat,2016,11,0.0,0.0
+Gujarat,2016,12,0.0,0.0
+Gujarat,2017,1,0.0,0.0
+Gujarat,2017,2,0.02,0.0
+Gujarat,2017,3,0.0,0.0
+Gujarat,2017,4,0.03,0.0
+Gujarat,2017,5,0.45,0.01
+Gujarat,2017,6,110.38,3.68
+Gujarat,2017,7,490.01,15.81
+Gujarat,2017,8,162.05,5.23
+Gujarat,2017,9,53.55,1.78
+Gujarat,2017,10,10.74,0.35
+Gujarat,2017,11,0.0,0.0
+Gujarat,2017,12,5.65,0.18
+Gujarat,2018,1,0.0,0.0
+Gujarat,2018,2,0.0,0.0
+Gujarat,2018,3,0.0,0.0
+Gujarat,2018,4,0.23,0.01
+Gujarat,2018,5,0.01,0.0
+Gujarat,2018,6,44.59,1.49
+Gujarat,2018,7,282.49,9.11
+Gujarat,2018,8,119.22,3.85
+Gujarat,2018,9,30.39,1.01
+Gujarat,2018,10,0.75,0.02
+Gujarat,2018,11,0.01,0.0
+Gujarat,2018,12,0.0,0.0
+Gujarat,2019,1,0.02,0.0
+Gujarat,2019,2,0.29,0.01
+Gujarat,2019,3,0.0,0.0
+Gujarat,2019,4,0.75,0.02
+Gujarat,2019,5,0.24,0.01
+Gujarat,2019,6,85.36,2.85
+Gujarat,2019,7,189.05,6.1
+Gujarat,2019,8,409.43,13.21
+Gujarat,2019,9,307.57,10.25
+Gujarat,2019,10,55.68,1.8
+Gujarat,2019,11,21.74,0.72
+Gujarat,2019,12,1.0,0.03
+Gujarat,2020,1,0.07,0.0
+Gujarat,2020,2,0.0,0.0
+Gujarat,2020,3,1.92,0.06
+Gujarat,2020,4,0.18,0.01
+Gujarat,2020,5,0.34,0.01
+Gujarat,2020,6,116.73,3.89
+Gujarat,2020,7,167.91,10.49
+Gujarat,2020,8,607.33,19.59
+Gujarat,2020,9,116.43,3.88
+Gujarat,2020,10,22.24,0.72
+Gujarat,2020,11,0.02,0.0
+Gujarat,2020,12,7.0,0.23
+Gujarat,2021,1,1.19,0.04
+Gujarat,2021,2,0.06,0.0
+Gujarat,2021,3,0.0,0.0
+Gujarat,2021,4,1.18,0.04
+Gujarat,2021,5,50.39,1.74
+Gujarat,2021,6,72.62,3.03
+Gujarat,2021,7,134.4,4.63
+Gujarat,2021,8,48.56,1.57
+Gujarat,2021,9,394.54,13.15
+Gujarat,2021,10,24.33,0.78
+Gujarat,2021,11,13.49,0.45
+Gujarat,2021,12,11.03,0.36
+Gujarat,2022,1,1.79,0.06
+Gujarat,2022,2,0.0,0.0
+Gujarat,2022,3,0.01,0.0
+Gujarat,2022,4,0.03,0.0
+Gujarat,2022,5,0.06,0.0
+Gujarat,2022,6,50.98,1.7
+Gujarat,2022,7,461.71,15.92
+Gujarat,2022,8,242.98,7.84
+Gujarat,2022,9,134.31,4.48
+Gujarat,2022,10,21.12,0.68
+Gujarat,2022,11,0.0,0.0
+Gujarat,2022,12,0.22,0.01
+Gujarat,2023,1,1.9,0.06
+Gujarat,2023,2,0.0,0.0
+Gujarat,2023,3,12.66,0.41
+Gujarat,2023,4,5.59,0.19
+Gujarat,2023,5,16.76,0.54
+Gujarat,2023,6,198.72,6.85
+Gujarat,2023,7,416.83,13.45
+Gujarat,2023,8,23.62,0.76
+Gujarat,2023,9,186.12,6.2
+Gujarat,2023,10,2.23,0.07
+Gujarat,2023,11,24.03,0.8
+Gujarat,2023,12,1.03,0.03
+Gujarat,2024,1,0.67,0.02
+Gujarat,2024,2,0.0,0.0
+Gujarat,2024,3,2.64,0.13
+Haryana,2009,1,6.28,0.2
+Haryana,2009,2,6.77,0.24
+Haryana,2009,3,8.82,0.28
+Haryana,2009,4,13.18,0.44
+Haryana,2009,5,14.24,0.46
+Haryana,2009,6,24.54,0.82
+Haryana,2009,7,108.49,3.5
+Haryana,2009,8,66.66,2.15
+Haryana,2009,9,192.74,6.42
+Haryana,2009,10,2.62,0.08
+Haryana,2009,11,1.73,0.06
+Haryana,2009,12,0.36,0.01
+Haryana,2010,1,7.31,0.24
+Haryana,2010,2,14.24,0.51
+Haryana,2010,3,0.37,0.01
+Haryana,2010,4,0.71,0.02
+Haryana,2010,5,7.98,0.26
+Haryana,2010,6,25.2,0.84
+Haryana,2010,7,200.02,6.45
+Haryana,2010,8,202.42,6.53
+Haryana,2010,9,207.09,6.9
+Haryana,2010,10,2.2,0.07
+Haryana,2010,11,3.07,0.1
+Haryana,2010,12,13.93,0.45
+Haryana,2011,1,1.02,0.03
+Haryana,2011,2,25.22,0.9
+Haryana,2011,3,5.18,0.17
+Haryana,2011,4,5.58,0.19
+Haryana,2011,5,26.1,0.84
+Haryana,2011,6,122.36,4.08
+Haryana,2011,7,119.96,3.87
+Haryana,2011,8,169.09,5.45
+Haryana,2011,9,174.14,5.8
+Haryana,2011,10,0.04,0.0
+Haryana,2011,11,0.0,0.0
+Haryana,2011,12,1.11,0.04
+Haryana,2012,1,6.47,0.21
+Haryana,2012,2,0.7,0.02
+Haryana,2012,3,1.82,0.06
+Haryana,2012,4,14.0,0.47
+Haryana,2012,5,6.39,0.21
+Haryana,2012,6,6.18,0.21
+Haryana,2012,7,106.14,3.42
+Haryana,2012,8,249.94,8.06
+Haryana,2012,9,78.39,2.61
+Haryana,2012,10,1.11,0.04
+Haryana,2012,11,1.12,0.04
+Haryana,2012,12,5.67,0.18
+Haryana,2013,1,31.23,1.01
+Haryana,2013,2,84.7,3.02
+Haryana,2013,3,8.27,0.27
+Haryana,2013,4,3.88,0.13
+Haryana,2013,5,1.81,0.06
+Haryana,2013,6,98.69,3.29
+Haryana,2013,7,109.73,3.54
+Haryana,2013,8,192.45,6.21
+Haryana,2013,9,38.5,1.28
+Haryana,2013,10,17.74,0.57
+Haryana,2013,11,2.06,0.07
+Haryana,2013,12,2.98,0.1
+Haryana,2014,1,22.45,0.72
+Haryana,2014,2,20.55,0.73
+Haryana,2014,3,34.55,1.11
+Haryana,2014,4,8.23,0.27
+Haryana,2014,5,22.61,0.73
+Haryana,2014,6,32.05,1.07
+Haryana,2014,7,83.35,2.69
+Haryana,2014,8,45.34,1.46
+Haryana,2014,9,78.95,2.63
+Haryana,2014,10,12.1,0.39
+Haryana,2014,11,0.19,0.01
+Haryana,2014,12,11.81,0.38
+Haryana,2015,1,12.27,0.4
+Haryana,2015,2,7.99,0.29
+Haryana,2015,3,77.4,2.5
+Haryana,2015,4,39.29,1.31
+Haryana,2015,5,9.76,0.31
+Haryana,2015,6,48.26,1.61
+Haryana,2015,7,151.53,4.89
+Haryana,2015,8,106.29,3.43
+Haryana,2015,9,34.82,1.16
+Haryana,2015,10,4.05,0.13
+Haryana,2015,11,2.53,0.08
+Haryana,2015,12,0.86,0.03
+Haryana,2016,1,0.04,0.0
+Haryana,2016,2,1.81,0.06
+Haryana,2016,3,22.77,0.73
+Haryana,2016,4,1.09,0.04
+Haryana,2016,5,29.23,0.94
+Haryana,2016,6,38.33,1.28
+Haryana,2016,7,166.21,5.36
+Haryana,2016,8,128.67,4.15
+Haryana,2016,9,14.18,0.47
+Haryana,2016,10,4.74,0.15
+Haryana,2016,11,0.0,0.0
+Haryana,2016,12,0.84,0.03
+Haryana,2017,1,44.05,1.42
+Haryana,2017,2,0.61,0.02
+Haryana,2017,3,8.53,0.28
+Haryana,2017,4,5.34,0.18
+Haryana,2017,5,10.78,0.35
+Haryana,2017,6,138.76,4.63
+Haryana,2017,7,75.79,2.44
+Haryana,2017,8,91.22,2.94
+Haryana,2017,9,89.21,2.97
+Haryana,2017,10,0.0,0.0
+Haryana,2017,11,1.58,0.05
+Haryana,2017,12,4.56,0.15
+Haryana,2018,1,6.14,0.2
+Haryana,2018,2,6.75,0.24
+Haryana,2018,3,0.61,0.02
+Haryana,2018,4,11.43,0.38
+Haryana,2018,5,13.07,0.42
+Haryana,2018,6,69.1,2.3
+Haryana,2018,7,174.0,5.61
+Haryana,2018,8,94.57,3.05
+Haryana,2018,9,133.25,4.44
+Haryana,2018,10,3.33,0.11
+Haryana,2018,11,2.27,0.08
+Haryana,2018,12,4.71,0.15
+Haryana,2019,1,17.48,0.56
+Haryana,2019,2,20.8,0.74
+Haryana,2019,3,8.24,0.27
+Haryana,2019,4,12.5,0.42
+Haryana,2019,5,17.72,0.57
+Haryana,2019,6,19.99,0.67
+Haryana,2019,7,146.22,4.72
+Haryana,2019,8,96.9,3.13
+Haryana,2019,9,26.07,0.87
+Haryana,2019,10,7.32,0.24
+Haryana,2019,11,14.36,0.48
+Haryana,2019,12,12.35,0.4
+Haryana,2020,1,27.86,0.9
+Haryana,2020,2,7.63,0.26
+Haryana,2020,3,71.41,2.3
+Haryana,2020,4,8.91,0.3
+Haryana,2020,5,35.91,1.28
+Haryana,2020,6,49.14,1.64
+Haryana,2020,7,96.81,6.05
+Haryana,2020,8,146.93,4.74
+Haryana,2020,9,23.66,0.79
+Haryana,2020,10,0.0,0.0
+Haryana,2020,11,8.73,0.29
+Haryana,2020,12,3.06,0.1
+Haryana,2021,1,22.93,0.74
+Haryana,2021,2,5.89,0.21
+Haryana,2021,3,4.06,0.13
+Haryana,2021,4,4.98,0.17
+Haryana,2021,5,48.7,1.68
+Haryana,2021,6,49.31,2.05
+Haryana,2021,7,238.87,8.24
+Haryana,2021,8,85.13,2.75
+Haryana,2021,9,191.15,6.37
+Haryana,2021,10,28.1,0.91
+Haryana,2021,11,0.04,0.0
+Haryana,2021,12,2.59,0.08
+Haryana,2022,1,80.75,2.6
+Haryana,2022,2,19.49,0.72
+Haryana,2022,3,0.23,0.01
+Haryana,2022,4,0.52,0.02
+Haryana,2022,5,37.67,1.22
+Haryana,2022,6,43.13,1.44
+Haryana,2022,7,221.97,7.65
+Haryana,2022,8,77.39,2.5
+Haryana,2022,9,158.66,5.29
+Haryana,2022,10,38.57,1.24
+Haryana,2022,11,0.21,0.01
+Haryana,2022,12,0.05,0.0
+Haryana,2023,1,12.84,0.43
+Haryana,2023,2,0.01,0.0
+Haryana,2023,3,46.49,1.5
+Haryana,2023,4,15.73,0.52
+Haryana,2023,5,59.88,1.93
+Haryana,2023,6,90.88,3.13
+Haryana,2023,7,261.71,8.44
+Haryana,2023,8,62.59,2.02
+Haryana,2023,9,39.68,1.32
+Haryana,2023,10,10.31,0.33
+Haryana,2023,11,4.84,0.16
+Haryana,2023,12,1.89,0.06
+Haryana,2024,1,0.02,0.0
+Haryana,2024,2,18.38,0.63
+Haryana,2024,3,18.65,0.93
+Himachal Pradesh,2009,1,45.22,1.46
+Himachal Pradesh,2009,2,48.65,1.74
+Himachal Pradesh,2009,3,43.68,1.41
+Himachal Pradesh,2009,4,55.7,1.86
+Himachal Pradesh,2009,5,46.17,1.49
+Himachal Pradesh,2009,6,55.12,1.84
+Himachal Pradesh,2009,7,191.9,6.19
+Himachal Pradesh,2009,8,166.91,5.38
+Himachal Pradesh,2009,9,166.71,5.56
+Himachal Pradesh,2009,10,16.65,0.54
+Himachal Pradesh,2009,11,71.89,2.4
+Himachal Pradesh,2009,12,8.19,0.26
+Himachal Pradesh,2010,1,17.44,0.56
+Himachal Pradesh,2010,2,106.61,3.81
+Himachal Pradesh,2010,3,25.03,0.81
+Himachal Pradesh,2010,4,34.31,1.14
+Himachal Pradesh,2010,5,72.34,2.33
+Himachal Pradesh,2010,6,132.38,4.41
+Himachal Pradesh,2010,7,311.11,10.04
+Himachal Pradesh,2010,8,349.38,11.27
+Himachal Pradesh,2010,9,231.52,7.72
+Himachal Pradesh,2010,10,28.49,0.92
+Himachal Pradesh,2010,11,9.93,0.33
+Himachal Pradesh,2010,12,67.96,2.19
+Himachal Pradesh,2011,1,32.43,1.05
+Himachal Pradesh,2011,2,91.01,3.25
+Himachal Pradesh,2011,3,54.65,1.76
+Himachal Pradesh,2011,4,47.35,1.58
+Himachal Pradesh,2011,5,41.55,1.34
+Himachal Pradesh,2011,6,142.95,4.76
+Himachal Pradesh,2011,7,219.05,7.07
+Himachal Pradesh,2011,8,198.8,6.41
+Himachal Pradesh,2011,9,81.93,2.73
+Himachal Pradesh,2011,10,19.74,0.64
+Himachal Pradesh,2011,11,9.4,0.31
+Himachal Pradesh,2011,12,20.66,0.67
+Himachal Pradesh,2012,1,89.42,2.88
+Himachal Pradesh,2012,2,62.67,2.16
+Himachal Pradesh,2012,3,36.78,1.19
+Himachal Pradesh,2012,4,68.64,2.29
+Himachal Pradesh,2012,5,24.73,0.8
+Himachal Pradesh,2012,6,22.63,0.75
+Himachal Pradesh,2012,7,196.69,6.34
+Himachal Pradesh,2012,8,267.81,8.64
+Himachal Pradesh,2012,9,144.73,4.82
+Himachal Pradesh,2012,10,1.94,0.06
+Himachal Pradesh,2012,11,2.51,0.08
+Himachal Pradesh,2012,12,12.34,0.4
+Himachal Pradesh,2013,1,87.17,2.81
+Himachal Pradesh,2013,2,186.6,6.66
+Himachal Pradesh,2013,3,83.73,2.7
+Himachal Pradesh,2013,4,29.72,0.99
+Himachal Pradesh,2013,5,30.12,0.97
+Himachal Pradesh,2013,6,290.14,9.67
+Himachal Pradesh,2013,7,253.34,8.17
+Himachal Pradesh,2013,8,279.7,9.02
+Himachal Pradesh,2013,9,85.08,2.84
+Himachal Pradesh,2013,10,28.46,0.92
+Himachal Pradesh,2013,11,16.94,0.56
+Himachal Pradesh,2013,12,23.41,0.76
+Himachal Pradesh,2014,1,64.27,2.07
+Himachal Pradesh,2014,2,127.19,4.54
+Himachal Pradesh,2014,3,136.29,4.4
+Himachal Pradesh,2014,4,74.06,2.47
+Himachal Pradesh,2014,5,70.93,2.29
+Himachal Pradesh,2014,6,54.22,1.81
+Himachal Pradesh,2014,7,236.24,7.62
+Himachal Pradesh,2014,8,162.31,5.24
+Himachal Pradesh,2014,9,82.69,2.76
+Himachal Pradesh,2014,10,20.78,0.67
+Himachal Pradesh,2014,11,2.17,0.07
+Himachal Pradesh,2014,12,54.85,1.77
+Himachal Pradesh,2015,1,80.57,2.6
+Himachal Pradesh,2015,2,163.49,5.84
+Himachal Pradesh,2015,3,186.09,6.0
+Himachal Pradesh,2015,4,76.41,2.55
+Himachal Pradesh,2015,5,48.16,1.55
+Himachal Pradesh,2015,6,86.4,2.88
+Himachal Pradesh,2015,7,283.94,9.16
+Himachal Pradesh,2015,8,208.67,6.73
+Himachal Pradesh,2015,9,71.53,2.38
+Himachal Pradesh,2015,10,15.71,0.51
+Himachal Pradesh,2015,11,14.98,0.5
+Himachal Pradesh,2015,12,27.98,0.9
+Himachal Pradesh,2016,1,21.96,0.71
+Himachal Pradesh,2016,2,52.61,1.81
+Himachal Pradesh,2016,3,122.02,3.94
+Himachal Pradesh,2016,4,61.73,2.06
+Himachal Pradesh,2016,5,66.39,2.14
+Himachal Pradesh,2016,6,92.38,3.08
+Himachal Pradesh,2016,7,242.96,7.84
+Himachal Pradesh,2016,8,285.36,9.21
+Himachal Pradesh,2016,9,48.88,1.63
+Himachal Pradesh,2016,10,6.63,0.21
+Himachal Pradesh,2016,11,0.0,0.0
+Himachal Pradesh,2016,12,2.15,0.07
+Himachal Pradesh,2017,1,156.03,5.03
+Himachal Pradesh,2017,2,46.34,1.66
+Himachal Pradesh,2017,3,72.17,2.33
+Himachal Pradesh,2017,4,90.04,3.0
+Himachal Pradesh,2017,5,74.81,2.41
+Himachal Pradesh,2017,6,134.46,4.48
+Himachal Pradesh,2017,7,268.96,8.68
+Himachal Pradesh,2017,8,227.86,7.35
+Himachal Pradesh,2017,9,120.16,4.01
+Himachal Pradesh,2017,10,0.68,0.02
+Himachal Pradesh,2017,11,8.58,0.29
+Himachal Pradesh,2017,12,43.46,1.4
+Himachal Pradesh,2018,1,9.1,0.29
+Himachal Pradesh,2018,2,53.77,1.92
+Himachal Pradesh,2018,3,46.58,1.5
+Himachal Pradesh,2018,4,60.93,2.03
+Himachal Pradesh,2018,5,47.07,1.52
+Himachal Pradesh,2018,6,112.78,3.76
+Himachal Pradesh,2018,7,260.56,8.41
+Himachal Pradesh,2018,8,279.21,9.01
+Himachal Pradesh,2018,9,244.6,8.15
+Himachal Pradesh,2018,10,6.29,0.2
+Himachal Pradesh,2018,11,46.1,1.54
+Himachal Pradesh,2018,12,10.22,0.33
+Himachal Pradesh,2019,1,89.17,2.88
+Himachal Pradesh,2019,2,187.45,6.69
+Himachal Pradesh,2019,3,76.9,2.48
+Himachal Pradesh,2019,4,38.1,1.27
+Himachal Pradesh,2019,5,53.28,1.72
+Himachal Pradesh,2019,6,52.16,1.74
+Himachal Pradesh,2019,7,196.15,6.33
+Himachal Pradesh,2019,8,287.92,9.29
+Himachal Pradesh,2019,9,96.83,3.23
+Himachal Pradesh,2019,10,23.75,0.77
+Himachal Pradesh,2019,11,57.13,1.9
+Himachal Pradesh,2019,12,50.82,1.64
+Himachal Pradesh,2020,1,129.1,4.16
+Himachal Pradesh,2020,2,10.12,0.35
+Himachal Pradesh,2020,3,158.51,5.11
+Himachal Pradesh,2020,4,56.56,1.89
+Himachal Pradesh,2020,5,44.75,1.6
+Himachal Pradesh,2020,6,72.34,2.41
+Himachal Pradesh,2020,7,106.56,6.66
+Himachal Pradesh,2020,8,246.16,7.94
+Himachal Pradesh,2020,9,24.29,0.81
+Himachal Pradesh,2020,10,0.39,0.01
+Himachal Pradesh,2020,11,46.44,1.55
+Himachal Pradesh,2020,12,27.21,0.88
+Himachal Pradesh,2021,1,41.79,1.35
+Himachal Pradesh,2021,2,22.45,0.8
+Himachal Pradesh,2021,3,44.48,1.43
+Himachal Pradesh,2021,4,122.28,4.22
+Himachal Pradesh,2021,5,76.31,2.63
+Himachal Pradesh,2021,6,68.17,2.84
+Himachal Pradesh,2021,7,274.54,9.47
+Himachal Pradesh,2021,8,142.46,4.6
+Himachal Pradesh,2021,9,164.77,5.49
+Himachal Pradesh,2021,10,61.72,1.99
+Himachal Pradesh,2021,11,1.09,0.04
+Himachal Pradesh,2021,12,20.61,0.66
+Himachal Pradesh,2022,1,153.28,4.94
+Himachal Pradesh,2022,2,70.22,2.6
+Himachal Pradesh,2022,3,6.86,0.23
+Himachal Pradesh,2022,4,10.16,0.36
+Himachal Pradesh,2022,5,62.92,2.03
+Himachal Pradesh,2022,6,63.46,2.12
+Himachal Pradesh,2022,7,271.64,9.37
+Himachal Pradesh,2022,8,265.5,8.56
+Himachal Pradesh,2022,9,143.31,4.78
+Himachal Pradesh,2022,10,41.46,1.34
+Himachal Pradesh,2022,11,19.38,0.65
+Himachal Pradesh,2022,12,6.2,0.2
+Himachal Pradesh,2023,1,76.93,2.56
+Himachal Pradesh,2023,2,29.02,1.04
+Himachal Pradesh,2023,3,59.27,1.91
+Himachal Pradesh,2023,4,101.62,3.39
+Himachal Pradesh,2023,5,108.81,3.51
+Himachal Pradesh,2023,6,107.92,3.72
+Himachal Pradesh,2023,7,449.54,14.5
+Himachal Pradesh,2023,8,223.61,7.21
+Himachal Pradesh,2023,9,66.6,2.22
+Himachal Pradesh,2023,10,27.08,0.87
+Himachal Pradesh,2023,11,10.07,0.34
+Himachal Pradesh,2023,12,5.0,0.16
+Himachal Pradesh,2024,1,5.33,0.17
+Himachal Pradesh,2024,2,94.56,3.26
+Himachal Pradesh,2024,3,115.31,5.77
+Jammu And Kashmir,2009,1,0.0,0.0
+Jammu And Kashmir,2009,2,0.0,0.0
+Jammu And Kashmir,2009,3,0.0,0.0
+Jammu And Kashmir,2009,4,0.0,0.0
+Jammu And Kashmir,2009,5,0.0,0.0
+Jammu And Kashmir,2009,6,14.1,0.47
+Jammu And Kashmir,2009,7,15.81,0.51
+Jammu And Kashmir,2009,8,284.27,9.17
+Jammu And Kashmir,2009,9,137.1,4.57
+Jammu And Kashmir,2009,10,11.16,0.36
+Jammu And Kashmir,2009,11,0.0,0.0
+Jammu And Kashmir,2009,12,0.0,0.0
+Jammu And Kashmir,2010,1,0.0,0.0
+Jammu And Kashmir,2010,2,323.4,11.55
+Jammu And Kashmir,2010,3,358.05,11.55
+Jammu And Kashmir,2010,4,0.0,0.0
+Jammu And Kashmir,2010,5,15.5,0.5
+Jammu And Kashmir,2010,6,0.0,0.0
+Jammu And Kashmir,2010,7,2.48,0.08
+Jammu And Kashmir,2010,8,293.26,9.46
+Jammu And Kashmir,2010,9,96.3,3.21
+Jammu And Kashmir,2010,10,0.0,0.0
+Jammu And Kashmir,2010,11,0.0,0.0
+Jammu And Kashmir,2010,12,0.0,0.0
+Jammu And Kashmir,2011,1,0.0,0.0
+Jammu And Kashmir,2011,2,0.0,0.0
+Jammu And Kashmir,2011,3,176.7,5.7
+Jammu And Kashmir,2011,4,33.6,1.12
+Jammu And Kashmir,2011,5,18.29,0.59
+Jammu And Kashmir,2011,6,205.2,6.84
+Jammu And Kashmir,2011,7,93.93,3.03
+Jammu And Kashmir,2011,8,21.08,0.68
+Jammu And Kashmir,2011,9,444.0,14.8
+Jammu And Kashmir,2011,10,0.0,0.0
+Jammu And Kashmir,2011,11,6.3,0.21
+Jammu And Kashmir,2011,12,0.0,0.0
+Jammu And Kashmir,2012,1,0.0,0.0
+Jammu And Kashmir,2012,2,0.87,0.03
+Jammu And Kashmir,2012,3,7.13,0.23
+Jammu And Kashmir,2012,4,0.0,0.0
+Jammu And Kashmir,2012,5,75.64,2.44
+Jammu And Kashmir,2012,6,130.5,4.35
+Jammu And Kashmir,2012,7,11.16,0.36
+Jammu And Kashmir,2012,8,845.37,27.27
+Jammu And Kashmir,2012,9,0.0,0.0
+Jammu And Kashmir,2012,10,0.0,0.0
+Jammu And Kashmir,2012,11,0.0,0.0
+Jammu And Kashmir,2012,12,0.0,0.0
+Jammu And Kashmir,2013,1,0.0,0.0
+Jammu And Kashmir,2013,2,0.0,0.0
+Jammu And Kashmir,2013,3,20.15,0.65
+Jammu And Kashmir,2013,4,3.3,0.11
+Jammu And Kashmir,2013,5,21.08,0.68
+Jammu And Kashmir,2013,6,0.0,0.0
+Jammu And Kashmir,2013,7,98.89,3.19
+Jammu And Kashmir,2013,8,456.94,14.74
+Jammu And Kashmir,2013,9,169.2,5.64
+Jammu And Kashmir,2013,10,51.15,1.65
+Jammu And Kashmir,2013,11,39.0,1.3
+Jammu And Kashmir,2013,12,0.0,0.0
+Jammu And Kashmir,2014,1,703.7,22.7
+Jammu And Kashmir,2014,2,0.0,0.0
+Jammu And Kashmir,2014,3,81.22,2.62
+Jammu And Kashmir,2014,4,0.0,0.0
+Jammu And Kashmir,2014,5,14.26,0.46
+Jammu And Kashmir,2014,6,312.0,10.4
+Jammu And Kashmir,2014,7,434.0,14.0
+Jammu And Kashmir,2014,8,121.52,3.92
+Jammu And Kashmir,2014,9,45.0,1.5
+Jammu And Kashmir,2014,10,51.77,1.67
+Jammu And Kashmir,2014,11,0.0,0.0
+Jammu And Kashmir,2014,12,0.0,0.0
+Jammu And Kashmir,2015,1,0.0,0.0
+Jammu And Kashmir,2015,2,55.44,1.98
+Jammu And Kashmir,2015,3,134.23,4.33
+Jammu And Kashmir,2015,4,362.4,12.08
+Jammu And Kashmir,2015,5,435.55,14.05
+Jammu And Kashmir,2015,6,156.0,5.2
+Jammu And Kashmir,2015,7,180.11,5.81
+Jammu And Kashmir,2015,8,215.76,6.96
+Jammu And Kashmir,2015,9,18.0,0.6
+Jammu And Kashmir,2015,10,0.0,0.0
+Jammu And Kashmir,2015,11,0.0,0.0
+Jammu And Kashmir,2015,12,0.0,0.0
+Jammu And Kashmir,2016,1,0.0,0.0
+Jammu And Kashmir,2016,2,0.58,0.02
+Jammu And Kashmir,2016,3,0.0,0.0
+Jammu And Kashmir,2016,4,11.7,0.39
+Jammu And Kashmir,2016,5,0.0,0.0
+Jammu And Kashmir,2016,6,0.0,0.0
+Jammu And Kashmir,2016,7,8.99,0.29
+Jammu And Kashmir,2016,8,115.94,3.74
+Jammu And Kashmir,2016,9,189.0,6.3
+Jammu And Kashmir,2016,10,0.0,0.0
+Jammu And Kashmir,2016,11,0.0,0.0
+Jammu And Kashmir,2016,12,0.0,0.0
+Jammu And Kashmir,2017,1,0.0,0.0
+Jammu And Kashmir,2017,2,0.0,0.0
+Jammu And Kashmir,2017,3,104.78,3.38
+Jammu And Kashmir,2017,4,210.9,7.03
+Jammu And Kashmir,2017,5,7.44,0.24
+Jammu And Kashmir,2017,6,60.6,2.02
+Jammu And Kashmir,2017,7,60.45,1.95
+Jammu And Kashmir,2017,8,171.74,5.54
+Jammu And Kashmir,2017,9,333.6,11.12
+Jammu And Kashmir,2017,10,0.0,0.0
+Jammu And Kashmir,2017,11,0.0,0.0
+Jammu And Kashmir,2017,12,0.0,0.0
+Jammu And Kashmir,2018,1,0.0,0.0
+Jammu And Kashmir,2018,2,34.16,1.22
+Jammu And Kashmir,2018,3,37.82,1.22
+Jammu And Kashmir,2018,4,0.0,0.0
+Jammu And Kashmir,2018,5,0.0,0.0
+Jammu And Kashmir,2018,6,3.0,0.1
+Jammu And Kashmir,2018,7,104.47,3.37
+Jammu And Kashmir,2018,8,62.31,2.01
+Jammu And Kashmir,2018,9,267.6,8.92
+Jammu And Kashmir,2018,10,3.72,0.12
+Jammu And Kashmir,2018,11,0.0,0.0
+Jammu And Kashmir,2018,12,0.0,0.0
+Jammu And Kashmir,2019,1,0.0,0.0
+Jammu And Kashmir,2019,2,363.72,12.99
+Jammu And Kashmir,2019,3,12.99,0.42
+Jammu And Kashmir,2019,4,0.0,0.0
+Jammu And Kashmir,2019,5,165.54,5.34
+Jammu And Kashmir,2019,6,5.4,0.18
+Jammu And Kashmir,2019,7,19.22,0.62
+Jammu And Kashmir,2019,8,351.85,11.35
+Jammu And Kashmir,2019,9,21.0,0.7
+Jammu And Kashmir,2019,10,261.64,8.44
+Jammu And Kashmir,2019,11,0.0,0.0
+Jammu And Kashmir,2019,12,0.0,0.0
+Jammu And Kashmir,2020,1,0.0,0.0
+Jammu And Kashmir,2020,2,2.9,0.1
+Jammu And Kashmir,2020,3,276.21,8.91
+Jammu And Kashmir,2020,4,483.3,16.11
+Jammu And Kashmir,2020,5,0.0,0.0
+Jammu And Kashmir,2020,6,138.07,4.6
+Jammu And Kashmir,2020,7,40.46,2.53
+Jammu And Kashmir,2020,8,250.68,8.09
+Jammu And Kashmir,2020,9,38.03,1.27
+Jammu And Kashmir,2020,10,0.15,0.0
+Jammu And Kashmir,2020,11,75.97,2.53
+Jammu And Kashmir,2020,12,71.95,2.32
+Jammu And Kashmir,2021,1,107.75,3.48
+Jammu And Kashmir,2021,2,47.59,1.7
+Jammu And Kashmir,2021,3,135.83,4.38
+Jammu And Kashmir,2021,4,96.43,3.33
+Jammu And Kashmir,2021,5,64.38,2.22
+Jammu And Kashmir,2021,6,46.93,1.96
+Jammu And Kashmir,2021,7,235.26,8.11
+Jammu And Kashmir,2021,8,79.23,2.56
+Jammu And Kashmir,2021,9,81.34,2.71
+Jammu And Kashmir,2021,10,101.58,3.28
+Jammu And Kashmir,2021,11,3.25,0.11
+Jammu And Kashmir,2021,12,16.3,0.53
+Jammu And Kashmir,2022,1,185.59,5.99
+Jammu And Kashmir,2022,2,73.65,2.73
+Jammu And Kashmir,2022,3,27.01,0.9
+Jammu And Kashmir,2022,4,26.6,0.95
+Jammu And Kashmir,2022,5,71.74,2.31
+Jammu And Kashmir,2022,6,133.46,4.45
+Jammu And Kashmir,2022,7,221.76,7.65
+Jammu And Kashmir,2022,8,204.79,6.61
+Jammu And Kashmir,2022,9,61.73,2.06
+Jammu And Kashmir,2022,10,36.38,1.17
+Jammu And Kashmir,2022,11,67.21,2.24
+Jammu And Kashmir,2022,12,19.68,0.63
+Jammu And Kashmir,2023,1,116.1,3.87
+Jammu And Kashmir,2023,2,36.3,1.3
+Jammu And Kashmir,2023,3,56.07,1.81
+Jammu And Kashmir,2023,4,137.15,4.57
+Jammu And Kashmir,2023,5,114.9,3.71
+Jammu And Kashmir,2023,6,87.21,3.01
+Jammu And Kashmir,2023,7,218.25,7.04
+Jammu And Kashmir,2023,8,104.72,3.38
+Jammu And Kashmir,2023,9,76.19,2.54
+Jammu And Kashmir,2023,10,59.18,1.91
+Jammu And Kashmir,2023,11,32.59,1.09
+Jammu And Kashmir,2023,12,8.02,0.26
+Jammu And Kashmir,2024,1,10.62,0.34
+Jammu And Kashmir,2024,2,103.95,3.58
+Jammu And Kashmir,2024,3,83.49,4.17
+Jharkhand,2009,1,4.1,0.13
+Jharkhand,2009,2,1.83,0.07
+Jharkhand,2009,3,8.03,0.26
+Jharkhand,2009,4,1.95,0.06
+Jharkhand,2009,5,102.32,3.3
+Jharkhand,2009,6,73.45,2.45
+Jharkhand,2009,7,258.38,8.33
+Jharkhand,2009,8,274.87,8.87
+Jharkhand,2009,9,236.28,7.88
+Jharkhand,2009,10,94.49,3.05
+Jharkhand,2009,11,17.49,0.58
+Jharkhand,2009,12,1.82,0.06
+Jharkhand,2010,1,0.22,0.01
+Jharkhand,2010,2,6.21,0.22
+Jharkhand,2010,3,3.15,0.1
+Jharkhand,2010,4,14.34,0.48
+Jharkhand,2010,5,64.25,2.07
+Jharkhand,2010,6,115.76,3.86
+Jharkhand,2010,7,172.92,5.58
+Jharkhand,2010,8,187.08,6.03
+Jharkhand,2010,9,191.74,6.39
+Jharkhand,2010,10,73.88,2.38
+Jharkhand,2010,11,6.41,0.21
+Jharkhand,2010,12,31.63,1.02
+Jharkhand,2011,1,4.14,0.13
+Jharkhand,2011,2,3.87,0.14
+Jharkhand,2011,3,10.56,0.34
+Jharkhand,2011,4,38.3,1.28
+Jharkhand,2011,5,69.5,2.24
+Jharkhand,2011,6,308.83,10.29
+Jharkhand,2011,7,165.83,5.35
+Jharkhand,2011,8,362.88,11.71
+Jharkhand,2011,9,328.3,10.94
+Jharkhand,2011,10,24.85,0.8
+Jharkhand,2011,11,0.2,0.01
+Jharkhand,2011,12,0.0,0.0
+Jharkhand,2012,1,38.65,1.25
+Jharkhand,2012,2,7.44,0.26
+Jharkhand,2012,3,1.23,0.04
+Jharkhand,2012,4,23.97,0.8
+Jharkhand,2012,5,14.89,0.48
+Jharkhand,2012,6,146.64,4.89
+Jharkhand,2012,7,298.54,9.63
+Jharkhand,2012,8,303.64,9.79
+Jharkhand,2012,9,232.73,7.76
+Jharkhand,2012,10,57.7,1.86
+Jharkhand,2012,11,42.57,1.42
+Jharkhand,2012,12,11.83,0.38
+Jharkhand,2013,1,0.96,0.03
+Jharkhand,2013,2,20.68,0.74
+Jharkhand,2013,3,1.81,0.06
+Jharkhand,2013,4,30.05,1.0
+Jharkhand,2013,5,119.29,3.85
+Jharkhand,2013,6,196.33,6.54
+Jharkhand,2013,7,231.48,7.47
+Jharkhand,2013,8,293.0,9.45
+Jharkhand,2013,9,177.54,5.92
+Jharkhand,2013,10,292.42,9.43
+Jharkhand,2013,11,0.09,0.0
+Jharkhand,2013,12,0.0,0.0
+Jharkhand,2014,1,10.07,0.32
+Jharkhand,2014,2,46.01,1.64
+Jharkhand,2014,3,23.72,0.77
+Jharkhand,2014,4,2.94,0.1
+Jharkhand,2014,5,103.71,3.35
+Jharkhand,2014,6,133.67,4.46
+Jharkhand,2014,7,333.88,10.77
+Jharkhand,2014,8,279.04,9.0
+Jharkhand,2014,9,182.97,6.1
+Jharkhand,2014,10,44.88,1.45
+Jharkhand,2014,11,0.0,0.0
+Jharkhand,2014,12,1.01,0.03
+Jharkhand,2015,1,17.12,0.55
+Jharkhand,2015,2,1.82,0.06
+Jharkhand,2015,3,21.78,0.7
+Jharkhand,2015,4,58.23,1.94
+Jharkhand,2015,5,37.72,1.22
+Jharkhand,2015,6,182.11,6.07
+Jharkhand,2015,7,452.37,14.59
+Jharkhand,2015,8,250.72,8.09
+Jharkhand,2015,9,92.57,3.09
+Jharkhand,2015,10,23.77,0.77
+Jharkhand,2015,11,0.53,0.02
+Jharkhand,2015,12,4.64,0.15
+Jharkhand,2016,1,10.74,0.35
+Jharkhand,2016,2,10.54,0.36
+Jharkhand,2016,3,13.29,0.43
+Jharkhand,2016,4,2.04,0.07
+Jharkhand,2016,5,69.37,2.24
+Jharkhand,2016,6,130.52,4.35
+Jharkhand,2016,7,297.8,9.61
+Jharkhand,2016,8,370.33,11.95
+Jharkhand,2016,9,280.11,9.34
+Jharkhand,2016,10,47.46,1.53
+Jharkhand,2016,11,0.35,0.01
+Jharkhand,2016,12,0.0,0.0
+Jharkhand,2017,1,5.41,0.17
+Jharkhand,2017,2,0.16,0.01
+Jharkhand,2017,3,13.41,0.43
+Jharkhand,2017,4,17.86,0.6
+Jharkhand,2017,5,75.54,2.44
+Jharkhand,2017,6,125.52,4.18
+Jharkhand,2017,7,493.09,15.91
+Jharkhand,2017,8,255.7,8.25
+Jharkhand,2017,9,143.8,4.79
+Jharkhand,2017,10,120.02,3.87
+Jharkhand,2017,11,4.97,0.17
+Jharkhand,2017,12,1.42,0.05
+Jharkhand,2018,1,0.0,0.0
+Jharkhand,2018,2,5.1,0.18
+Jharkhand,2018,3,3.88,0.13
+Jharkhand,2018,4,84.43,2.81
+Jharkhand,2018,5,55.89,1.8
+Jharkhand,2018,6,132.31,4.41
+Jharkhand,2018,7,271.83,8.77
+Jharkhand,2018,8,240.88,7.77
+Jharkhand,2018,9,152.57,5.09
+Jharkhand,2018,10,30.08,0.97
+Jharkhand,2018,11,0.83,0.03
+Jharkhand,2018,12,30.63,0.99
+Jharkhand,2019,1,1.94,0.06
+Jharkhand,2019,2,35.46,1.27
+Jharkhand,2019,3,18.75,0.6
+Jharkhand,2019,4,40.98,1.37
+Jharkhand,2019,5,56.5,1.82
+Jharkhand,2019,6,88.68,2.96
+Jharkhand,2019,7,250.86,8.09
+Jharkhand,2019,8,253.13,8.17
+Jharkhand,2019,9,277.11,9.24
+Jharkhand,2019,10,134.73,4.35
+Jharkhand,2019,11,1.71,0.06
+Jharkhand,2019,12,10.31,0.33
+Jharkhand,2020,1,26.46,0.85
+Jharkhand,2020,2,13.19,0.45
+Jharkhand,2020,3,81.57,2.63
+Jharkhand,2020,4,59.98,2.0
+Jharkhand,2020,5,80.44,2.87
+Jharkhand,2020,6,218.98,7.3
+Jharkhand,2020,7,140.92,8.81
+Jharkhand,2020,8,291.31,9.4
+Jharkhand,2020,9,164.01,5.47
+Jharkhand,2020,10,63.84,2.06
+Jharkhand,2020,11,6.55,0.22
+Jharkhand,2020,12,0.27,0.01
+Jharkhand,2021,1,0.8,0.03
+Jharkhand,2021,2,1.61,0.06
+Jharkhand,2021,3,8.25,0.27
+Jharkhand,2021,4,9.07,0.31
+Jharkhand,2021,5,223.92,7.72
+Jharkhand,2021,6,232.28,9.68
+Jharkhand,2021,7,309.13,10.66
+Jharkhand,2021,8,211.0,6.81
+Jharkhand,2021,9,262.95,8.76
+Jharkhand,2021,10,117.71,3.8
+Jharkhand,2021,11,22.59,0.75
+Jharkhand,2021,12,23.29,0.75
+Jharkhand,2022,1,24.63,0.79
+Jharkhand,2022,2,45.69,1.69
+Jharkhand,2022,3,1.19,0.04
+Jharkhand,2022,4,4.28,0.15
+Jharkhand,2022,5,77.4,2.5
+Jharkhand,2022,6,101.12,3.37
+Jharkhand,2022,7,146.54,5.05
+Jharkhand,2022,8,315.14,10.17
+Jharkhand,2022,9,219.18,7.31
+Jharkhand,2022,10,93.89,3.03
+Jharkhand,2022,11,0.0,0.0
+Jharkhand,2022,12,0.18,0.01
+Jharkhand,2023,1,0.02,0.0
+Jharkhand,2023,2,0.02,0.0
+Jharkhand,2023,3,37.2,1.2
+Jharkhand,2023,4,28.54,0.95
+Jharkhand,2023,5,47.66,1.54
+Jharkhand,2023,6,112.27,3.87
+Jharkhand,2023,7,182.67,5.89
+Jharkhand,2023,8,251.01,8.1
+Jharkhand,2023,9,265.26,8.84
+Jharkhand,2023,10,140.26,4.52
+Jharkhand,2023,11,3.24,0.11
+Jharkhand,2023,12,40.01,1.29
+Jharkhand,2024,1,8.12,0.26
+Jharkhand,2024,2,24.76,0.85
+Jharkhand,2024,3,24.88,1.24
+Karnataka,2009,1,0.07,0.0
+Karnataka,2009,2,0.02,0.0
+Karnataka,2009,3,20.2,0.65
+Karnataka,2009,4,25.12,0.84
+Karnataka,2009,5,92.36,2.98
+Karnataka,2009,6,121.12,4.04
+Karnataka,2009,7,326.53,10.53
+Karnataka,2009,8,165.94,5.35
+Karnataka,2009,9,254.24,8.47
+Karnataka,2009,10,149.2,4.81
+Karnataka,2009,11,60.93,2.03
+Karnataka,2009,12,19.79,0.64
+Karnataka,2010,1,36.28,1.17
+Karnataka,2010,2,0.66,0.02
+Karnataka,2010,3,6.93,0.22
+Karnataka,2010,4,29.48,0.98
+Karnataka,2010,5,62.9,2.03
+Karnataka,2010,6,158.5,5.28
+Karnataka,2010,7,269.1,8.68
+Karnataka,2010,8,240.14,7.75
+Karnataka,2010,9,153.91,5.13
+Karnataka,2010,10,123.05,3.97
+Karnataka,2010,11,150.23,5.01
+Karnataka,2010,12,4.08,0.13
+Karnataka,2011,1,0.02,0.0
+Karnataka,2011,2,5.07,0.18
+Karnataka,2011,3,4.02,0.13
+Karnataka,2011,4,67.39,2.25
+Karnataka,2011,5,63.37,2.04
+Karnataka,2011,6,221.9,7.4
+Karnataka,2011,7,302.85,9.77
+Karnataka,2011,8,275.69,8.89
+Karnataka,2011,9,145.33,4.84
+Karnataka,2011,10,116.61,3.76
+Karnataka,2011,11,37.03,1.23
+Karnataka,2011,12,1.85,0.06
+Karnataka,2012,1,0.34,0.01
+Karnataka,2012,2,0.09,0.0
+Karnataka,2012,3,1.41,0.05
+Karnataka,2012,4,56.27,1.88
+Karnataka,2012,5,32.73,1.06
+Karnataka,2012,6,233.99,7.8
+Karnataka,2012,7,216.14,6.97
+Karnataka,2012,8,280.49,9.05
+Karnataka,2012,9,143.49,4.78
+Karnataka,2012,10,90.06,2.91
+Karnataka,2012,11,63.05,2.1
+Karnataka,2012,12,4.9,0.16
+Karnataka,2013,1,1.18,0.04
+Karnataka,2013,2,9.58,0.34
+Karnataka,2013,3,8.68,0.28
+Karnataka,2013,4,31.0,1.03
+Karnataka,2013,5,77.03,2.48
+Karnataka,2013,6,191.68,6.39
+Karnataka,2013,7,328.49,10.6
+Karnataka,2013,8,154.44,4.98
+Karnataka,2013,9,210.92,7.03
+Karnataka,2013,10,112.36,3.62
+Karnataka,2013,11,17.68,0.59
+Karnataka,2013,12,1.52,0.05
+Karnataka,2014,1,0.2,0.01
+Karnataka,2014,2,3.91,0.14
+Karnataka,2014,3,23.31,0.75
+Karnataka,2014,4,40.12,1.34
+Karnataka,2014,5,122.27,3.94
+Karnataka,2014,6,104.72,3.49
+Karnataka,2014,7,266.96,8.61
+Karnataka,2014,8,287.99,9.29
+Karnataka,2014,9,143.07,4.77
+Karnataka,2014,10,127.27,4.11
+Karnataka,2014,11,23.33,0.78
+Karnataka,2014,12,16.92,0.55
+Karnataka,2015,1,2.5,0.08
+Karnataka,2015,2,0.12,0.0
+Karnataka,2015,3,26.45,0.85
+Karnataka,2015,4,69.67,2.32
+Karnataka,2015,5,92.8,2.99
+Karnataka,2015,6,192.97,6.43
+Karnataka,2015,7,120.18,3.88
+Karnataka,2015,8,143.77,4.64
+Karnataka,2015,9,171.67,5.72
+Karnataka,2015,10,96.17,3.1
+Karnataka,2015,11,87.79,2.93
+Karnataka,2015,12,4.96,0.16
+Karnataka,2016,1,1.67,0.05
+Karnataka,2016,2,0.44,0.02
+Karnataka,2016,3,3.9,0.13
+Karnataka,2016,4,9.94,0.33
+Karnataka,2016,5,79.43,2.56
+Karnataka,2016,6,205.33,6.84
+Karnataka,2016,7,224.44,7.24
+Karnataka,2016,8,108.36,3.5
+Karnataka,2016,9,114.73,3.82
+Karnataka,2016,10,28.33,0.91
+Karnataka,2016,11,7.06,0.24
+Karnataka,2016,12,18.71,0.6
+Karnataka,2017,1,2.94,0.09
+Karnataka,2017,2,0.0,0.0
+Karnataka,2017,3,10.05,0.32
+Karnataka,2017,4,20.65,0.69
+Karnataka,2017,5,74.97,2.42
+Karnataka,2017,6,139.14,4.64
+Karnataka,2017,7,123.58,3.99
+Karnataka,2017,8,155.75,5.02
+Karnataka,2017,9,190.84,6.36
+Karnataka,2017,10,144.51,4.66
+Karnataka,2017,11,10.62,0.35
+Karnataka,2017,12,1.35,0.04
+Karnataka,2018,1,0.0,0.0
+Karnataka,2018,2,3.15,0.11
+Karnataka,2018,3,16.81,0.54
+Karnataka,2018,4,33.15,1.1
+Karnataka,2018,5,143.87,4.64
+Karnataka,2018,6,205.46,6.85
+Karnataka,2018,7,209.36,6.75
+Karnataka,2018,8,211.97,6.84
+Karnataka,2018,9,89.39,2.98
+Karnataka,2018,10,81.32,2.62
+Karnataka,2018,11,14.26,0.48
+Karnataka,2018,12,4.91,0.16
+Karnataka,2019,1,1.84,0.06
+Karnataka,2019,2,3.94,0.14
+Karnataka,2019,3,4.74,0.15
+Karnataka,2019,4,33.46,1.12
+Karnataka,2019,5,53.53,1.73
+Karnataka,2019,6,135.54,4.52
+Karnataka,2019,7,223.17,7.2
+Karnataka,2019,8,344.68,11.12
+Karnataka,2019,9,225.45,7.52
+Karnataka,2019,10,268.66,8.67
+Karnataka,2019,11,35.15,1.17
+Karnataka,2019,12,12.31,0.4
+Karnataka,2020,1,0.17,0.01
+Karnataka,2020,2,0.45,0.02
+Karnataka,2020,3,8.18,0.26
+Karnataka,2020,4,46.98,1.57
+Karnataka,2020,5,82.06,2.93
+Karnataka,2020,6,185.1,6.17
+Karnataka,2020,7,132.15,8.26
+Karnataka,2020,8,269.56,8.7
+Karnataka,2020,9,272.31,9.08
+Karnataka,2020,10,176.02,5.68
+Karnataka,2020,11,26.62,0.89
+Karnataka,2020,12,10.54,0.34
+Karnataka,2021,1,25.07,0.81
+Karnataka,2021,2,15.52,0.55
+Karnataka,2021,3,3.06,0.1
+Karnataka,2021,4,50.14,1.73
+Karnataka,2021,5,114.3,3.94
+Karnataka,2021,6,190.32,7.93
+Karnataka,2021,7,255.48,8.81
+Karnataka,2021,8,164.84,5.32
+Karnataka,2021,9,149.22,4.97
+Karnataka,2021,10,187.39,6.04
+Karnataka,2021,11,162.9,5.43
+Karnataka,2021,12,20.01,0.65
+Karnataka,2022,1,0.89,0.03
+Karnataka,2022,2,0.03,0.0
+Karnataka,2022,3,13.94,0.46
+Karnataka,2022,4,56.66,2.02
+Karnataka,2022,5,174.83,5.64
+Karnataka,2022,6,143.43,4.78
+Karnataka,2022,7,335.45,11.57
+Karnataka,2022,8,307.55,9.92
+Karnataka,2022,9,183.07,6.1
+Karnataka,2022,10,187.83,6.06
+Karnataka,2022,11,22.87,0.76
+Karnataka,2022,12,28.32,0.91
+Karnataka,2023,1,0.71,0.02
+Karnataka,2023,2,0.01,0.0
+Karnataka,2023,3,10.98,0.35
+Karnataka,2023,4,32.89,1.1
+Karnataka,2023,5,89.34,2.88
+Karnataka,2023,6,78.79,2.72
+Karnataka,2023,7,338.77,10.93
+Karnataka,2023,8,51.58,1.66
+Karnataka,2023,9,150.41,5.01
+Karnataka,2023,10,47.08,1.52
+Karnataka,2023,11,59.17,1.97
+Karnataka,2023,12,6.78,0.22
+Karnataka,2024,1,7.33,0.24
+Karnataka,2024,2,0.05,0.0
+Karnataka,2024,3,0.28,0.01
+Kerala,2009,1,5.12,0.17
+Kerala,2009,2,1.06,0.04
+Kerala,2009,3,80.5,2.6
+Kerala,2009,4,70.78,2.36
+Kerala,2009,5,168.94,5.45
+Kerala,2009,6,323.25,10.78
+Kerala,2009,7,778.67,25.12
+Kerala,2009,8,243.82,7.87
+Kerala,2009,9,307.58,10.25
+Kerala,2009,10,199.88,6.45
+Kerala,2009,11,285.96,9.53
+Kerala,2009,12,67.13,2.17
+Kerala,2010,1,19.62,0.63
+Kerala,2010,2,1.3,0.05
+Kerala,2010,3,32.24,1.04
+Kerala,2010,4,131.82,4.39
+Kerala,2010,5,179.55,5.79
+Kerala,2010,6,484.87,16.16
+Kerala,2010,7,503.55,16.24
+Kerala,2010,8,301.61,9.73
+Kerala,2010,9,241.97,8.07
+Kerala,2010,10,369.41,11.92
+Kerala,2010,11,349.69,11.66
+Kerala,2010,12,54.31,1.75
+Kerala,2011,1,22.14,0.71
+Kerala,2011,2,64.87,2.32
+Kerala,2011,3,31.97,1.03
+Kerala,2011,4,120.91,4.03
+Kerala,2011,5,107.4,3.46
+Kerala,2011,6,583.2,19.44
+Kerala,2011,7,437.49,14.11
+Kerala,2011,8,401.88,12.96
+Kerala,2011,9,316.22,10.54
+Kerala,2011,10,165.21,5.33
+Kerala,2011,11,174.85,5.83
+Kerala,2011,12,74.65,2.41
+Kerala,2012,1,8.21,0.26
+Kerala,2012,2,10.69,0.37
+Kerala,2012,3,29.3,0.95
+Kerala,2012,4,147.29,4.91
+Kerala,2012,5,82.63,2.67
+Kerala,2012,6,400.88,13.36
+Kerala,2012,7,299.93,9.68
+Kerala,2012,8,393.15,12.68
+Kerala,2012,9,198.2,6.61
+Kerala,2012,10,169.06,5.45
+Kerala,2012,11,95.21,3.17
+Kerala,2012,12,6.32,0.2
+Kerala,2013,1,2.76,0.09
+Kerala,2013,2,40.09,1.43
+Kerala,2013,3,54.42,1.76
+Kerala,2013,4,54.39,1.81
+Kerala,2013,5,98.57,3.18
+Kerala,2013,6,821.56,27.39
+Kerala,2013,7,710.68,22.93
+Kerala,2013,8,331.95,10.71
+Kerala,2013,9,287.43,9.58
+Kerala,2013,10,241.65,7.8
+Kerala,2013,11,134.93,4.5
+Kerala,2013,12,24.1,0.78
+Kerala,2014,1,4.55,0.15
+Kerala,2014,2,8.21,0.29
+Kerala,2014,3,21.01,0.68
+Kerala,2014,4,79.39,2.65
+Kerala,2014,5,226.66,7.31
+Kerala,2014,6,354.04,11.8
+Kerala,2014,7,623.94,20.13
+Kerala,2014,8,611.8,19.74
+Kerala,2014,9,280.61,9.35
+Kerala,2014,10,320.81,10.35
+Kerala,2014,11,97.08,3.24
+Kerala,2014,12,55.0,1.77
+Kerala,2015,1,2.79,0.09
+Kerala,2015,2,5.97,0.21
+Kerala,2015,3,53.33,1.72
+Kerala,2015,4,192.02,6.4
+Kerala,2015,5,204.95,6.61
+Kerala,2015,6,512.29,17.08
+Kerala,2015,7,304.89,9.84
+Kerala,2015,8,222.46,7.18
+Kerala,2015,9,239.05,7.97
+Kerala,2015,10,250.22,8.07
+Kerala,2015,11,236.65,7.89
+Kerala,2015,12,84.64,2.73
+Kerala,2016,1,4.14,0.13
+Kerala,2016,2,11.51,0.4
+Kerala,2016,3,21.91,0.71
+Kerala,2016,4,33.31,1.11
+Kerala,2016,5,213.78,6.9
+Kerala,2016,6,461.76,15.39
+Kerala,2016,7,363.77,11.73
+Kerala,2016,8,200.08,6.45
+Kerala,2016,9,79.64,2.65
+Kerala,2016,10,101.5,3.27
+Kerala,2016,11,56.8,1.89
+Kerala,2016,12,29.41,0.95
+Kerala,2017,1,9.5,0.31
+Kerala,2017,2,0.27,0.01
+Kerala,2017,3,58.5,1.89
+Kerala,2017,4,33.76,1.13
+Kerala,2017,5,115.93,3.74
+Kerala,2017,6,276.91,9.23
+Kerala,2017,7,178.92,5.77
+Kerala,2017,8,263.72,8.51
+Kerala,2017,9,232.85,7.76
+Kerala,2017,10,113.81,3.67
+Kerala,2017,11,76.05,2.53
+Kerala,2017,12,21.64,0.7
+Kerala,2018,1,1.18,0.04
+Kerala,2018,2,8.69,0.31
+Kerala,2018,3,34.15,1.1
+Kerala,2018,4,63.87,2.13
+Kerala,2018,5,247.06,7.97
+Kerala,2018,6,451.06,15.04
+Kerala,2018,7,610.92,19.71
+Kerala,2018,8,683.35,22.04
+Kerala,2018,9,82.48,2.75
+Kerala,2018,10,255.44,8.24
+Kerala,2018,11,97.04,3.23
+Kerala,2018,12,20.72,0.67
+Kerala,2019,1,1.07,0.03
+Kerala,2019,2,13.85,0.49
+Kerala,2019,3,17.77,0.57
+Kerala,2019,4,96.49,3.22
+Kerala,2019,5,65.52,2.11
+Kerala,2019,6,267.07,8.9
+Kerala,2019,7,439.22,14.17
+Kerala,2019,8,880.02,28.39
+Kerala,2019,9,408.02,13.6
+Kerala,2019,10,423.3,13.65
+Kerala,2019,11,124.93,4.16
+Kerala,2019,12,44.66,1.44
+Kerala,2020,1,5.81,0.19
+Kerala,2020,2,2.4,0.08
+Kerala,2020,3,39.81,1.28
+Kerala,2020,4,112.63,3.75
+Kerala,2020,5,181.88,6.5
+Kerala,2020,6,403.73,13.46
+Kerala,2020,7,271.38,16.96
+Kerala,2020,8,590.74,19.06
+Kerala,2020,9,515.45,17.18
+Kerala,2020,10,195.6,6.31
+Kerala,2020,11,116.14,3.87
+Kerala,2020,12,51.24,1.65
+Kerala,2021,1,106.09,3.42
+Kerala,2021,2,11.83,0.42
+Kerala,2021,3,46.68,1.51
+Kerala,2021,4,115.02,3.97
+Kerala,2021,5,452.98,15.62
+Kerala,2021,6,327.83,13.66
+Kerala,2021,7,470.28,16.22
+Kerala,2021,8,358.95,11.58
+Kerala,2021,9,291.37,9.71
+Kerala,2021,10,530.98,17.13
+Kerala,2021,11,381.29,12.71
+Kerala,2021,12,54.5,1.76
+Kerala,2022,1,9.31,0.3
+Kerala,2022,2,8.88,0.33
+Kerala,2022,3,46.15,1.54
+Kerala,2022,4,171.07,6.11
+Kerala,2022,5,336.64,10.86
+Kerala,2022,6,252.84,8.43
+Kerala,2022,7,612.39,21.12
+Kerala,2022,8,579.35,18.69
+Kerala,2022,9,234.34,7.81
+Kerala,2022,10,223.14,7.2
+Kerala,2022,11,179.25,5.98
+Kerala,2022,12,85.87,2.77
+Kerala,2023,1,12.99,0.43
+Kerala,2023,2,3.87,0.14
+Kerala,2023,3,46.77,1.51
+Kerala,2023,4,100.4,3.35
+Kerala,2023,5,152.55,4.92
+Kerala,2023,6,205.52,7.09
+Kerala,2023,7,584.99,18.87
+Kerala,2023,8,66.88,2.16
+Kerala,2023,9,400.46,13.35
+Kerala,2023,10,299.41,9.66
+Kerala,2023,11,267.76,8.93
+Kerala,2023,12,107.36,3.46
+Kerala,2024,1,68.61,2.21
+Kerala,2024,2,1.92,0.07
+Kerala,2024,3,0.75,0.04
+Ladakh,2009,1,0.0,0.0
+Ladakh,2009,2,0.0,0.0
+Ladakh,2009,3,0.0,0.0
+Ladakh,2009,4,0.0,0.0
+Ladakh,2009,5,0.0,0.0
+Ladakh,2009,6,1.5,0.05
+Ladakh,2009,7,4.65,0.15
+Ladakh,2009,8,9.92,0.32
+Ladakh,2009,9,171.3,5.71
+Ladakh,2009,10,11.16,0.36
+Ladakh,2009,11,0.0,0.0
+Ladakh,2009,12,0.0,0.0
+Ladakh,2010,1,0.0,0.0
+Ladakh,2010,2,268.24,9.58
+Ladakh,2010,3,296.98,9.58
+Ladakh,2010,4,0.0,0.0
+Ladakh,2010,5,13.95,0.45
+Ladakh,2010,6,0.0,0.0
+Ladakh,2010,7,4.03,0.13
+Ladakh,2010,8,40.3,1.3
+Ladakh,2010,9,12.9,0.43
+Ladakh,2010,10,0.0,0.0
+Ladakh,2010,11,0.0,0.0
+Ladakh,2010,12,0.0,0.0
+Ladakh,2011,1,0.0,0.0
+Ladakh,2011,2,0.0,0.0
+Ladakh,2011,3,280.86,9.06
+Ladakh,2011,4,32.1,1.07
+Ladakh,2011,5,55.18,1.78
+Ladakh,2011,6,6.0,0.2
+Ladakh,2011,7,26.04,0.84
+Ladakh,2011,8,35.34,1.14
+Ladakh,2011,9,98.4,3.28
+Ladakh,2011,10,0.0,0.0
+Ladakh,2011,11,6.0,0.2
+Ladakh,2011,12,0.0,0.0
+Ladakh,2012,1,0.0,0.0
+Ladakh,2012,2,14.21,0.49
+Ladakh,2012,3,70.06,2.26
+Ladakh,2012,4,0.0,0.0
+Ladakh,2012,5,180.73,5.83
+Ladakh,2012,6,158.4,5.28
+Ladakh,2012,7,6.51,0.21
+Ladakh,2012,8,1.24,0.04
+Ladakh,2012,9,1.5,0.05
+Ladakh,2012,10,0.0,0.0
+Ladakh,2012,11,0.0,0.0
+Ladakh,2012,12,0.0,0.0
+Ladakh,2013,1,0.0,0.0
+Ladakh,2013,2,0.0,0.0
+Ladakh,2013,3,2.79,0.09
+Ladakh,2013,4,4.2,0.14
+Ladakh,2013,5,22.01,0.71
+Ladakh,2013,6,0.0,0.0
+Ladakh,2013,7,52.7,1.7
+Ladakh,2013,8,32.24,1.04
+Ladakh,2013,9,22.8,0.76
+Ladakh,2013,10,65.72,2.12
+Ladakh,2013,11,13.8,0.46
+Ladakh,2013,12,0.0,0.0
+Ladakh,2014,1,276.83,8.93
+Ladakh,2014,2,0.0,0.0
+Ladakh,2014,3,27.6,0.89
+Ladakh,2014,4,1.8,0.06
+Ladakh,2014,5,4.65,0.15
+Ladakh,2014,6,149.1,4.97
+Ladakh,2014,7,12.09,0.39
+Ladakh,2014,8,75.64,2.44
+Ladakh,2014,9,114.9,3.83
+Ladakh,2014,10,0.0,0.0
+Ladakh,2014,11,0.3,0.01
+Ladakh,2014,12,0.0,0.0
+Ladakh,2015,1,0.0,0.0
+Ladakh,2015,2,46.48,1.66
+Ladakh,2015,3,94.55,3.05
+Ladakh,2015,4,226.2,7.54
+Ladakh,2015,5,139.19,4.49
+Ladakh,2015,6,5.7,0.19
+Ladakh,2015,7,42.47,1.37
+Ladakh,2015,8,17.36,0.56
+Ladakh,2015,9,6.0,0.2
+Ladakh,2015,10,0.0,0.0
+Ladakh,2015,11,0.0,0.0
+Ladakh,2015,12,0.0,0.0
+Ladakh,2016,1,0.0,0.0
+Ladakh,2016,2,0.29,0.01
+Ladakh,2016,3,0.0,0.0
+Ladakh,2016,4,8.1,0.27
+Ladakh,2016,5,0.0,0.0
+Ladakh,2016,6,0.0,0.0
+Ladakh,2016,7,21.08,0.68
+Ladakh,2016,8,84.32,2.72
+Ladakh,2016,9,39.0,1.3
+Ladakh,2016,10,0.0,0.0
+Ladakh,2016,11,0.0,0.0
+Ladakh,2016,12,0.31,0.01
+Ladakh,2017,1,0.0,0.0
+Ladakh,2017,2,20.44,0.73
+Ladakh,2017,3,75.64,2.44
+Ladakh,2017,4,174.9,5.83
+Ladakh,2017,5,12.4,0.4
+Ladakh,2017,6,36.6,1.22
+Ladakh,2017,7,194.37,6.27
+Ladakh,2017,8,104.16,3.36
+Ladakh,2017,9,39.3,1.31
+Ladakh,2017,10,0.0,0.0
+Ladakh,2017,11,0.0,0.0
+Ladakh,2017,12,0.0,0.0
+Ladakh,2018,1,0.0,0.0
+Ladakh,2018,2,15.4,0.55
+Ladakh,2018,3,17.05,0.55
+Ladakh,2018,4,0.0,0.0
+Ladakh,2018,5,0.0,0.0
+Ladakh,2018,6,17.7,0.59
+Ladakh,2018,7,44.64,1.44
+Ladakh,2018,8,2.48,0.08
+Ladakh,2018,9,3.0,0.1
+Ladakh,2018,10,1.55,0.05
+Ladakh,2018,11,0.0,0.0
+Ladakh,2018,12,0.0,0.0
+Ladakh,2019,1,0.0,0.0
+Ladakh,2019,2,131.04,4.68
+Ladakh,2019,3,0.0,0.0
+Ladakh,2019,4,0.0,0.0
+Ladakh,2019,5,217.62,7.02
+Ladakh,2019,6,0.0,0.0
+Ladakh,2019,7,12.09,0.39
+Ladakh,2019,8,28.83,0.93
+Ladakh,2019,9,90.6,3.02
+Ladakh,2019,10,38.44,1.24
+Ladakh,2019,11,0.0,0.0
+Ladakh,2019,12,0.0,0.0
+Ladakh,2020,1,0.0,0.0
+Ladakh,2020,2,0.58,0.02
+Ladakh,2020,3,40.92,1.32
+Ladakh,2020,4,304.2,10.14
+Ladakh,2020,5,0.0,0.0
+Ladakh,2020,6,110.98,3.7
+Ladakh,2020,7,19.31,1.21
+Ladakh,2020,8,84.02,2.71
+Ladakh,2020,9,21.48,0.72
+Ladakh,2020,10,0.49,0.02
+Ladakh,2020,11,40.52,1.35
+Ladakh,2020,12,29.15,0.94
+Ladakh,2021,1,29.5,0.95
+Ladakh,2021,2,27.15,0.97
+Ladakh,2021,3,74.62,2.41
+Ladakh,2021,4,66.98,2.31
+Ladakh,2021,5,16.19,0.56
+Ladakh,2021,6,7.71,0.32
+Ladakh,2021,7,48.22,1.66
+Ladakh,2021,8,17.84,0.58
+Ladakh,2021,9,33.61,1.12
+Ladakh,2021,10,41.45,1.34
+Ladakh,2021,11,1.66,0.06
+Ladakh,2021,12,7.51,0.24
+Ladakh,2022,1,43.34,1.4
+Ladakh,2022,2,32.97,1.22
+Ladakh,2022,3,13.69,0.46
+Ladakh,2022,4,13.68,0.49
+Ladakh,2022,5,18.19,0.59
+Ladakh,2022,6,24.82,0.83
+Ladakh,2022,7,90.42,3.12
+Ladakh,2022,8,55.44,1.79
+Ladakh,2022,9,25.32,0.84
+Ladakh,2022,10,7.18,0.23
+Ladakh,2022,11,29.86,1.0
+Ladakh,2022,12,11.89,0.38
+Ladakh,2023,1,40.22,1.34
+Ladakh,2023,2,22.9,0.82
+Ladakh,2023,3,13.68,0.44
+Ladakh,2023,4,55.64,1.85
+Ladakh,2023,5,30.7,0.99
+Ladakh,2023,6,27.67,0.95
+Ladakh,2023,7,74.38,2.4
+Ladakh,2023,8,5.28,0.17
+Ladakh,2023,9,18.85,0.63
+Ladakh,2023,10,14.69,0.47
+Ladakh,2023,11,8.44,0.28
+Ladakh,2023,12,3.61,0.12
+Ladakh,2024,1,5.56,0.18
+Ladakh,2024,2,76.97,2.65
+Ladakh,2024,3,32.79,1.64
+Madhya Pradesh,2009,1,8.68,0.28
+Madhya Pradesh,2009,2,0.95,0.03
+Madhya Pradesh,2009,3,1.41,0.05
+Madhya Pradesh,2009,4,2.18,0.07
+Madhya Pradesh,2009,5,7.57,0.24
+Madhya Pradesh,2009,6,49.36,1.65
+Madhya Pradesh,2009,7,322.9,10.42
+Madhya Pradesh,2009,8,188.68,6.09
+Madhya Pradesh,2009,9,172.04,5.73
+Madhya Pradesh,2009,10,79.43,2.56
+Madhya Pradesh,2009,11,70.26,2.34
+Madhya Pradesh,2009,12,13.99,0.45
+Madhya Pradesh,2010,1,2.08,0.07
+Madhya Pradesh,2010,2,9.82,0.35
+Madhya Pradesh,2010,3,1.22,0.04
+Madhya Pradesh,2010,4,1.44,0.05
+Madhya Pradesh,2010,5,4.74,0.15
+Madhya Pradesh,2010,6,54.51,1.82
+Madhya Pradesh,2010,7,301.01,9.71
+Madhya Pradesh,2010,8,274.44,8.85
+Madhya Pradesh,2010,9,168.39,5.61
+Madhya Pradesh,2010,10,13.66,0.44
+Madhya Pradesh,2010,11,31.21,1.04
+Madhya Pradesh,2010,12,1.97,0.06
+Madhya Pradesh,2011,1,0.37,0.01
+Madhya Pradesh,2011,2,1.79,0.06
+Madhya Pradesh,2011,3,0.44,0.01
+Madhya Pradesh,2011,4,5.77,0.19
+Madhya Pradesh,2011,5,5.11,0.16
+Madhya Pradesh,2011,6,273.99,9.13
+Madhya Pradesh,2011,7,309.51,9.98
+Madhya Pradesh,2011,8,335.92,10.84
+Madhya Pradesh,2011,9,212.04,7.07
+Madhya Pradesh,2011,10,0.66,0.02
+Madhya Pradesh,2011,11,0.0,0.0
+Madhya Pradesh,2011,12,0.21,0.01
+Madhya Pradesh,2012,1,22.2,0.72
+Madhya Pradesh,2012,2,0.92,0.03
+Madhya Pradesh,2012,3,0.38,0.01
+Madhya Pradesh,2012,4,1.23,0.04
+Madhya Pradesh,2012,5,2.05,0.07
+Madhya Pradesh,2012,6,51.54,1.72
+Madhya Pradesh,2012,7,396.76,12.8
+Madhya Pradesh,2012,8,369.31,11.91
+Madhya Pradesh,2012,9,171.7,5.72
+Madhya Pradesh,2012,10,6.97,0.22
+Madhya Pradesh,2012,11,3.25,0.11
+Madhya Pradesh,2012,12,2.72,0.09
+Madhya Pradesh,2013,1,1.82,0.06
+Madhya Pradesh,2013,2,37.81,1.35
+Madhya Pradesh,2013,3,12.89,0.42
+Madhya Pradesh,2013,4,7.86,0.26
+Madhya Pradesh,2013,5,0.41,0.01
+Madhya Pradesh,2013,6,281.23,9.37
+Madhya Pradesh,2013,7,478.75,15.44
+Madhya Pradesh,2013,8,456.16,14.71
+Madhya Pradesh,2013,9,90.27,3.01
+Madhya Pradesh,2013,10,91.53,2.95
+Madhya Pradesh,2013,11,0.32,0.01
+Madhya Pradesh,2013,12,1.61,0.05
+Madhya Pradesh,2014,1,28.08,0.91
+Madhya Pradesh,2014,2,43.42,1.55
+Madhya Pradesh,2014,3,13.08,0.42
+Madhya Pradesh,2014,4,4.79,0.16
+Madhya Pradesh,2014,5,2.47,0.08
+Madhya Pradesh,2014,6,56.92,1.9
+Madhya Pradesh,2014,7,316.6,10.21
+Madhya Pradesh,2014,8,225.7,7.28
+Madhya Pradesh,2014,9,167.73,5.59
+Madhya Pradesh,2014,10,33.92,1.09
+Madhya Pradesh,2014,11,2.05,0.07
+Madhya Pradesh,2014,12,14.57,0.47
+Madhya Pradesh,2015,1,39.0,1.26
+Madhya Pradesh,2015,2,8.0,0.29
+Madhya Pradesh,2015,3,60.24,1.94
+Madhya Pradesh,2015,4,19.54,0.65
+Madhya Pradesh,2015,5,4.04,0.13
+Madhya Pradesh,2015,6,148.66,4.96
+Madhya Pradesh,2015,7,349.65,11.28
+Madhya Pradesh,2015,8,278.18,8.97
+Madhya Pradesh,2015,9,66.7,2.22
+Madhya Pradesh,2015,10,23.48,0.76
+Madhya Pradesh,2015,11,0.71,0.02
+Madhya Pradesh,2015,12,1.08,0.03
+Madhya Pradesh,2016,1,10.97,0.35
+Madhya Pradesh,2016,2,0.92,0.03
+Madhya Pradesh,2016,3,8.07,0.26
+Madhya Pradesh,2016,4,0.04,0.0
+Madhya Pradesh,2016,5,10.67,0.34
+Madhya Pradesh,2016,6,98.89,3.3
+Madhya Pradesh,2016,7,488.67,15.76
+Madhya Pradesh,2016,8,418.24,13.49
+Madhya Pradesh,2016,9,113.13,3.77
+Madhya Pradesh,2016,10,37.11,1.2
+Madhya Pradesh,2016,11,0.0,0.0
+Madhya Pradesh,2016,12,0.0,0.0
+Madhya Pradesh,2017,1,3.41,0.11
+Madhya Pradesh,2017,2,4.15,0.15
+Madhya Pradesh,2017,3,2.54,0.08
+Madhya Pradesh,2017,4,0.0,0.0
+Madhya Pradesh,2017,5,7.31,0.24
+Madhya Pradesh,2017,6,121.29,4.04
+Madhya Pradesh,2017,7,322.72,10.41
+Madhya Pradesh,2017,8,172.44,5.56
+Madhya Pradesh,2017,9,146.71,4.89
+Madhya Pradesh,2017,10,14.72,0.47
+Madhya Pradesh,2017,11,0.05,0.0
+Madhya Pradesh,2017,12,1.46,0.05
+Madhya Pradesh,2018,1,0.01,0.0
+Madhya Pradesh,2018,2,12.7,0.45
+Madhya Pradesh,2018,3,0.19,0.01
+Madhya Pradesh,2018,4,6.34,0.21
+Madhya Pradesh,2018,5,7.29,0.24
+Madhya Pradesh,2018,6,125.81,4.19
+Madhya Pradesh,2018,7,317.49,10.24
+Madhya Pradesh,2018,8,256.43,8.27
+Madhya Pradesh,2018,9,154.2,5.14
+Madhya Pradesh,2018,10,1.64,0.05
+Madhya Pradesh,2018,11,0.46,0.02
+Madhya Pradesh,2018,12,3.96,0.13
+Madhya Pradesh,2019,1,7.17,0.23
+Madhya Pradesh,2019,2,6.42,0.23
+Madhya Pradesh,2019,3,9.25,0.3
+Madhya Pradesh,2019,4,7.52,0.25
+Madhya Pradesh,2019,5,1.69,0.05
+Madhya Pradesh,2019,6,68.3,2.28
+Madhya Pradesh,2019,7,354.81,11.45
+Madhya Pradesh,2019,8,471.48,15.21
+Madhya Pradesh,2019,9,427.2,14.24
+Madhya Pradesh,2019,10,41.82,1.35
+Madhya Pradesh,2019,11,6.44,0.21
+Madhya Pradesh,2019,12,7.82,0.25
+Madhya Pradesh,2020,1,20.16,0.65
+Madhya Pradesh,2020,2,9.42,0.32
+Madhya Pradesh,2020,3,20.75,0.67
+Madhya Pradesh,2020,4,7.0,0.23
+Madhya Pradesh,2020,5,12.6,0.45
+Madhya Pradesh,2020,6,205.25,6.84
+Madhya Pradesh,2020,7,108.94,6.81
+Madhya Pradesh,2020,8,468.75,15.12
+Madhya Pradesh,2020,9,134.22,4.47
+Madhya Pradesh,2020,10,16.41,0.53
+Madhya Pradesh,2020,11,5.13,0.17
+Madhya Pradesh,2020,12,6.49,0.21
+Madhya Pradesh,2021,1,3.26,0.11
+Madhya Pradesh,2021,2,6.66,0.24
+Madhya Pradesh,2021,3,7.64,0.25
+Madhya Pradesh,2021,4,1.51,0.05
+Madhya Pradesh,2021,5,55.41,1.91
+Madhya Pradesh,2021,6,110.73,4.61
+Madhya Pradesh,2021,7,270.28,9.32
+Madhya Pradesh,2021,8,260.26,8.4
+Madhya Pradesh,2021,9,240.84,8.03
+Madhya Pradesh,2021,10,54.71,1.76
+Madhya Pradesh,2021,11,4.52,0.15
+Madhya Pradesh,2021,12,13.24,0.43
+Madhya Pradesh,2022,1,31.57,1.02
+Madhya Pradesh,2022,2,3.04,0.11
+Madhya Pradesh,2022,3,1.56,0.05
+Madhya Pradesh,2022,4,0.1,0.0
+Madhya Pradesh,2022,5,8.88,0.29
+Madhya Pradesh,2022,6,113.35,3.78
+Madhya Pradesh,2022,7,376.23,12.97
+Madhya Pradesh,2022,8,446.51,14.4
+Madhya Pradesh,2022,9,224.5,7.48
+Madhya Pradesh,2022,10,93.16,3.01
+Madhya Pradesh,2022,11,0.0,0.0
+Madhya Pradesh,2022,12,1.34,0.04
+Madhya Pradesh,2023,1,5.26,0.18
+Madhya Pradesh,2023,2,0.0,0.0
+Madhya Pradesh,2023,3,22.53,0.73
+Madhya Pradesh,2023,4,22.92,0.76
+Madhya Pradesh,2023,5,32.51,1.05
+Madhya Pradesh,2023,6,149.59,5.16
+Madhya Pradesh,2023,7,305.07,9.84
+Madhya Pradesh,2023,8,210.78,6.8
+Madhya Pradesh,2023,9,279.56,9.32
+Madhya Pradesh,2023,10,9.65,0.31
+Madhya Pradesh,2023,11,19.14,0.64
+Madhya Pradesh,2023,12,18.13,0.58
+Madhya Pradesh,2024,1,7.79,0.25
+Madhya Pradesh,2024,2,11.35,0.39
+Madhya Pradesh,2024,3,11.77,0.59
+Maharashtra,2009,1,0.15,0.0
+Maharashtra,2009,2,0.0,0.0
+Maharashtra,2009,3,4.95,0.16
+Maharashtra,2009,4,4.14,0.14
+Maharashtra,2009,5,23.86,0.77
+Maharashtra,2009,6,92.91,3.1
+Maharashtra,2009,7,391.27,12.62
+Maharashtra,2009,8,186.59,6.02
+Maharashtra,2009,9,155.97,5.2
+Maharashtra,2009,10,88.7,2.86
+Maharashtra,2009,11,94.96,3.17
+Maharashtra,2009,12,6.47,0.21
+Maharashtra,2010,1,9.55,0.31
+Maharashtra,2010,2,4.92,0.18
+Maharashtra,2010,3,7.73,0.25
+Maharashtra,2010,4,5.35,0.18
+Maharashtra,2010,5,5.81,0.19
+Maharashtra,2010,6,186.55,6.22
+Maharashtra,2010,7,427.29,13.78
+Maharashtra,2010,8,344.28,11.11
+Maharashtra,2010,9,212.67,7.09
+Maharashtra,2010,10,74.81,2.41
+Maharashtra,2010,11,62.01,2.07
+Maharashtra,2010,12,2.38,0.08
+Maharashtra,2011,1,0.03,0.0
+Maharashtra,2011,2,0.79,0.03
+Maharashtra,2011,3,0.26,0.01
+Maharashtra,2011,4,6.06,0.2
+Maharashtra,2011,5,2.87,0.09
+Maharashtra,2011,6,173.93,5.8
+Maharashtra,2011,7,346.29,11.17
+Maharashtra,2011,8,319.08,10.29
+Maharashtra,2011,9,182.68,6.09
+Maharashtra,2011,10,43.45,1.4
+Maharashtra,2011,11,0.07,0.0
+Maharashtra,2011,12,0.01,0.0
+Maharashtra,2012,1,1.7,0.05
+Maharashtra,2012,2,0.02,0.0
+Maharashtra,2012,3,0.0,0.0
+Maharashtra,2012,4,1.04,0.03
+Maharashtra,2012,5,1.02,0.03
+Maharashtra,2012,6,131.34,4.38
+Maharashtra,2012,7,312.67,10.09
+Maharashtra,2012,8,258.36,8.33
+Maharashtra,2012,9,209.1,6.97
+Maharashtra,2012,10,75.97,2.45
+Maharashtra,2012,11,3.74,0.12
+Maharashtra,2012,12,0.0,0.0
+Maharashtra,2013,1,2.62,0.08
+Maharashtra,2013,2,10.43,0.37
+Maharashtra,2013,3,1.85,0.06
+Maharashtra,2013,4,7.9,0.26
+Maharashtra,2013,5,6.41,0.21
+Maharashtra,2013,6,321.26,10.71
+Maharashtra,2013,7,493.48,15.92
+Maharashtra,2013,8,244.27,7.88
+Maharashtra,2013,9,186.85,6.23
+Maharashtra,2013,10,97.11,3.13
+Maharashtra,2013,11,4.66,0.16
+Maharashtra,2013,12,3.88,0.13
+Maharashtra,2014,1,2.31,0.07
+Maharashtra,2014,2,12.7,0.45
+Maharashtra,2014,3,43.31,1.4
+Maharashtra,2014,4,8.27,0.28
+Maharashtra,2014,5,17.61,0.57
+Maharashtra,2014,6,62.3,2.08
+Maharashtra,2014,7,359.15,11.59
+Maharashtra,2014,8,253.6,8.18
+Maharashtra,2014,9,177.32,5.91
+Maharashtra,2014,10,31.64,1.02
+Maharashtra,2014,11,23.01,0.77
+Maharashtra,2014,12,8.0,0.26
+Maharashtra,2015,1,13.57,0.44
+Maharashtra,2015,2,2.17,0.08
+Maharashtra,2015,3,48.47,1.56
+Maharashtra,2015,4,24.39,0.81
+Maharashtra,2015,5,19.83,0.64
+Maharashtra,2015,6,238.2,7.94
+Maharashtra,2015,7,139.18,4.49
+Maharashtra,2015,8,179.23,5.78
+Maharashtra,2015,9,170.09,5.67
+Maharashtra,2015,10,34.35,1.11
+Maharashtra,2015,11,9.66,0.32
+Maharashtra,2015,12,0.34,0.01
+Maharashtra,2016,1,0.5,0.02
+Maharashtra,2016,2,2.99,0.1
+Maharashtra,2016,3,12.58,0.41
+Maharashtra,2016,4,3.97,0.13
+Maharashtra,2016,5,10.86,0.35
+Maharashtra,2016,6,184.99,6.17
+Maharashtra,2016,7,448.74,14.48
+Maharashtra,2016,8,234.54,7.57
+Maharashtra,2016,9,259.07,8.64
+Maharashtra,2016,10,77.36,2.5
+Maharashtra,2016,11,0.5,0.02
+Maharashtra,2016,12,0.52,0.02
+Maharashtra,2017,1,0.11,0.0
+Maharashtra,2017,2,0.13,0.0
+Maharashtra,2017,3,4.4,0.14
+Maharashtra,2017,4,0.66,0.02
+Maharashtra,2017,5,15.23,0.49
+Maharashtra,2017,6,229.89,7.66
+Maharashtra,2017,7,301.93,9.74
+Maharashtra,2017,8,248.64,8.02
+Maharashtra,2017,9,191.54,6.38
+Maharashtra,2017,10,98.31,3.17
+Maharashtra,2017,11,4.11,0.14
+Maharashtra,2017,12,3.67,0.12
+Maharashtra,2018,1,0.0,0.0
+Maharashtra,2018,2,6.88,0.25
+Maharashtra,2018,3,2.01,0.06
+Maharashtra,2018,4,12.46,0.42
+Maharashtra,2018,5,11.23,0.36
+Maharashtra,2018,6,241.13,8.04
+Maharashtra,2018,7,345.56,11.15
+Maharashtra,2018,8,254.41,8.21
+Maharashtra,2018,9,67.07,2.24
+Maharashtra,2018,10,14.31,0.46
+Maharashtra,2018,11,11.12,0.37
+Maharashtra,2018,12,3.5,0.11
+Maharashtra,2019,1,3.05,0.1
+Maharashtra,2019,2,0.71,0.03
+Maharashtra,2019,3,1.77,0.06
+Maharashtra,2019,4,5.36,0.18
+Maharashtra,2019,5,0.94,0.03
+Maharashtra,2019,6,144.36,4.81
+Maharashtra,2019,7,429.58,13.86
+Maharashtra,2019,8,374.54,12.08
+Maharashtra,2019,9,332.05,11.07
+Maharashtra,2019,10,165.23,5.33
+Maharashtra,2019,11,25.57,0.85
+Maharashtra,2019,12,2.16,0.07
+Maharashtra,2020,1,7.48,0.24
+Maharashtra,2020,2,2.33,0.08
+Maharashtra,2020,3,17.21,0.56
+Maharashtra,2020,4,10.12,0.34
+Maharashtra,2020,5,9.75,0.35
+Maharashtra,2020,6,248.33,8.28
+Maharashtra,2020,7,157.28,9.83
+Maharashtra,2020,8,391.19,12.62
+Maharashtra,2020,9,204.29,6.81
+Maharashtra,2020,10,118.98,3.84
+Maharashtra,2020,11,2.66,0.09
+Maharashtra,2020,12,3.66,0.12
+Maharashtra,2021,1,8.61,0.28
+Maharashtra,2021,2,6.15,0.22
+Maharashtra,2021,3,6.61,0.21
+Maharashtra,2021,4,9.52,0.33
+Maharashtra,2021,5,52.95,1.83
+Maharashtra,2021,6,210.13,8.76
+Maharashtra,2021,7,342.77,11.82
+Maharashtra,2021,8,177.14,5.71
+Maharashtra,2021,9,340.34,11.34
+Maharashtra,2021,10,86.36,2.79
+Maharashtra,2021,11,26.86,0.9
+Maharashtra,2021,12,29.23,0.94
+Maharashtra,2022,1,9.01,0.29
+Maharashtra,2022,2,0.26,0.01
+Maharashtra,2022,3,1.47,0.05
+Maharashtra,2022,4,3.96,0.14
+Maharashtra,2022,5,7.42,0.24
+Maharashtra,2022,6,141.74,4.72
+Maharashtra,2022,7,505.88,17.44
+Maharashtra,2022,8,280.54,9.05
+Maharashtra,2022,9,268.5,8.95
+Maharashtra,2022,10,136.25,4.4
+Maharashtra,2022,11,0.31,0.01
+Maharashtra,2022,12,1.18,0.04
+Maharashtra,2023,1,0.23,0.01
+Maharashtra,2023,2,0.0,0.0
+Maharashtra,2023,3,10.07,0.32
+Maharashtra,2023,4,32.82,1.09
+Maharashtra,2023,5,26.11,0.84
+Maharashtra,2023,6,106.6,3.68
+Maharashtra,2023,7,476.03,15.36
+Maharashtra,2023,8,115.06,3.71
+Maharashtra,2023,9,245.8,8.19
+Maharashtra,2023,10,18.7,0.6
+Maharashtra,2023,11,33.8,1.13
+Maharashtra,2023,12,6.43,0.21
+Maharashtra,2024,1,1.83,0.06
+Maharashtra,2024,2,3.21,0.11
+Maharashtra,2024,3,4.25,0.21
+Manipur,2009,1,0.0,0.0
+Manipur,2009,2,22.01,0.79
+Manipur,2009,3,41.91,1.35
+Manipur,2009,4,68.57,2.29
+Manipur,2009,5,114.46,3.69
+Manipur,2009,6,148.24,4.94
+Manipur,2009,7,213.41,6.88
+Manipur,2009,8,262.56,8.47
+Manipur,2009,9,151.54,5.05
+Manipur,2009,10,142.12,4.58
+Manipur,2009,11,14.75,0.49
+Manipur,2009,12,0.0,0.0
+Manipur,2010,1,7.9,0.25
+Manipur,2010,2,6.92,0.25
+Manipur,2010,3,95.1,3.07
+Manipur,2010,4,246.21,8.21
+Manipur,2010,5,187.98,6.06
+Manipur,2010,6,304.58,10.15
+Manipur,2010,7,343.28,11.07
+Manipur,2010,8,195.53,6.31
+Manipur,2010,9,180.27,6.01
+Manipur,2010,10,178.66,5.76
+Manipur,2010,11,12.61,0.42
+Manipur,2010,12,40.24,1.3
+Manipur,2011,1,13.69,0.44
+Manipur,2011,2,12.53,0.45
+Manipur,2011,3,85.67,2.76
+Manipur,2011,4,104.56,3.49
+Manipur,2011,5,297.85,9.61
+Manipur,2011,6,319.96,10.67
+Manipur,2011,7,322.12,10.39
+Manipur,2011,8,283.31,9.14
+Manipur,2011,9,169.99,5.67
+Manipur,2011,10,40.16,1.3
+Manipur,2011,11,0.03,0.0
+Manipur,2011,12,0.51,0.02
+Manipur,2012,1,17.34,0.56
+Manipur,2012,2,9.29,0.32
+Manipur,2012,3,4.35,0.14
+Manipur,2012,4,259.41,8.65
+Manipur,2012,5,174.05,5.61
+Manipur,2012,6,415.02,13.83
+Manipur,2012,7,226.45,7.3
+Manipur,2012,8,374.6,12.08
+Manipur,2012,9,17.43,0.58
+Manipur,2012,10,14.41,0.46
+Manipur,2012,11,0.0,0.0
+Manipur,2012,12,0.0,0.0
+Manipur,2013,1,0.0,0.0
+Manipur,2013,2,3.29,0.12
+Manipur,2013,3,30.12,0.97
+Manipur,2013,4,97.3,3.24
+Manipur,2013,5,294.74,9.51
+Manipur,2013,6,144.91,4.83
+Manipur,2013,7,343.98,11.1
+Manipur,2013,8,301.21,9.72
+Manipur,2013,9,227.29,7.58
+Manipur,2013,10,79.88,2.58
+Manipur,2013,11,0.0,0.0
+Manipur,2013,12,1.35,0.04
+Manipur,2014,1,0.0,0.0
+Manipur,2014,2,20.65,0.74
+Manipur,2014,3,33.59,1.08
+Manipur,2014,4,40.26,1.34
+Manipur,2014,5,233.35,7.53
+Manipur,2014,6,291.74,9.72
+Manipur,2014,7,122.19,3.94
+Manipur,2014,8,234.26,7.56
+Manipur,2014,9,132.89,4.43
+Manipur,2014,10,38.01,1.23
+Manipur,2014,11,0.03,0.0
+Manipur,2014,12,0.46,0.01
+Manipur,2015,1,36.51,1.18
+Manipur,2015,2,7.66,0.27
+Manipur,2015,3,19.2,0.62
+Manipur,2015,4,220.39,7.35
+Manipur,2015,5,63.17,2.04
+Manipur,2015,6,223.82,7.46
+Manipur,2015,7,328.66,10.6
+Manipur,2015,8,248.2,8.01
+Manipur,2015,9,156.39,5.21
+Manipur,2015,10,103.89,3.35
+Manipur,2015,11,10.44,0.35
+Manipur,2015,12,1.83,0.06
+Manipur,2016,1,9.95,0.32
+Manipur,2016,2,24.04,0.83
+Manipur,2016,3,49.56,1.6
+Manipur,2016,4,207.79,6.93
+Manipur,2016,5,308.66,9.96
+Manipur,2016,6,211.14,7.04
+Manipur,2016,7,315.37,10.17
+Manipur,2016,8,150.85,4.87
+Manipur,2016,9,222.1,7.4
+Manipur,2016,10,123.82,3.99
+Manipur,2016,11,64.43,2.15
+Manipur,2016,12,2.56,0.08
+Manipur,2017,1,5.36,0.17
+Manipur,2017,2,15.6,0.56
+Manipur,2017,3,188.66,6.09
+Manipur,2017,4,205.83,6.86
+Manipur,2017,5,164.46,5.31
+Manipur,2017,6,301.55,10.05
+Manipur,2017,7,386.12,12.46
+Manipur,2017,8,197.41,6.37
+Manipur,2017,9,315.28,10.51
+Manipur,2017,10,246.09,7.94
+Manipur,2017,11,4.1,0.14
+Manipur,2017,12,87.48,2.82
+Manipur,2018,1,3.76,0.12
+Manipur,2018,2,6.63,0.24
+Manipur,2018,3,51.45,1.66
+Manipur,2018,4,116.07,3.87
+Manipur,2018,5,221.4,7.14
+Manipur,2018,6,343.3,11.44
+Manipur,2018,7,290.66,9.38
+Manipur,2018,8,234.22,7.56
+Manipur,2018,9,61.75,2.06
+Manipur,2018,10,58.73,1.89
+Manipur,2018,11,0.86,0.03
+Manipur,2018,12,20.44,0.66
+Manipur,2019,1,0.88,0.03
+Manipur,2019,2,14.41,0.51
+Manipur,2019,3,30.58,0.99
+Manipur,2019,4,59.87,2.0
+Manipur,2019,5,115.54,3.73
+Manipur,2019,6,126.49,4.22
+Manipur,2019,7,174.52,5.63
+Manipur,2019,8,142.33,4.59
+Manipur,2019,9,214.85,7.16
+Manipur,2019,10,144.32,4.66
+Manipur,2019,11,29.48,0.98
+Manipur,2019,12,7.93,0.26
+Manipur,2020,1,40.35,1.3
+Manipur,2020,2,11.08,0.38
+Manipur,2020,3,17.4,0.56
+Manipur,2020,4,103.69,3.46
+Manipur,2020,5,140.27,5.01
+Manipur,2020,6,210.24,7.01
+Manipur,2020,7,109.92,6.87
+Manipur,2020,8,212.72,6.86
+Manipur,2020,9,205.48,6.85
+Manipur,2020,10,150.46,4.85
+Manipur,2020,11,75.31,2.51
+Manipur,2020,12,0.0,0.0
+Manipur,2021,1,5.21,0.17
+Manipur,2021,2,0.03,0.0
+Manipur,2021,3,45.55,1.47
+Manipur,2021,4,42.65,1.47
+Manipur,2021,5,121.1,4.18
+Manipur,2021,6,95.7,3.99
+Manipur,2021,7,140.92,4.86
+Manipur,2021,8,252.72,8.15
+Manipur,2021,9,92.69,3.09
+Manipur,2021,10,68.32,2.2
+Manipur,2021,11,0.16,0.01
+Manipur,2021,12,49.34,1.59
+Manipur,2022,1,22.54,0.73
+Manipur,2022,2,40.5,1.5
+Manipur,2022,3,13.37,0.45
+Manipur,2022,4,142.7,5.1
+Manipur,2022,5,312.15,10.07
+Manipur,2022,6,340.11,11.34
+Manipur,2022,7,192.75,6.65
+Manipur,2022,8,111.42,3.59
+Manipur,2022,9,146.09,4.87
+Manipur,2022,10,116.54,3.76
+Manipur,2022,11,0.21,0.01
+Manipur,2022,12,11.68,0.38
+Manipur,2023,1,0.0,0.0
+Manipur,2023,2,0.36,0.01
+Manipur,2023,3,35.16,1.13
+Manipur,2023,4,53.95,1.8
+Manipur,2023,5,79.92,2.58
+Manipur,2023,6,175.68,6.06
+Manipur,2023,7,139.68,4.51
+Manipur,2023,8,197.5,6.37
+Manipur,2023,9,133.99,4.47
+Manipur,2023,10,39.93,1.29
+Manipur,2023,11,44.77,1.49
+Manipur,2023,12,35.57,1.15
+Manipur,2024,1,0.0,0.0
+Manipur,2024,2,37.55,1.29
+Manipur,2024,3,1.57,0.08
+Meghalaya,2009,1,0.0,0.0
+Meghalaya,2009,2,19.17,0.68
+Meghalaya,2009,3,59.2,1.91
+Meghalaya,2009,4,219.85,7.33
+Meghalaya,2009,5,390.45,12.6
+Meghalaya,2009,6,430.52,14.35
+Meghalaya,2009,7,716.89,23.13
+Meghalaya,2009,8,746.04,24.07
+Meghalaya,2009,9,236.74,7.89
+Meghalaya,2009,10,175.05,5.65
+Meghalaya,2009,11,14.75,0.49
+Meghalaya,2009,12,0.97,0.03
+Meghalaya,2010,1,0.03,0.0
+Meghalaya,2010,2,0.47,0.02
+Meghalaya,2010,3,165.19,5.33
+Meghalaya,2010,4,737.7,24.59
+Meghalaya,2010,5,522.22,16.85
+Meghalaya,2010,6,1023.17,34.11
+Meghalaya,2010,7,613.4,19.79
+Meghalaya,2010,8,473.3,15.27
+Meghalaya,2010,9,394.52,13.15
+Meghalaya,2010,10,280.47,9.05
+Meghalaya,2010,11,9.58,0.32
+Meghalaya,2010,12,11.8,0.38
+Meghalaya,2011,1,8.62,0.28
+Meghalaya,2011,2,8.64,0.31
+Meghalaya,2011,3,98.83,3.19
+Meghalaya,2011,4,82.27,2.74
+Meghalaya,2011,5,278.1,8.97
+Meghalaya,2011,6,268.09,8.94
+Meghalaya,2011,7,320.93,10.35
+Meghalaya,2011,8,226.87,7.32
+Meghalaya,2011,9,156.94,5.23
+Meghalaya,2011,10,21.84,0.7
+Meghalaya,2011,11,15.31,0.51
+Meghalaya,2011,12,0.66,0.02
+Meghalaya,2012,1,8.07,0.26
+Meghalaya,2012,2,9.83,0.34
+Meghalaya,2012,3,9.24,0.3
+Meghalaya,2012,4,231.99,7.73
+Meghalaya,2012,5,153.6,4.95
+Meghalaya,2012,6,595.76,19.86
+Meghalaya,2012,7,267.35,8.62
+Meghalaya,2012,8,192.64,6.21
+Meghalaya,2012,9,275.27,9.18
+Meghalaya,2012,10,159.15,5.13
+Meghalaya,2012,11,0.0,0.0
+Meghalaya,2012,12,0.0,0.0
+Meghalaya,2013,1,0.0,0.0
+Meghalaya,2013,2,13.64,0.49
+Meghalaya,2013,3,24.76,0.8
+Meghalaya,2013,4,171.58,5.72
+Meghalaya,2013,5,576.39,18.59
+Meghalaya,2013,6,582.67,19.42
+Meghalaya,2013,7,555.55,17.92
+Meghalaya,2013,8,509.27,16.43
+Meghalaya,2013,9,344.62,11.49
+Meghalaya,2013,10,208.3,6.72
+Meghalaya,2013,11,2.12,0.07
+Meghalaya,2013,12,0.48,0.02
+Meghalaya,2014,1,0.22,0.01
+Meghalaya,2014,2,37.55,1.34
+Meghalaya,2014,3,32.25,1.04
+Meghalaya,2014,4,72.66,2.42
+Meghalaya,2014,5,562.17,18.13
+Meghalaya,2014,6,788.63,26.29
+Meghalaya,2014,7,599.63,19.34
+Meghalaya,2014,8,995.43,32.11
+Meghalaya,2014,9,769.31,25.64
+Meghalaya,2014,10,37.77,1.22
+Meghalaya,2014,11,0.63,0.02
+Meghalaya,2014,12,0.81,0.03
+Meghalaya,2015,1,22.12,0.71
+Meghalaya,2015,2,17.49,0.62
+Meghalaya,2015,3,42.53,1.37
+Meghalaya,2015,4,286.31,9.54
+Meghalaya,2015,5,495.8,15.99
+Meghalaya,2015,6,1429.82,47.66
+Meghalaya,2015,7,496.7,16.02
+Meghalaya,2015,8,1228.12,39.62
+Meghalaya,2015,9,582.72,19.42
+Meghalaya,2015,10,73.67,2.38
+Meghalaya,2015,11,15.7,0.52
+Meghalaya,2015,12,7.71,0.25
+Meghalaya,2016,1,15.53,0.5
+Meghalaya,2016,2,9.98,0.34
+Meghalaya,2016,3,60.08,1.94
+Meghalaya,2016,4,589.44,19.65
+Meghalaya,2016,5,611.77,19.73
+Meghalaya,2016,6,494.95,16.5
+Meghalaya,2016,7,1147.54,37.02
+Meghalaya,2016,8,182.52,5.89
+Meghalaya,2016,9,362.14,12.07
+Meghalaya,2016,10,227.95,7.35
+Meghalaya,2016,11,35.97,1.2
+Meghalaya,2016,12,7.66,0.25
+Meghalaya,2017,1,2.51,0.08
+Meghalaya,2017,2,90.71,3.24
+Meghalaya,2017,3,207.86,6.71
+Meghalaya,2017,4,572.81,19.09
+Meghalaya,2017,5,368.25,11.88
+Meghalaya,2017,6,741.27,24.71
+Meghalaya,2017,7,702.57,22.66
+Meghalaya,2017,8,886.96,28.61
+Meghalaya,2017,9,544.22,18.14
+Meghalaya,2017,10,345.69,11.15
+Meghalaya,2017,11,14.78,0.49
+Meghalaya,2017,12,28.12,0.91
+Meghalaya,2018,1,3.83,0.12
+Meghalaya,2018,2,21.07,0.75
+Meghalaya,2018,3,57.56,1.86
+Meghalaya,2018,4,176.07,5.87
+Meghalaya,2018,5,408.3,13.17
+Meghalaya,2018,6,610.82,20.36
+Meghalaya,2018,7,580.65,18.73
+Meghalaya,2018,8,452.54,14.6
+Meghalaya,2018,9,351.65,11.72
+Meghalaya,2018,10,75.73,2.44
+Meghalaya,2018,11,10.92,0.36
+Meghalaya,2018,12,22.85,0.74
+Meghalaya,2019,1,0.57,0.02
+Meghalaya,2019,2,29.7,1.06
+Meghalaya,2019,3,30.97,1.0
+Meghalaya,2019,4,225.99,7.53
+Meghalaya,2019,5,566.64,18.28
+Meghalaya,2019,6,732.35,24.41
+Meghalaya,2019,7,1109.46,35.79
+Meghalaya,2019,8,329.52,10.63
+Meghalaya,2019,9,473.56,15.79
+Meghalaya,2019,10,333.98,10.77
+Meghalaya,2019,11,24.73,0.82
+Meghalaya,2019,12,1.71,0.06
+Meghalaya,2020,1,13.13,0.42
+Meghalaya,2020,2,25.49,0.88
+Meghalaya,2020,3,40.39,1.3
+Meghalaya,2020,4,278.94,9.3
+Meghalaya,2020,5,717.65,25.63
+Meghalaya,2020,6,1106.02,36.87
+Meghalaya,2020,7,792.8,49.55
+Meghalaya,2020,8,439.04,14.16
+Meghalaya,2020,9,974.87,32.5
+Meghalaya,2020,10,290.08,9.36
+Meghalaya,2020,11,14.1,0.47
+Meghalaya,2020,12,1.22,0.04
+Meghalaya,2021,1,2.04,0.07
+Meghalaya,2021,2,1.6,0.06
+Meghalaya,2021,3,58.36,1.88
+Meghalaya,2021,4,155.32,5.36
+Meghalaya,2021,5,493.62,17.02
+Meghalaya,2021,6,634.66,26.44
+Meghalaya,2021,7,487.46,16.81
+Meghalaya,2021,8,1009.3,32.56
+Meghalaya,2021,9,184.51,6.15
+Meghalaya,2021,10,215.83,6.96
+Meghalaya,2021,11,0.16,0.01
+Meghalaya,2021,12,11.98,0.39
+Meghalaya,2022,1,25.49,0.82
+Meghalaya,2022,2,50.08,1.85
+Meghalaya,2022,3,138.45,4.62
+Meghalaya,2022,4,603.91,21.57
+Meghalaya,2022,5,1090.1,35.16
+Meghalaya,2022,6,1785.37,59.51
+Meghalaya,2022,7,370.47,12.77
+Meghalaya,2022,8,356.15,11.49
+Meghalaya,2022,9,407.37,13.58
+Meghalaya,2022,10,343.0,11.06
+Meghalaya,2022,11,1.47,0.05
+Meghalaya,2022,12,5.15,0.17
+Meghalaya,2023,1,0.0,0.0
+Meghalaya,2023,2,9.17,0.33
+Meghalaya,2023,3,148.53,4.79
+Meghalaya,2023,4,125.04,4.17
+Meghalaya,2023,5,195.19,6.3
+Meghalaya,2023,6,940.11,32.42
+Meghalaya,2023,7,638.7,20.6
+Meghalaya,2023,8,590.01,19.03
+Meghalaya,2023,9,252.77,8.43
+Meghalaya,2023,10,253.88,8.19
+Meghalaya,2023,11,21.88,0.73
+Meghalaya,2023,12,31.53,1.02
+Meghalaya,2024,1,0.69,0.02
+Meghalaya,2024,2,33.65,1.16
+Meghalaya,2024,3,14.96,0.75
+Mizoram,2009,1,0.0,0.0
+Mizoram,2009,2,9.3,0.33
+Mizoram,2009,3,61.19,1.97
+Mizoram,2009,4,140.86,4.7
+Mizoram,2009,5,171.53,5.53
+Mizoram,2009,6,263.26,8.78
+Mizoram,2009,7,305.47,9.85
+Mizoram,2009,8,333.59,10.76
+Mizoram,2009,9,226.09,7.54
+Mizoram,2009,10,106.24,3.43
+Mizoram,2009,11,16.26,0.54
+Mizoram,2009,12,0.0,0.0
+Mizoram,2010,1,1.55,0.05
+Mizoram,2010,2,2.47,0.09
+Mizoram,2010,3,105.27,3.4
+Mizoram,2010,4,285.4,9.51
+Mizoram,2010,5,277.43,8.95
+Mizoram,2010,6,372.07,12.4
+Mizoram,2010,7,368.08,11.87
+Mizoram,2010,8,379.32,12.24
+Mizoram,2010,9,335.92,11.2
+Mizoram,2010,10,267.82,8.64
+Mizoram,2010,11,20.68,0.69
+Mizoram,2010,12,41.85,1.35
+Mizoram,2011,1,15.07,0.49
+Mizoram,2011,2,5.48,0.2
+Mizoram,2011,3,32.09,1.04
+Mizoram,2011,4,48.91,1.63
+Mizoram,2011,5,319.29,10.3
+Mizoram,2011,6,296.03,9.87
+Mizoram,2011,7,360.96,11.64
+Mizoram,2011,8,369.38,11.92
+Mizoram,2011,9,204.98,6.83
+Mizoram,2011,10,52.49,1.69
+Mizoram,2011,11,0.0,0.0
+Mizoram,2011,12,0.77,0.02
+Mizoram,2012,1,9.3,0.3
+Mizoram,2012,2,7.92,0.27
+Mizoram,2012,3,12.47,0.4
+Mizoram,2012,4,367.03,12.23
+Mizoram,2012,5,196.81,6.35
+Mizoram,2012,6,471.49,15.72
+Mizoram,2012,7,324.25,10.46
+Mizoram,2012,8,294.68,9.51
+Mizoram,2012,9,92.93,3.1
+Mizoram,2012,10,93.12,3.0
+Mizoram,2012,11,0.0,0.0
+Mizoram,2012,12,0.0,0.0
+Mizoram,2013,1,0.0,0.0
+Mizoram,2013,2,4.12,0.15
+Mizoram,2013,3,9.73,0.31
+Mizoram,2013,4,45.86,1.53
+Mizoram,2013,5,345.69,11.15
+Mizoram,2013,6,271.37,9.05
+Mizoram,2013,7,271.41,8.76
+Mizoram,2013,8,340.95,11.0
+Mizoram,2013,9,312.4,10.41
+Mizoram,2013,10,171.56,5.53
+Mizoram,2013,11,2.64,0.09
+Mizoram,2013,12,0.05,0.0
+Mizoram,2014,1,0.0,0.0
+Mizoram,2014,2,26.0,0.93
+Mizoram,2014,3,18.29,0.59
+Mizoram,2014,4,44.51,1.48
+Mizoram,2014,5,209.73,6.77
+Mizoram,2014,6,235.55,7.85
+Mizoram,2014,7,220.54,7.11
+Mizoram,2014,8,242.35,7.82
+Mizoram,2014,9,517.44,17.25
+Mizoram,2014,10,105.72,3.41
+Mizoram,2014,11,11.16,0.37
+Mizoram,2014,12,0.0,0.0
+Mizoram,2015,1,10.5,0.34
+Mizoram,2015,2,5.05,0.18
+Mizoram,2015,3,23.18,0.75
+Mizoram,2015,4,235.67,7.86
+Mizoram,2015,5,156.57,5.05
+Mizoram,2015,6,361.38,12.05
+Mizoram,2015,7,357.36,11.53
+Mizoram,2015,8,390.66,12.6
+Mizoram,2015,9,299.27,9.98
+Mizoram,2015,10,189.32,6.11
+Mizoram,2015,11,3.17,0.11
+Mizoram,2015,12,5.25,0.17
+Mizoram,2016,1,1.02,0.03
+Mizoram,2016,2,39.94,1.38
+Mizoram,2016,3,103.16,3.33
+Mizoram,2016,4,151.2,5.04
+Mizoram,2016,5,190.89,6.16
+Mizoram,2016,6,289.58,9.65
+Mizoram,2016,7,565.2,18.23
+Mizoram,2016,8,348.34,11.24
+Mizoram,2016,9,448.1,14.94
+Mizoram,2016,10,121.41,3.92
+Mizoram,2016,11,61.61,2.05
+Mizoram,2016,12,0.74,0.02
+Mizoram,2017,1,0.37,0.01
+Mizoram,2017,2,8.37,0.3
+Mizoram,2017,3,133.72,4.31
+Mizoram,2017,4,354.63,11.82
+Mizoram,2017,5,186.41,6.01
+Mizoram,2017,6,759.77,25.33
+Mizoram,2017,7,604.2,19.49
+Mizoram,2017,8,929.96,30.0
+Mizoram,2017,9,430.17,14.34
+Mizoram,2017,10,312.29,10.07
+Mizoram,2017,11,14.98,0.5
+Mizoram,2017,12,81.34,2.62
+Mizoram,2018,1,4.9,0.16
+Mizoram,2018,2,6.23,0.22
+Mizoram,2018,3,35.54,1.15
+Mizoram,2018,4,96.35,3.21
+Mizoram,2018,5,298.66,9.63
+Mizoram,2018,6,581.21,19.37
+Mizoram,2018,7,428.63,13.83
+Mizoram,2018,8,599.34,19.33
+Mizoram,2018,9,239.88,8.0
+Mizoram,2018,10,194.8,6.28
+Mizoram,2018,11,4.4,0.15
+Mizoram,2018,12,6.86,0.22
+Mizoram,2019,1,0.05,0.0
+Mizoram,2019,2,26.44,0.94
+Mizoram,2019,3,21.28,0.69
+Mizoram,2019,4,99.73,3.32
+Mizoram,2019,5,188.4,6.08
+Mizoram,2019,6,307.5,10.25
+Mizoram,2019,7,603.3,19.46
+Mizoram,2019,8,249.58,8.05
+Mizoram,2019,9,243.77,8.13
+Mizoram,2019,10,93.75,3.02
+Mizoram,2019,11,33.52,1.12
+Mizoram,2019,12,3.82,0.12
+Mizoram,2020,1,53.88,1.74
+Mizoram,2020,2,6.46,0.22
+Mizoram,2020,3,2.13,0.07
+Mizoram,2020,4,108.9,3.63
+Mizoram,2020,5,204.95,7.32
+Mizoram,2020,6,217.63,7.25
+Mizoram,2020,7,196.8,12.3
+Mizoram,2020,8,293.08,9.45
+Mizoram,2020,9,204.2,6.81
+Mizoram,2020,10,251.62,8.12
+Mizoram,2020,11,34.61,1.15
+Mizoram,2020,12,0.0,0.0
+Mizoram,2021,1,4.43,0.14
+Mizoram,2021,2,0.0,0.0
+Mizoram,2021,3,24.45,0.79
+Mizoram,2021,4,35.0,1.21
+Mizoram,2021,5,156.64,5.4
+Mizoram,2021,6,245.25,10.22
+Mizoram,2021,7,352.23,12.15
+Mizoram,2021,8,376.64,12.15
+Mizoram,2021,9,295.01,9.83
+Mizoram,2021,10,126.65,4.09
+Mizoram,2021,11,32.12,1.07
+Mizoram,2021,12,60.24,1.94
+Mizoram,2022,1,8.72,0.28
+Mizoram,2022,2,24.88,0.92
+Mizoram,2022,3,16.41,0.55
+Mizoram,2022,4,57.38,2.05
+Mizoram,2022,5,338.78,10.93
+Mizoram,2022,6,354.98,11.83
+Mizoram,2022,7,367.47,12.67
+Mizoram,2022,8,343.16,11.07
+Mizoram,2022,9,253.52,8.45
+Mizoram,2022,10,200.76,6.48
+Mizoram,2022,11,1.0,0.03
+Mizoram,2022,12,5.35,0.17
+Mizoram,2023,1,0.0,0.0
+Mizoram,2023,2,0.08,0.0
+Mizoram,2023,3,55.82,1.8
+Mizoram,2023,4,102.4,3.41
+Mizoram,2023,5,121.38,3.92
+Mizoram,2023,6,284.39,9.81
+Mizoram,2023,7,273.47,8.82
+Mizoram,2023,8,377.99,12.19
+Mizoram,2023,9,258.34,8.61
+Mizoram,2023,10,95.81,3.09
+Mizoram,2023,11,71.0,2.37
+Mizoram,2023,12,57.39,1.85
+Mizoram,2024,1,2.87,0.09
+Mizoram,2024,2,20.45,0.71
+Mizoram,2024,3,0.1,0.0
+Nagaland,2009,1,8.81,0.28
+Nagaland,2009,2,18.38,0.66
+Nagaland,2009,3,32.58,1.05
+Nagaland,2009,4,72.67,2.42
+Nagaland,2009,5,132.63,4.28
+Nagaland,2009,6,244.43,8.15
+Nagaland,2009,7,281.01,9.06
+Nagaland,2009,8,380.33,12.27
+Nagaland,2009,9,256.79,8.56
+Nagaland,2009,10,122.56,3.95
+Nagaland,2009,11,20.35,0.68
+Nagaland,2009,12,1.49,0.05
+Nagaland,2010,1,2.65,0.09
+Nagaland,2010,2,2.92,0.1
+Nagaland,2010,3,135.72,4.38
+Nagaland,2010,4,308.03,10.27
+Nagaland,2010,5,236.88,7.64
+Nagaland,2010,6,397.03,13.23
+Nagaland,2010,7,428.6,13.83
+Nagaland,2010,8,347.65,11.21
+Nagaland,2010,9,305.21,10.17
+Nagaland,2010,10,146.81,4.74
+Nagaland,2010,11,15.62,0.52
+Nagaland,2010,12,16.3,0.53
+Nagaland,2011,1,10.15,0.33
+Nagaland,2011,2,18.0,0.64
+Nagaland,2011,3,87.75,2.83
+Nagaland,2011,4,127.44,4.25
+Nagaland,2011,5,215.51,6.95
+Nagaland,2011,6,300.85,10.03
+Nagaland,2011,7,481.36,15.53
+Nagaland,2011,8,232.02,7.48
+Nagaland,2011,9,274.65,9.15
+Nagaland,2011,10,60.0,1.94
+Nagaland,2011,11,4.35,0.15
+Nagaland,2011,12,0.7,0.02
+Nagaland,2012,1,29.11,0.94
+Nagaland,2012,2,8.49,0.29
+Nagaland,2012,3,39.62,1.28
+Nagaland,2012,4,319.86,10.66
+Nagaland,2012,5,163.78,5.28
+Nagaland,2012,6,333.73,11.12
+Nagaland,2012,7,340.11,10.97
+Nagaland,2012,8,353.47,11.4
+Nagaland,2012,9,0.0,0.0
+Nagaland,2012,10,0.0,0.0
+Nagaland,2012,11,0.0,0.0
+Nagaland,2012,12,0.0,0.0
+Nagaland,2013,1,1.69,0.05
+Nagaland,2013,2,5.05,0.18
+Nagaland,2013,3,50.21,1.62
+Nagaland,2013,4,133.62,4.45
+Nagaland,2013,5,319.43,10.3
+Nagaland,2013,6,193.56,6.45
+Nagaland,2013,7,393.44,12.69
+Nagaland,2013,8,288.77,9.32
+Nagaland,2013,9,193.32,6.44
+Nagaland,2013,10,119.15,3.84
+Nagaland,2013,11,0.0,0.0
+Nagaland,2013,12,3.92,0.13
+Nagaland,2014,1,2.32,0.07
+Nagaland,2014,2,22.72,0.81
+Nagaland,2014,3,32.65,1.05
+Nagaland,2014,4,55.08,1.84
+Nagaland,2014,5,175.35,5.66
+Nagaland,2014,6,311.05,10.37
+Nagaland,2014,7,358.97,11.58
+Nagaland,2014,8,251.63,8.12
+Nagaland,2014,9,173.33,5.78
+Nagaland,2014,10,54.27,1.75
+Nagaland,2014,11,1.79,0.06
+Nagaland,2014,12,1.04,0.03
+Nagaland,2015,1,20.03,0.65
+Nagaland,2015,2,17.07,0.61
+Nagaland,2015,3,41.03,1.32
+Nagaland,2015,4,222.77,7.43
+Nagaland,2015,5,176.53,5.69
+Nagaland,2015,6,269.35,8.98
+Nagaland,2015,7,280.11,9.04
+Nagaland,2015,8,258.29,8.33
+Nagaland,2015,9,187.61,6.25
+Nagaland,2015,10,104.69,3.38
+Nagaland,2015,11,10.83,0.36
+Nagaland,2015,12,29.14,0.94
+Nagaland,2016,1,21.81,0.7
+Nagaland,2016,2,22.63,0.78
+Nagaland,2016,3,96.44,3.11
+Nagaland,2016,4,308.89,10.3
+Nagaland,2016,5,293.01,9.45
+Nagaland,2016,6,248.82,8.29
+Nagaland,2016,7,333.31,10.75
+Nagaland,2016,8,252.42,8.14
+Nagaland,2016,9,293.96,9.8
+Nagaland,2016,10,82.32,2.66
+Nagaland,2016,11,51.8,1.73
+Nagaland,2016,12,6.61,0.21
+Nagaland,2017,1,2.05,0.07
+Nagaland,2017,2,34.57,1.23
+Nagaland,2017,3,117.69,3.8
+Nagaland,2017,4,184.8,6.16
+Nagaland,2017,5,215.01,6.94
+Nagaland,2017,6,267.31,8.91
+Nagaland,2017,7,423.14,13.65
+Nagaland,2017,8,252.08,8.13
+Nagaland,2017,9,273.93,9.13
+Nagaland,2017,10,180.75,5.83
+Nagaland,2017,11,5.36,0.18
+Nagaland,2017,12,16.36,0.53
+Nagaland,2018,1,10.88,0.35
+Nagaland,2018,2,27.06,0.97
+Nagaland,2018,3,88.15,2.84
+Nagaland,2018,4,124.07,4.14
+Nagaland,2018,5,243.93,7.87
+Nagaland,2018,6,359.31,11.98
+Nagaland,2018,7,361.53,11.66
+Nagaland,2018,8,281.28,9.07
+Nagaland,2018,9,199.81,6.66
+Nagaland,2018,10,60.65,1.96
+Nagaland,2018,11,6.93,0.23
+Nagaland,2018,12,44.69,1.44
+Nagaland,2019,1,3.34,0.11
+Nagaland,2019,2,30.09,1.07
+Nagaland,2019,3,79.45,2.56
+Nagaland,2019,4,120.32,4.01
+Nagaland,2019,5,239.56,7.73
+Nagaland,2019,6,167.74,5.59
+Nagaland,2019,7,229.73,7.41
+Nagaland,2019,8,184.66,5.96
+Nagaland,2019,9,269.89,9.0
+Nagaland,2019,10,211.24,6.81
+Nagaland,2019,11,25.7,0.86
+Nagaland,2019,12,4.76,0.15
+Nagaland,2020,1,35.12,1.13
+Nagaland,2020,2,17.39,0.6
+Nagaland,2020,3,15.86,0.51
+Nagaland,2020,4,137.15,4.57
+Nagaland,2020,5,144.49,5.16
+Nagaland,2020,6,249.42,8.31
+Nagaland,2020,7,146.37,9.15
+Nagaland,2020,8,260.15,8.39
+Nagaland,2020,9,258.11,8.6
+Nagaland,2020,10,183.75,5.93
+Nagaland,2020,11,62.39,2.08
+Nagaland,2020,12,0.02,0.0
+Nagaland,2021,1,5.29,0.17
+Nagaland,2021,2,0.62,0.02
+Nagaland,2021,3,35.09,1.13
+Nagaland,2021,4,33.7,1.16
+Nagaland,2021,5,121.09,4.18
+Nagaland,2021,6,160.9,6.7
+Nagaland,2021,7,205.21,7.08
+Nagaland,2021,8,243.11,7.84
+Nagaland,2021,9,112.84,3.76
+Nagaland,2021,10,84.47,2.72
+Nagaland,2021,11,1.91,0.06
+Nagaland,2021,12,11.05,0.36
+Nagaland,2022,1,31.57,1.02
+Nagaland,2022,2,54.09,2.0
+Nagaland,2022,3,18.41,0.61
+Nagaland,2022,4,179.67,6.42
+Nagaland,2022,5,185.42,5.98
+Nagaland,2022,6,278.0,9.27
+Nagaland,2022,7,260.99,9.0
+Nagaland,2022,8,217.23,7.01
+Nagaland,2022,9,241.55,8.05
+Nagaland,2022,10,122.0,3.94
+Nagaland,2022,11,0.0,0.0
+Nagaland,2022,12,15.18,0.49
+Nagaland,2023,1,0.33,0.01
+Nagaland,2023,2,13.15,0.47
+Nagaland,2023,3,69.47,2.24
+Nagaland,2023,4,82.08,2.74
+Nagaland,2023,5,143.58,4.63
+Nagaland,2023,6,313.55,10.81
+Nagaland,2023,7,365.17,11.78
+Nagaland,2023,8,394.12,12.71
+Nagaland,2023,9,210.62,7.02
+Nagaland,2023,10,101.49,3.27
+Nagaland,2023,11,35.29,1.18
+Nagaland,2023,12,37.3,1.2
+Nagaland,2024,1,0.67,0.02
+Nagaland,2024,2,47.22,1.63
+Nagaland,2024,3,1.98,0.1
+Odisha,2009,1,0.02,0.0
+Odisha,2009,2,0.07,0.0
+Odisha,2009,3,5.74,0.19
+Odisha,2009,4,4.47,0.15
+Odisha,2009,5,102.56,3.31
+Odisha,2009,6,93.65,3.12
+Odisha,2009,7,582.06,18.78
+Odisha,2009,8,292.59,9.44
+Odisha,2009,9,178.31,5.94
+Odisha,2009,10,118.62,3.83
+Odisha,2009,11,33.92,1.13
+Odisha,2009,12,0.39,0.01
+Odisha,2010,1,11.94,0.39
+Odisha,2010,2,2.57,0.09
+Odisha,2010,3,7.21,0.23
+Odisha,2010,4,6.97,0.23
+Odisha,2010,5,99.87,3.22
+Odisha,2010,6,155.17,5.17
+Odisha,2010,7,287.64,9.28
+Odisha,2010,8,268.71,8.67
+Odisha,2010,9,229.1,7.64
+Odisha,2010,10,156.95,5.06
+Odisha,2010,11,44.67,1.49
+Odisha,2010,12,44.56,1.44
+Odisha,2011,1,8.75,0.28
+Odisha,2011,2,17.43,0.62
+Odisha,2011,3,3.63,0.12
+Odisha,2011,4,53.52,1.78
+Odisha,2011,5,85.21,2.75
+Odisha,2011,6,237.54,7.92
+Odisha,2011,7,210.46,6.79
+Odisha,2011,8,361.35,11.66
+Odisha,2011,9,396.28,13.21
+Odisha,2011,10,26.11,0.84
+Odisha,2011,11,0.26,0.01
+Odisha,2011,12,1.6,0.05
+Odisha,2012,1,51.47,1.66
+Odisha,2012,2,3.39,0.12
+Odisha,2012,3,0.89,0.03
+Odisha,2012,4,37.43,1.25
+Odisha,2012,5,26.19,0.84
+Odisha,2012,6,158.35,5.28
+Odisha,2012,7,325.46,10.5
+Odisha,2012,8,396.71,12.8
+Odisha,2012,9,246.96,8.23
+Odisha,2012,10,75.05,2.42
+Odisha,2012,11,104.07,3.47
+Odisha,2012,12,3.96,0.13
+Odisha,2013,1,3.3,0.11
+Odisha,2013,2,7.44,0.27
+Odisha,2013,3,2.44,0.08
+Odisha,2013,4,54.37,1.81
+Odisha,2013,5,64.71,2.09
+Odisha,2013,6,265.77,8.86
+Odisha,2013,7,366.83,11.83
+Odisha,2013,8,259.62,8.37
+Odisha,2013,9,215.34,7.18
+Odisha,2013,10,429.54,13.86
+Odisha,2013,11,2.14,0.07
+Odisha,2013,12,0.17,0.01
+Odisha,2014,1,0.02,0.0
+Odisha,2014,2,20.79,0.74
+Odisha,2014,3,31.89,1.03
+Odisha,2014,4,14.79,0.49
+Odisha,2014,5,119.94,3.87
+Odisha,2014,6,100.75,3.36
+Odisha,2014,7,478.57,15.44
+Odisha,2014,8,384.98,12.42
+Odisha,2014,9,274.87,9.16
+Odisha,2014,10,115.11,3.71
+Odisha,2014,11,1.7,0.06
+Odisha,2014,12,1.46,0.05
+Odisha,2015,1,18.85,0.61
+Odisha,2015,2,3.78,0.13
+Odisha,2015,3,11.42,0.37
+Odisha,2015,4,69.35,2.31
+Odisha,2015,5,30.13,0.97
+Odisha,2015,6,235.63,7.85
+Odisha,2015,7,310.13,10.0
+Odisha,2015,8,252.5,8.15
+Odisha,2015,9,221.11,7.37
+Odisha,2015,10,28.49,0.92
+Odisha,2015,11,9.09,0.3
+Odisha,2015,12,18.02,0.58
+Odisha,2016,1,2.96,0.1
+Odisha,2016,2,18.08,0.62
+Odisha,2016,3,15.54,0.5
+Odisha,2016,4,9.84,0.33
+Odisha,2016,5,89.6,2.89
+Odisha,2016,6,162.05,5.4
+Odisha,2016,7,268.3,8.65
+Odisha,2016,8,314.29,10.14
+Odisha,2016,9,266.8,8.89
+Odisha,2016,10,96.54,3.11
+Odisha,2016,11,15.5,0.52
+Odisha,2016,12,0.22,0.01
+Odisha,2017,1,1.71,0.06
+Odisha,2017,2,0.0,0.0
+Odisha,2017,3,36.65,1.18
+Odisha,2017,4,10.17,0.34
+Odisha,2017,5,60.46,1.95
+Odisha,2017,6,184.42,6.15
+Odisha,2017,7,339.26,10.94
+Odisha,2017,8,294.23,9.49
+Odisha,2017,9,187.36,6.25
+Odisha,2017,10,176.23,5.68
+Odisha,2017,11,40.33,1.34
+Odisha,2017,12,7.42,0.24
+Odisha,2018,1,0.0,0.0
+Odisha,2018,2,0.36,0.01
+Odisha,2018,3,1.23,0.04
+Odisha,2018,4,82.58,2.75
+Odisha,2018,5,107.92,3.48
+Odisha,2018,6,156.67,5.22
+Odisha,2018,7,419.19,13.52
+Odisha,2018,8,384.41,12.4
+Odisha,2018,9,289.71,9.66
+Odisha,2018,10,141.64,4.57
+Odisha,2018,11,1.01,0.03
+Odisha,2018,12,54.34,1.75
+Odisha,2019,1,0.93,0.03
+Odisha,2019,2,23.89,0.85
+Odisha,2019,3,25.34,0.82
+Odisha,2019,4,40.98,1.37
+Odisha,2019,5,103.84,3.35
+Odisha,2019,6,142.43,4.75
+Odisha,2019,7,283.57,9.15
+Odisha,2019,8,429.65,13.86
+Odisha,2019,9,346.26,11.54
+Odisha,2019,10,194.35,6.27
+Odisha,2019,11,17.34,0.58
+Odisha,2019,12,2.23,0.07
+Odisha,2020,1,16.97,0.55
+Odisha,2020,2,46.71,1.61
+Odisha,2020,3,62.35,2.01
+Odisha,2020,4,113.54,3.78
+Odisha,2020,5,98.28,3.51
+Odisha,2020,6,236.05,7.87
+Odisha,2020,7,106.61,6.66
+Odisha,2020,8,482.26,15.56
+Odisha,2020,9,153.31,5.11
+Odisha,2020,10,173.85,5.61
+Odisha,2020,11,6.64,0.22
+Odisha,2020,12,0.01,0.0
+Odisha,2021,1,1.53,0.05
+Odisha,2021,2,2.22,0.08
+Odisha,2021,3,4.81,0.16
+Odisha,2021,4,26.04,0.9
+Odisha,2021,5,169.68,5.85
+Odisha,2021,6,137.5,5.73
+Odisha,2021,7,256.52,8.85
+Odisha,2021,8,199.23,6.43
+Odisha,2021,9,399.89,13.33
+Odisha,2021,10,91.52,2.95
+Odisha,2021,11,60.79,2.03
+Odisha,2021,12,55.69,1.8
+Odisha,2022,1,44.09,1.42
+Odisha,2022,2,12.27,0.45
+Odisha,2022,3,1.16,0.04
+Odisha,2022,4,12.14,0.43
+Odisha,2022,5,83.18,2.68
+Odisha,2022,6,128.13,4.27
+Odisha,2022,7,312.44,10.77
+Odisha,2022,8,466.5,15.05
+Odisha,2022,9,209.33,6.98
+Odisha,2022,10,136.14,4.39
+Odisha,2022,11,1.53,0.05
+Odisha,2022,12,0.55,0.02
+Odisha,2023,1,0.21,0.01
+Odisha,2023,2,0.07,0.0
+Odisha,2023,3,59.35,1.91
+Odisha,2023,4,65.29,2.18
+Odisha,2023,5,58.1,1.87
+Odisha,2023,6,153.69,5.3
+Odisha,2023,7,313.85,10.12
+Odisha,2023,8,294.82,9.51
+Odisha,2023,9,331.39,11.05
+Odisha,2023,10,82.23,2.65
+Odisha,2023,11,12.14,0.4
+Odisha,2023,12,30.6,0.99
+Odisha,2024,1,16.03,0.52
+Odisha,2024,2,11.45,0.39
+Odisha,2024,3,42.37,2.12
+Puducherry,2009,1,23.33,0.75
+Puducherry,2009,2,3.41,0.12
+Puducherry,2009,3,100.32,3.24
+Puducherry,2009,4,42.33,1.41
+Puducherry,2009,5,37.74,1.22
+Puducherry,2009,6,26.02,0.87
+Puducherry,2009,7,91.34,2.95
+Puducherry,2009,8,94.61,3.05
+Puducherry,2009,9,82.46,2.75
+Puducherry,2009,10,94.9,3.06
+Puducherry,2009,11,608.92,20.3
+Puducherry,2009,12,323.97,10.45
+Puducherry,2010,1,28.51,0.92
+Puducherry,2010,2,0.15,0.01
+Puducherry,2010,3,0.21,0.01
+Puducherry,2010,4,4.76,0.16
+Puducherry,2010,5,97.38,3.14
+Puducherry,2010,6,167.21,5.57
+Puducherry,2010,7,68.31,2.2
+Puducherry,2010,8,176.99,5.71
+Puducherry,2010,9,149.99,5.0
+Puducherry,2010,10,175.3,5.65
+Puducherry,2010,11,512.18,17.07
+Puducherry,2010,12,282.98,9.13
+Puducherry,2011,1,22.15,0.71
+Puducherry,2011,2,60.36,2.16
+Puducherry,2011,3,21.98,0.71
+Puducherry,2011,4,71.44,2.38
+Puducherry,2011,5,37.81,1.22
+Puducherry,2011,6,182.6,6.09
+Puducherry,2011,7,183.86,5.93
+Puducherry,2011,8,251.09,8.1
+Puducherry,2011,9,145.62,4.85
+Puducherry,2011,10,174.34,5.62
+Puducherry,2011,11,225.25,7.51
+Puducherry,2011,12,128.19,4.14
+Puducherry,2012,1,5.75,0.19
+Puducherry,2012,2,4.66,0.16
+Puducherry,2012,3,15.94,0.51
+Puducherry,2012,4,97.82,3.26
+Puducherry,2012,5,25.36,0.82
+Puducherry,2012,6,120.24,4.01
+Puducherry,2012,7,166.21,5.36
+Puducherry,2012,8,202.97,6.55
+Puducherry,2012,9,141.15,4.7
+Puducherry,2012,10,239.1,7.71
+Puducherry,2012,11,225.73,7.52
+Puducherry,2012,12,158.17,5.1
+Puducherry,2013,1,2.37,0.08
+Puducherry,2013,2,8.16,0.29
+Puducherry,2013,3,20.84,0.67
+Puducherry,2013,4,4.83,0.16
+Puducherry,2013,5,9.77,0.32
+Puducherry,2013,6,90.24,3.01
+Puducherry,2013,7,73.19,2.36
+Puducherry,2013,8,222.16,7.17
+Puducherry,2013,9,121.02,4.03
+Puducherry,2013,10,110.31,3.56
+Puducherry,2013,11,207.61,6.92
+Puducherry,2013,12,134.39,4.34
+Puducherry,2014,1,1.75,0.06
+Puducherry,2014,2,14.32,0.51
+Puducherry,2014,3,0.84,0.03
+Puducherry,2014,4,3.12,0.1
+Puducherry,2014,5,135.36,4.37
+Puducherry,2014,6,72.45,2.41
+Puducherry,2014,7,85.88,2.77
+Puducherry,2014,8,135.11,4.36
+Puducherry,2014,9,113.95,3.8
+Puducherry,2014,10,342.19,11.04
+Puducherry,2014,11,224.49,7.48
+Puducherry,2014,12,93.64,3.02
+Puducherry,2015,1,9.66,0.31
+Puducherry,2015,2,0.0,0.0
+Puducherry,2015,3,2.01,0.06
+Puducherry,2015,4,53.06,1.77
+Puducherry,2015,5,87.87,2.83
+Puducherry,2015,6,67.91,2.26
+Puducherry,2015,7,65.2,2.1
+Puducherry,2015,8,97.06,3.13
+Puducherry,2015,9,62.78,2.09
+Puducherry,2015,10,87.72,2.83
+Puducherry,2015,11,730.11,24.34
+Puducherry,2015,12,546.17,17.62
+Puducherry,2016,1,0.78,0.03
+Puducherry,2016,2,0.41,0.01
+Puducherry,2016,3,1.76,0.06
+Puducherry,2016,4,1.0,0.03
+Puducherry,2016,5,127.88,4.13
+Puducherry,2016,6,83.83,2.79
+Puducherry,2016,7,60.99,1.97
+Puducherry,2016,8,126.98,4.1
+Puducherry,2016,9,105.15,3.51
+Puducherry,2016,10,37.8,1.22
+Puducherry,2016,11,56.99,1.9
+Puducherry,2016,12,76.94,2.48
+Puducherry,2017,1,44.02,1.42
+Puducherry,2017,2,0.08,0.0
+Puducherry,2017,3,32.5,1.05
+Puducherry,2017,4,1.81,0.06
+Puducherry,2017,5,6.84,0.22
+Puducherry,2017,6,48.19,1.61
+Puducherry,2017,7,70.95,2.29
+Puducherry,2017,8,110.24,3.56
+Puducherry,2017,9,53.2,1.77
+Puducherry,2017,10,150.24,4.85
+Puducherry,2017,11,288.61,9.62
+Puducherry,2017,12,68.16,2.2
+Puducherry,2018,1,19.62,0.63
+Puducherry,2018,2,0.5,0.02
+Puducherry,2018,3,8.94,0.29
+Puducherry,2018,4,13.56,0.45
+Puducherry,2018,5,20.15,0.65
+Puducherry,2018,6,75.15,2.51
+Puducherry,2018,7,49.37,1.59
+Puducherry,2018,8,114.13,3.68
+Puducherry,2018,9,61.46,2.05
+Puducherry,2018,10,198.53,6.4
+Puducherry,2018,11,291.72,9.72
+Puducherry,2018,12,53.85,1.74
+Puducherry,2019,1,0.57,0.02
+Puducherry,2019,2,2.86,0.1
+Puducherry,2019,3,1.59,0.05
+Puducherry,2019,4,4.96,0.17
+Puducherry,2019,5,12.78,0.41
+Puducherry,2019,6,32.14,1.07
+Puducherry,2019,7,108.84,3.51
+Puducherry,2019,8,171.41,5.53
+Puducherry,2019,9,165.45,5.52
+Puducherry,2019,10,274.01,8.84
+Puducherry,2019,11,240.69,8.02
+Puducherry,2019,12,259.05,8.36
+Puducherry,2020,1,16.12,0.52
+Puducherry,2020,2,2.86,0.1
+Puducherry,2020,3,0.47,0.02
+Puducherry,2020,4,12.9,0.43
+Puducherry,2020,5,21.85,0.78
+Puducherry,2020,6,62.29,2.08
+Puducherry,2020,7,89.36,5.58
+Puducherry,2020,8,90.16,2.91
+Puducherry,2020,9,141.98,4.73
+Puducherry,2020,10,163.3,5.27
+Puducherry,2020,11,374.6,12.49
+Puducherry,2020,12,513.65,16.57
+Puducherry,2021,1,186.65,6.02
+Puducherry,2021,2,110.33,3.94
+Puducherry,2021,3,1.14,0.04
+Puducherry,2021,4,6.9,0.24
+Puducherry,2021,5,53.34,1.84
+Puducherry,2021,6,44.17,1.84
+Puducherry,2021,7,144.87,5.0
+Puducherry,2021,8,138.49,4.47
+Puducherry,2021,9,143.84,4.79
+Puducherry,2021,10,314.45,10.14
+Puducherry,2021,11,922.5,30.75
+Puducherry,2021,12,77.71,2.51
+Puducherry,2022,1,64.02,2.07
+Puducherry,2022,2,29.31,1.09
+Puducherry,2022,3,17.2,0.57
+Puducherry,2022,4,28.04,1.0
+Puducherry,2022,5,96.66,3.12
+Puducherry,2022,6,61.99,2.07
+Puducherry,2022,7,101.09,3.49
+Puducherry,2022,8,129.02,4.16
+Puducherry,2022,9,87.32,2.91
+Puducherry,2022,10,193.5,6.24
+Puducherry,2022,11,332.27,11.08
+Puducherry,2022,12,136.99,4.42
+Puducherry,2023,1,6.55,0.22
+Puducherry,2023,2,36.07,1.29
+Puducherry,2023,3,21.68,0.7
+Puducherry,2023,4,24.78,0.83
+Puducherry,2023,5,67.58,2.18
+Puducherry,2023,6,76.68,2.64
+Puducherry,2023,7,128.41,4.14
+Puducherry,2023,8,79.97,2.58
+Puducherry,2023,9,165.72,5.52
+Puducherry,2023,10,54.65,1.76
+Puducherry,2023,11,528.78,17.63
+Puducherry,2023,12,135.13,4.36
+Puducherry,2024,1,203.67,6.57
+Puducherry,2024,2,0.16,0.01
+Puducherry,2024,3,0.0,0.0
+Punjab,2009,1,17.01,0.55
+Punjab,2009,2,23.62,0.84
+Punjab,2009,3,17.11,0.55
+Punjab,2009,4,23.42,0.78
+Punjab,2009,5,7.54,0.24
+Punjab,2009,6,21.03,0.7
+Punjab,2009,7,177.57,5.73
+Punjab,2009,8,102.8,3.32
+Punjab,2009,9,94.16,3.14
+Punjab,2009,10,5.46,0.18
+Punjab,2009,11,6.33,0.21
+Punjab,2009,12,0.06,0.0
+Punjab,2010,1,6.08,0.2
+Punjab,2010,2,10.4,0.37
+Punjab,2010,3,1.75,0.06
+Punjab,2010,4,1.59,0.05
+Punjab,2010,5,6.94,0.22
+Punjab,2010,6,43.32,1.44
+Punjab,2010,7,234.67,7.57
+Punjab,2010,8,136.72,4.41
+Punjab,2010,9,110.7,3.69
+Punjab,2010,10,6.87,0.22
+Punjab,2010,11,0.62,0.02
+Punjab,2010,12,22.2,0.72
+Punjab,2011,1,9.63,0.31
+Punjab,2011,2,51.49,1.84
+Punjab,2011,3,26.61,0.86
+Punjab,2011,4,20.0,0.67
+Punjab,2011,5,24.85,0.8
+Punjab,2011,6,160.26,5.34
+Punjab,2011,7,216.63,6.99
+Punjab,2011,8,206.55,6.66
+Punjab,2011,9,196.57,6.55
+Punjab,2011,10,5.24,0.17
+Punjab,2011,11,0.65,0.02
+Punjab,2011,12,7.25,0.23
+Punjab,2012,1,59.45,1.92
+Punjab,2012,2,22.99,0.79
+Punjab,2012,3,11.73,0.38
+Punjab,2012,4,45.07,1.5
+Punjab,2012,5,8.95,0.29
+Punjab,2012,6,15.27,0.51
+Punjab,2012,7,183.3,5.91
+Punjab,2012,8,263.57,8.5
+Punjab,2012,9,160.03,5.33
+Punjab,2012,10,4.35,0.14
+Punjab,2012,11,1.24,0.04
+Punjab,2012,12,9.63,0.31
+Punjab,2013,1,13.97,0.45
+Punjab,2013,2,70.26,2.51
+Punjab,2013,3,14.55,0.47
+Punjab,2013,4,3.99,0.13
+Punjab,2013,5,4.86,0.16
+Punjab,2013,6,134.38,4.48
+Punjab,2013,7,146.64,4.73
+Punjab,2013,8,233.97,7.55
+Punjab,2013,9,31.15,1.04
+Punjab,2013,10,16.0,0.52
+Punjab,2013,11,5.74,0.19
+Punjab,2013,12,8.92,0.29
+Punjab,2014,1,30.42,0.98
+Punjab,2014,2,25.69,0.92
+Punjab,2014,3,36.78,1.19
+Punjab,2014,4,23.67,0.79
+Punjab,2014,5,25.58,0.83
+Punjab,2014,6,26.65,0.89
+Punjab,2014,7,111.25,3.59
+Punjab,2014,8,56.45,1.82
+Punjab,2014,9,126.18,4.21
+Punjab,2014,10,9.89,0.32
+Punjab,2014,11,0.61,0.02
+Punjab,2014,12,20.87,0.67
+Punjab,2015,1,22.08,0.71
+Punjab,2015,2,37.6,1.34
+Punjab,2015,3,88.33,2.85
+Punjab,2015,4,34.32,1.14
+Punjab,2015,5,18.79,0.61
+Punjab,2015,6,55.77,1.86
+Punjab,2015,7,163.13,5.26
+Punjab,2015,8,103.35,3.33
+Punjab,2015,9,82.25,2.74
+Punjab,2015,10,8.97,0.29
+Punjab,2015,11,1.1,0.04
+Punjab,2015,12,1.1,0.04
+Punjab,2016,1,5.22,0.17
+Punjab,2016,2,6.26,0.22
+Punjab,2016,3,41.12,1.33
+Punjab,2016,4,1.46,0.05
+Punjab,2016,5,28.57,0.92
+Punjab,2016,6,67.05,2.24
+Punjab,2016,7,151.58,4.89
+Punjab,2016,8,169.71,5.47
+Punjab,2016,9,20.8,0.69
+Punjab,2016,10,1.57,0.05
+Punjab,2016,11,0.36,0.01
+Punjab,2016,12,1.6,0.05
+Punjab,2017,1,56.53,1.82
+Punjab,2017,2,4.34,0.16
+Punjab,2017,3,17.0,0.55
+Punjab,2017,4,14.19,0.47
+Punjab,2017,5,13.54,0.44
+Punjab,2017,6,108.04,3.6
+Punjab,2017,7,120.18,3.88
+Punjab,2017,8,149.81,4.83
+Punjab,2017,9,66.02,2.2
+Punjab,2017,10,0.0,0.0
+Punjab,2017,11,3.83,0.13
+Punjab,2017,12,16.87,0.54
+Punjab,2018,1,9.48,0.31
+Punjab,2018,2,16.43,0.59
+Punjab,2018,3,5.1,0.16
+Punjab,2018,4,14.61,0.49
+Punjab,2018,5,8.94,0.29
+Punjab,2018,6,95.56,3.19
+Punjab,2018,7,184.45,5.95
+Punjab,2018,8,130.3,4.2
+Punjab,2018,9,212.66,7.09
+Punjab,2018,10,5.11,0.16
+Punjab,2018,11,2.88,0.1
+Punjab,2018,12,4.83,0.16
+Punjab,2019,1,32.71,1.06
+Punjab,2019,2,69.03,2.47
+Punjab,2019,3,10.65,0.34
+Punjab,2019,4,24.6,0.82
+Punjab,2019,5,20.45,0.66
+Punjab,2019,6,27.54,0.92
+Punjab,2019,7,204.13,6.58
+Punjab,2019,8,181.35,5.85
+Punjab,2019,9,76.92,2.56
+Punjab,2019,10,7.74,0.25
+Punjab,2019,11,23.2,0.77
+Punjab,2019,12,30.23,0.98
+Punjab,2020,1,47.23,1.52
+Punjab,2020,2,8.65,0.3
+Punjab,2020,3,85.32,2.75
+Punjab,2020,4,18.36,0.61
+Punjab,2020,5,26.65,0.95
+Punjab,2020,6,58.54,1.95
+Punjab,2020,7,114.81,7.18
+Punjab,2020,8,155.03,5.0
+Punjab,2020,9,23.65,0.79
+Punjab,2020,10,0.0,0.0
+Punjab,2020,11,14.44,0.48
+Punjab,2020,12,9.94,0.32
+Punjab,2021,1,12.25,0.4
+Punjab,2021,2,4.62,0.16
+Punjab,2021,3,7.98,0.26
+Punjab,2021,4,20.76,0.72
+Punjab,2021,5,23.8,0.82
+Punjab,2021,6,52.65,2.19
+Punjab,2021,7,216.36,7.46
+Punjab,2021,8,85.46,2.76
+Punjab,2021,9,166.24,5.54
+Punjab,2021,10,38.51,1.24
+Punjab,2021,11,0.24,0.01
+Punjab,2021,12,0.33,0.01
+Punjab,2022,1,121.05,3.9
+Punjab,2022,2,26.69,0.99
+Punjab,2022,3,0.54,0.02
+Punjab,2022,4,0.37,0.01
+Punjab,2022,5,23.84,0.77
+Punjab,2022,6,49.47,1.65
+Punjab,2022,7,238.17,8.21
+Punjab,2022,8,84.64,2.73
+Punjab,2022,9,127.8,4.26
+Punjab,2022,10,15.77,0.51
+Punjab,2022,11,1.87,0.06
+Punjab,2022,12,0.76,0.02
+Punjab,2023,1,20.85,0.7
+Punjab,2023,2,0.12,0.0
+Punjab,2023,3,59.31,1.91
+Punjab,2023,4,31.36,1.05
+Punjab,2023,5,58.33,1.88
+Punjab,2023,6,80.55,2.78
+Punjab,2023,7,292.15,9.42
+Punjab,2023,8,91.71,2.96
+Punjab,2023,9,73.01,2.43
+Punjab,2023,10,25.0,0.81
+Punjab,2023,11,12.6,0.42
+Punjab,2023,12,4.21,0.14
+Punjab,2024,1,1.2,0.04
+Punjab,2024,2,21.52,0.74
+Punjab,2024,3,17.92,0.9
+Rajasthan,2009,1,2.29,0.07
+Rajasthan,2009,2,1.85,0.07
+Rajasthan,2009,3,4.62,0.15
+Rajasthan,2009,4,1.18,0.04
+Rajasthan,2009,5,6.41,0.21
+Rajasthan,2009,6,31.52,1.05
+Rajasthan,2009,7,133.83,4.32
+Rajasthan,2009,8,74.1,2.39
+Rajasthan,2009,9,28.17,0.94
+Rajasthan,2009,10,8.53,0.28
+Rajasthan,2009,11,5.78,0.19
+Rajasthan,2009,12,0.58,0.02
+Rajasthan,2010,1,2.78,0.09
+Rajasthan,2010,2,3.43,0.12
+Rajasthan,2010,3,0.47,0.02
+Rajasthan,2010,4,1.65,0.06
+Rajasthan,2010,5,1.85,0.06
+Rajasthan,2010,6,38.63,1.29
+Rajasthan,2010,7,161.71,5.22
+Rajasthan,2010,8,218.76,7.06
+Rajasthan,2010,9,121.78,4.06
+Rajasthan,2010,10,0.52,0.02
+Rajasthan,2010,11,37.09,1.24
+Rajasthan,2010,12,2.09,0.07
+Rajasthan,2011,1,0.0,0.0
+Rajasthan,2011,2,12.88,0.46
+Rajasthan,2011,3,0.74,0.02
+Rajasthan,2011,4,1.16,0.04
+Rajasthan,2011,5,8.27,0.27
+Rajasthan,2011,6,87.07,2.9
+Rajasthan,2011,7,136.3,4.4
+Rajasthan,2011,8,233.6,7.54
+Rajasthan,2011,9,139.18,4.64
+Rajasthan,2011,10,0.05,0.0
+Rajasthan,2011,11,0.0,0.0
+Rajasthan,2011,12,0.0,0.0
+Rajasthan,2012,1,2.5,0.08
+Rajasthan,2012,2,0.03,0.0
+Rajasthan,2012,3,0.0,0.0
+Rajasthan,2012,4,13.15,0.44
+Rajasthan,2012,5,16.19,0.52
+Rajasthan,2012,6,14.44,0.48
+Rajasthan,2012,7,113.57,3.66
+Rajasthan,2012,8,266.27,8.59
+Rajasthan,2012,9,112.67,3.76
+Rajasthan,2012,10,1.26,0.04
+Rajasthan,2012,11,0.0,0.0
+Rajasthan,2012,12,1.48,0.05
+Rajasthan,2013,1,4.13,0.13
+Rajasthan,2013,2,20.21,0.72
+Rajasthan,2013,3,2.41,0.08
+Rajasthan,2013,4,2.71,0.09
+Rajasthan,2013,5,1.06,0.03
+Rajasthan,2013,6,64.64,2.15
+Rajasthan,2013,7,208.07,6.71
+Rajasthan,2013,8,206.89,6.67
+Rajasthan,2013,9,66.07,2.2
+Rajasthan,2013,10,18.0,0.58
+Rajasthan,2013,11,1.11,0.04
+Rajasthan,2013,12,0.1,0.0
+Rajasthan,2014,1,12.64,0.41
+Rajasthan,2014,2,5.83,0.21
+Rajasthan,2014,3,4.97,0.16
+Rajasthan,2014,4,7.54,0.25
+Rajasthan,2014,5,15.49,0.5
+Rajasthan,2014,6,19.6,0.65
+Rajasthan,2014,7,133.13,4.29
+Rajasthan,2014,8,153.61,4.96
+Rajasthan,2014,9,101.97,3.4
+Rajasthan,2014,10,1.89,0.06
+Rajasthan,2014,11,0.07,0.0
+Rajasthan,2014,12,0.73,0.02
+Rajasthan,2015,1,5.48,0.18
+Rajasthan,2015,2,0.76,0.03
+Rajasthan,2015,3,41.23,1.33
+Rajasthan,2015,4,21.04,0.7
+Rajasthan,2015,5,9.2,0.3
+Rajasthan,2015,6,69.89,2.33
+Rajasthan,2015,7,259.39,8.37
+Rajasthan,2015,8,100.03,3.23
+Rajasthan,2015,9,26.21,0.87
+Rajasthan,2015,10,3.18,0.1
+Rajasthan,2015,11,0.27,0.01
+Rajasthan,2015,12,0.44,0.01
+Rajasthan,2016,1,0.42,0.01
+Rajasthan,2016,2,0.99,0.03
+Rajasthan,2016,3,5.24,0.17
+Rajasthan,2016,4,0.04,0.0
+Rajasthan,2016,5,5.61,0.18
+Rajasthan,2016,6,45.01,1.5
+Rajasthan,2016,7,186.5,6.02
+Rajasthan,2016,8,275.06,8.87
+Rajasthan,2016,9,23.18,0.77
+Rajasthan,2016,10,24.42,0.79
+Rajasthan,2016,11,0.02,0.0
+Rajasthan,2016,12,0.0,0.0
+Rajasthan,2017,1,10.13,0.33
+Rajasthan,2017,2,0.1,0.0
+Rajasthan,2017,3,6.72,0.22
+Rajasthan,2017,4,2.8,0.09
+Rajasthan,2017,5,19.74,0.64
+Rajasthan,2017,6,83.85,2.8
+Rajasthan,2017,7,238.11,7.68
+Rajasthan,2017,8,84.02,2.71
+Rajasthan,2017,9,33.21,1.11
+Rajasthan,2017,10,0.0,0.0
+Rajasthan,2017,11,0.51,0.02
+Rajasthan,2017,12,3.54,0.11
+Rajasthan,2018,1,0.24,0.01
+Rajasthan,2018,2,0.2,0.01
+Rajasthan,2018,3,0.36,0.01
+Rajasthan,2018,4,6.83,0.23
+Rajasthan,2018,5,5.1,0.16
+Rajasthan,2018,6,72.33,2.41
+Rajasthan,2018,7,153.01,4.94
+Rajasthan,2018,8,93.08,3.0
+Rajasthan,2018,9,78.26,2.61
+Rajasthan,2018,10,0.56,0.02
+Rajasthan,2018,11,0.17,0.01
+Rajasthan,2018,12,0.34,0.01
+Rajasthan,2019,1,6.19,0.2
+Rajasthan,2019,2,2.66,0.1
+Rajasthan,2019,3,1.33,0.04
+Rajasthan,2019,4,11.38,0.38
+Rajasthan,2019,5,15.23,0.49
+Rajasthan,2019,6,44.0,1.47
+Rajasthan,2019,7,172.12,5.55
+Rajasthan,2019,8,246.22,7.94
+Rajasthan,2019,9,116.52,3.88
+Rajasthan,2019,10,21.29,0.69
+Rajasthan,2019,11,14.66,0.49
+Rajasthan,2019,12,2.75,0.09
+Rajasthan,2020,1,5.14,0.17
+Rajasthan,2020,2,0.22,0.01
+Rajasthan,2020,3,19.97,0.64
+Rajasthan,2020,4,4.32,0.14
+Rajasthan,2020,5,17.39,0.62
+Rajasthan,2020,6,47.99,1.6
+Rajasthan,2020,7,48.2,3.01
+Rajasthan,2020,8,215.61,6.96
+Rajasthan,2020,9,71.78,2.39
+Rajasthan,2020,10,3.35,0.11
+Rajasthan,2020,11,2.43,0.08
+Rajasthan,2020,12,0.38,0.01
+Rajasthan,2021,1,9.0,0.29
+Rajasthan,2021,2,0.09,0.0
+Rajasthan,2021,3,2.18,0.07
+Rajasthan,2021,4,2.04,0.07
+Rajasthan,2021,5,47.99,1.65
+Rajasthan,2021,6,43.68,1.82
+Rajasthan,2021,7,119.67,4.13
+Rajasthan,2021,8,131.7,4.25
+Rajasthan,2021,9,172.88,5.76
+Rajasthan,2021,10,21.79,0.7
+Rajasthan,2021,11,10.15,0.34
+Rajasthan,2021,12,5.03,0.16
+Rajasthan,2022,1,24.74,0.8
+Rajasthan,2022,2,1.21,0.04
+Rajasthan,2022,3,2.15,0.07
+Rajasthan,2022,4,0.19,0.01
+Rajasthan,2022,5,5.97,0.19
+Rajasthan,2022,6,54.1,1.8
+Rajasthan,2022,7,245.14,8.45
+Rajasthan,2022,8,211.29,6.82
+Rajasthan,2022,9,55.57,1.85
+Rajasthan,2022,10,33.2,1.07
+Rajasthan,2022,11,1.11,0.04
+Rajasthan,2022,12,0.0,0.0
+Rajasthan,2023,1,12.7,0.42
+Rajasthan,2023,2,0.0,0.0
+Rajasthan,2023,3,18.37,0.59
+Rajasthan,2023,4,13.63,0.45
+Rajasthan,2023,5,61.62,1.99
+Rajasthan,2023,6,149.62,5.16
+Rajasthan,2023,7,224.88,7.25
+Rajasthan,2023,8,31.41,1.01
+Rajasthan,2023,9,82.52,2.75
+Rajasthan,2023,10,8.42,0.27
+Rajasthan,2023,11,9.44,0.31
+Rajasthan,2023,12,5.12,0.17
+Rajasthan,2024,1,0.45,0.01
+Rajasthan,2024,2,4.8,0.17
+Rajasthan,2024,3,2.79,0.14
+Sikkim,2009,1,16.28,0.53
+Sikkim,2009,2,95.25,3.4
+Sikkim,2009,3,130.7,4.22
+Sikkim,2009,4,251.27,8.38
+Sikkim,2009,5,314.13,10.13
+Sikkim,2009,6,405.96,13.53
+Sikkim,2009,7,417.45,13.47
+Sikkim,2009,8,469.57,15.15
+Sikkim,2009,9,217.73,7.26
+Sikkim,2009,10,215.36,6.95
+Sikkim,2009,11,7.82,0.26
+Sikkim,2009,12,2.44,0.08
+Sikkim,2010,1,0.0,0.0
+Sikkim,2010,2,14.9,0.53
+Sikkim,2010,3,251.93,8.13
+Sikkim,2010,4,435.92,14.53
+Sikkim,2010,5,470.12,15.17
+Sikkim,2010,6,554.86,18.5
+Sikkim,2010,7,630.23,20.33
+Sikkim,2010,8,498.17,16.07
+Sikkim,2010,9,359.91,12.0
+Sikkim,2010,10,96.98,3.13
+Sikkim,2010,11,30.99,1.03
+Sikkim,2010,12,0.0,0.0
+Sikkim,2011,1,12.68,0.41
+Sikkim,2011,2,43.07,1.54
+Sikkim,2011,3,85.63,2.76
+Sikkim,2011,4,124.38,4.15
+Sikkim,2011,5,209.77,6.77
+Sikkim,2011,6,403.4,13.45
+Sikkim,2011,7,515.15,16.62
+Sikkim,2011,8,366.28,11.82
+Sikkim,2011,9,254.88,8.5
+Sikkim,2011,10,87.45,2.82
+Sikkim,2011,11,47.02,1.57
+Sikkim,2011,12,2.97,0.1
+Sikkim,2012,1,31.93,1.03
+Sikkim,2012,2,19.01,0.66
+Sikkim,2012,3,99.97,3.22
+Sikkim,2012,4,238.97,7.97
+Sikkim,2012,5,172.74,5.57
+Sikkim,2012,6,419.02,13.97
+Sikkim,2012,7,593.11,19.13
+Sikkim,2012,8,369.73,11.93
+Sikkim,2012,9,417.64,13.92
+Sikkim,2012,10,101.51,3.27
+Sikkim,2012,11,0.0,0.0
+Sikkim,2012,12,5.51,0.18
+Sikkim,2013,1,4.64,0.15
+Sikkim,2013,2,39.49,1.41
+Sikkim,2013,3,115.0,3.71
+Sikkim,2013,4,270.55,9.02
+Sikkim,2013,5,464.79,14.99
+Sikkim,2013,6,474.55,15.82
+Sikkim,2013,7,572.62,18.47
+Sikkim,2013,8,383.8,12.38
+Sikkim,2013,9,279.56,9.32
+Sikkim,2013,10,253.89,8.19
+Sikkim,2013,11,49.27,1.64
+Sikkim,2013,12,6.92,0.22
+Sikkim,2014,1,0.02,0.0
+Sikkim,2014,2,6.31,0.23
+Sikkim,2014,3,68.23,2.2
+Sikkim,2014,4,123.0,4.1
+Sikkim,2014,5,474.94,15.32
+Sikkim,2014,6,526.82,17.56
+Sikkim,2014,7,538.63,17.38
+Sikkim,2014,8,567.1,18.29
+Sikkim,2014,9,313.34,10.44
+Sikkim,2014,10,24.6,0.79
+Sikkim,2014,11,2.56,0.09
+Sikkim,2014,12,4.75,0.15
+Sikkim,2015,1,10.58,0.34
+Sikkim,2015,2,29.01,1.04
+Sikkim,2015,3,84.25,2.72
+Sikkim,2015,4,340.25,11.34
+Sikkim,2015,5,456.35,14.72
+Sikkim,2015,6,739.84,24.66
+Sikkim,2015,7,522.36,16.85
+Sikkim,2015,8,490.89,15.84
+Sikkim,2015,9,321.84,10.73
+Sikkim,2015,10,87.05,2.81
+Sikkim,2015,11,72.1,2.4
+Sikkim,2015,12,1.84,0.06
+Sikkim,2016,1,42.51,1.37
+Sikkim,2016,2,16.66,0.57
+Sikkim,2016,3,205.34,6.62
+Sikkim,2016,4,272.71,9.09
+Sikkim,2016,5,386.06,12.45
+Sikkim,2016,6,521.69,17.39
+Sikkim,2016,7,592.97,19.13
+Sikkim,2016,8,296.25,9.56
+Sikkim,2016,9,566.94,18.9
+Sikkim,2016,10,150.21,4.85
+Sikkim,2016,11,0.0,0.0
+Sikkim,2016,12,0.3,0.01
+Sikkim,2017,1,11.48,0.37
+Sikkim,2017,2,21.86,0.78
+Sikkim,2017,3,138.6,4.47
+Sikkim,2017,4,367.34,12.24
+Sikkim,2017,5,326.81,10.54
+Sikkim,2017,6,537.16,17.91
+Sikkim,2017,7,525.55,16.95
+Sikkim,2017,8,570.76,18.41
+Sikkim,2017,9,398.1,13.27
+Sikkim,2017,10,173.15,5.59
+Sikkim,2017,11,8.87,0.3
+Sikkim,2017,12,0.0,0.0
+Sikkim,2018,1,5.58,0.18
+Sikkim,2018,2,51.74,1.85
+Sikkim,2018,3,135.35,4.37
+Sikkim,2018,4,282.83,9.43
+Sikkim,2018,5,397.48,12.82
+Sikkim,2018,6,556.24,18.54
+Sikkim,2018,7,616.23,19.88
+Sikkim,2018,8,573.24,18.49
+Sikkim,2018,9,530.09,17.67
+Sikkim,2018,10,130.94,4.22
+Sikkim,2018,11,28.89,0.96
+Sikkim,2018,12,22.17,0.72
+Sikkim,2019,1,11.02,0.36
+Sikkim,2019,2,72.21,2.58
+Sikkim,2019,3,194.63,6.28
+Sikkim,2019,4,207.79,6.93
+Sikkim,2019,5,485.73,15.67
+Sikkim,2019,6,544.5,18.15
+Sikkim,2019,7,730.72,23.57
+Sikkim,2019,8,413.0,13.32
+Sikkim,2019,9,478.02,15.93
+Sikkim,2019,10,105.57,3.41
+Sikkim,2019,11,8.64,0.29
+Sikkim,2019,12,21.43,0.69
+Sikkim,2020,1,60.84,1.96
+Sikkim,2020,2,28.68,0.99
+Sikkim,2020,3,150.82,4.87
+Sikkim,2020,4,294.09,9.8
+Sikkim,2020,5,296.3,10.58
+Sikkim,2020,6,768.41,25.61
+Sikkim,2020,7,453.09,28.32
+Sikkim,2020,8,449.61,14.5
+Sikkim,2020,9,483.23,16.11
+Sikkim,2020,10,146.44,4.72
+Sikkim,2020,11,19.35,0.64
+Sikkim,2020,12,20.42,0.66
+Sikkim,2021,1,22.98,0.74
+Sikkim,2021,2,40.98,1.46
+Sikkim,2021,3,169.77,5.48
+Sikkim,2021,4,247.76,8.54
+Sikkim,2021,5,409.71,14.13
+Sikkim,2021,6,522.91,21.79
+Sikkim,2021,7,435.98,15.03
+Sikkim,2021,8,599.61,19.34
+Sikkim,2021,9,324.75,10.82
+Sikkim,2021,10,275.37,8.88
+Sikkim,2021,11,14.31,0.48
+Sikkim,2021,12,32.94,1.06
+Sikkim,2022,1,43.51,1.4
+Sikkim,2022,2,113.56,4.21
+Sikkim,2022,3,92.88,3.1
+Sikkim,2022,4,348.55,12.45
+Sikkim,2022,5,419.22,13.52
+Sikkim,2022,6,798.14,26.6
+Sikkim,2022,7,390.4,13.46
+Sikkim,2022,8,502.7,16.22
+Sikkim,2022,9,563.46,18.78
+Sikkim,2022,10,318.07,10.26
+Sikkim,2022,11,5.46,0.18
+Sikkim,2022,12,2.96,0.1
+Sikkim,2023,1,1.3,0.04
+Sikkim,2023,2,106.84,3.82
+Sikkim,2023,3,230.54,7.44
+Sikkim,2023,4,259.12,8.64
+Sikkim,2023,5,308.25,9.94
+Sikkim,2023,6,507.12,17.49
+Sikkim,2023,7,545.03,17.58
+Sikkim,2023,8,550.23,17.75
+Sikkim,2023,9,252.51,8.42
+Sikkim,2023,10,273.1,8.81
+Sikkim,2023,11,20.53,0.68
+Sikkim,2023,12,10.0,0.32
+Sikkim,2024,1,21.26,0.69
+Sikkim,2024,2,62.2,2.14
+Sikkim,2024,3,22.18,1.11
+Tamil Nadu,2009,1,9.7,0.31
+Tamil Nadu,2009,2,0.3,0.01
+Tamil Nadu,2009,3,35.68,1.15
+Tamil Nadu,2009,4,42.76,1.43
+Tamil Nadu,2009,5,52.16,1.68
+Tamil Nadu,2009,6,26.86,0.9
+Tamil Nadu,2009,7,40.99,1.32
+Tamil Nadu,2009,8,77.84,2.51
+Tamil Nadu,2009,9,106.19,3.54
+Tamil Nadu,2009,10,58.67,1.89
+Tamil Nadu,2009,11,335.67,11.19
+Tamil Nadu,2009,12,128.86,4.16
+Tamil Nadu,2010,1,12.42,0.4
+Tamil Nadu,2010,2,0.1,0.0
+Tamil Nadu,2010,3,1.13,0.04
+Tamil Nadu,2010,4,17.59,0.59
+Tamil Nadu,2010,5,92.24,2.98
+Tamil Nadu,2010,6,77.2,2.57
+Tamil Nadu,2010,7,74.46,2.4
+Tamil Nadu,2010,8,111.38,3.59
+Tamil Nadu,2010,9,122.6,4.09
+Tamil Nadu,2010,10,157.76,5.09
+Tamil Nadu,2010,11,360.62,12.02
+Tamil Nadu,2010,12,152.03,4.9
+Tamil Nadu,2011,1,31.05,1.0
+Tamil Nadu,2011,2,75.43,2.69
+Tamil Nadu,2011,3,39.58,1.28
+Tamil Nadu,2011,4,125.2,4.17
+Tamil Nadu,2011,5,74.87,2.42
+Tamil Nadu,2011,6,253.72,8.46
+Tamil Nadu,2011,7,198.4,6.4
+Tamil Nadu,2011,8,226.1,7.29
+Tamil Nadu,2011,9,154.59,5.15
+Tamil Nadu,2011,10,142.65,4.6
+Tamil Nadu,2011,11,185.19,6.17
+Tamil Nadu,2011,12,104.6,3.37
+Tamil Nadu,2012,1,7.25,0.23
+Tamil Nadu,2012,2,6.9,0.24
+Tamil Nadu,2012,3,24.28,0.78
+Tamil Nadu,2012,4,140.64,4.69
+Tamil Nadu,2012,5,73.13,2.36
+Tamil Nadu,2012,6,168.9,5.63
+Tamil Nadu,2012,7,181.02,5.84
+Tamil Nadu,2012,8,215.74,6.96
+Tamil Nadu,2012,9,115.57,3.85
+Tamil Nadu,2012,10,190.54,6.15
+Tamil Nadu,2012,11,120.37,4.01
+Tamil Nadu,2012,12,50.34,1.62
+Tamil Nadu,2013,1,5.96,0.19
+Tamil Nadu,2013,2,28.64,1.02
+Tamil Nadu,2013,3,31.9,1.03
+Tamil Nadu,2013,4,17.5,0.58
+Tamil Nadu,2013,5,39.12,1.26
+Tamil Nadu,2013,6,46.65,1.56
+Tamil Nadu,2013,7,37.06,1.2
+Tamil Nadu,2013,8,115.51,3.73
+Tamil Nadu,2013,9,110.53,3.68
+Tamil Nadu,2013,10,121.9,3.93
+Tamil Nadu,2013,11,113.91,3.8
+Tamil Nadu,2013,12,59.12,1.91
+Tamil Nadu,2014,1,6.99,0.23
+Tamil Nadu,2014,2,6.31,0.23
+Tamil Nadu,2014,3,6.5,0.21
+Tamil Nadu,2014,4,6.45,0.22
+Tamil Nadu,2014,5,138.33,4.46
+Tamil Nadu,2014,6,42.62,1.42
+Tamil Nadu,2014,7,42.13,1.36
+Tamil Nadu,2014,8,110.58,3.57
+Tamil Nadu,2014,9,93.53,3.12
+Tamil Nadu,2014,10,249.4,8.05
+Tamil Nadu,2014,11,127.84,4.26
+Tamil Nadu,2014,12,72.89,2.35
+Tamil Nadu,2015,1,7.88,0.25
+Tamil Nadu,2015,2,2.55,0.09
+Tamil Nadu,2015,3,19.96,0.64
+Tamil Nadu,2015,4,103.58,3.45
+Tamil Nadu,2015,5,105.82,3.41
+Tamil Nadu,2015,6,55.25,1.84
+Tamil Nadu,2015,7,46.36,1.5
+Tamil Nadu,2015,8,83.02,2.68
+Tamil Nadu,2015,9,94.78,3.16
+Tamil Nadu,2015,10,129.71,4.18
+Tamil Nadu,2015,11,412.07,13.74
+Tamil Nadu,2015,12,179.79,5.8
+Tamil Nadu,2016,1,1.66,0.05
+Tamil Nadu,2016,2,0.94,0.03
+Tamil Nadu,2016,3,2.41,0.08
+Tamil Nadu,2016,4,4.51,0.15
+Tamil Nadu,2016,5,105.44,3.4
+Tamil Nadu,2016,6,60.37,2.01
+Tamil Nadu,2016,7,82.61,2.66
+Tamil Nadu,2016,8,59.07,1.91
+Tamil Nadu,2016,9,55.74,1.86
+Tamil Nadu,2016,10,65.7,2.12
+Tamil Nadu,2016,11,37.81,1.26
+Tamil Nadu,2016,12,69.24,2.23
+Tamil Nadu,2017,1,21.45,0.69
+Tamil Nadu,2017,2,0.72,0.03
+Tamil Nadu,2017,3,17.13,0.55
+Tamil Nadu,2017,4,5.85,0.19
+Tamil Nadu,2017,5,32.3,1.04
+Tamil Nadu,2017,6,23.21,0.77
+Tamil Nadu,2017,7,23.18,0.75
+Tamil Nadu,2017,8,86.42,2.79
+Tamil Nadu,2017,9,76.34,2.54
+Tamil Nadu,2017,10,84.85,2.74
+Tamil Nadu,2017,11,87.05,2.9
+Tamil Nadu,2017,12,22.57,0.73
+Tamil Nadu,2018,1,4.22,0.14
+Tamil Nadu,2018,2,3.44,0.12
+Tamil Nadu,2018,3,11.17,0.36
+Tamil Nadu,2018,4,10.83,0.36
+Tamil Nadu,2018,5,60.1,1.94
+Tamil Nadu,2018,6,34.85,1.16
+Tamil Nadu,2018,7,37.59,1.21
+Tamil Nadu,2018,8,59.53,1.92
+Tamil Nadu,2018,9,65.04,2.17
+Tamil Nadu,2018,10,146.93,4.74
+Tamil Nadu,2018,11,134.29,4.48
+Tamil Nadu,2018,12,16.61,0.54
+Tamil Nadu,2019,1,2.04,0.07
+Tamil Nadu,2019,2,2.43,0.09
+Tamil Nadu,2019,3,2.82,0.09
+Tamil Nadu,2019,4,16.24,0.54
+Tamil Nadu,2019,5,24.73,0.8
+Tamil Nadu,2019,6,29.55,0.98
+Tamil Nadu,2019,7,61.68,1.99
+Tamil Nadu,2019,8,124.88,4.03
+Tamil Nadu,2019,9,177.92,5.93
+Tamil Nadu,2019,10,234.32,7.56
+Tamil Nadu,2019,11,139.1,4.64
+Tamil Nadu,2019,12,120.54,3.89
+Tamil Nadu,2020,1,10.41,0.34
+Tamil Nadu,2020,2,1.19,0.04
+Tamil Nadu,2020,3,2.81,0.09
+Tamil Nadu,2020,4,30.58,1.02
+Tamil Nadu,2020,5,34.98,1.25
+Tamil Nadu,2020,6,55.73,1.86
+Tamil Nadu,2020,7,72.54,4.53
+Tamil Nadu,2020,8,85.03,2.74
+Tamil Nadu,2020,9,136.6,4.55
+Tamil Nadu,2020,10,106.56,3.44
+Tamil Nadu,2020,11,224.43,7.48
+Tamil Nadu,2020,12,196.03,6.32
+Tamil Nadu,2021,1,152.96,4.93
+Tamil Nadu,2021,2,13.74,0.49
+Tamil Nadu,2021,3,6.3,0.2
+Tamil Nadu,2021,4,34.81,1.2
+Tamil Nadu,2021,5,68.86,2.37
+Tamil Nadu,2021,6,48.99,2.04
+Tamil Nadu,2021,7,112.57,3.88
+Tamil Nadu,2021,8,92.81,2.99
+Tamil Nadu,2021,9,120.85,4.03
+Tamil Nadu,2021,10,233.59,7.54
+Tamil Nadu,2021,11,463.2,15.44
+Tamil Nadu,2021,12,60.14,1.94
+Tamil Nadu,2022,1,37.78,1.22
+Tamil Nadu,2022,2,9.39,0.35
+Tamil Nadu,2022,3,11.36,0.38
+Tamil Nadu,2022,4,63.25,2.26
+Tamil Nadu,2022,5,83.79,2.7
+Tamil Nadu,2022,6,73.94,2.46
+Tamil Nadu,2022,7,123.79,4.27
+Tamil Nadu,2022,8,163.88,5.29
+Tamil Nadu,2022,9,86.32,2.88
+Tamil Nadu,2022,10,167.51,5.4
+Tamil Nadu,2022,11,193.71,6.46
+Tamil Nadu,2022,12,108.4,3.5
+Tamil Nadu,2023,1,5.02,0.17
+Tamil Nadu,2023,2,17.81,0.64
+Tamil Nadu,2023,3,31.66,1.02
+Tamil Nadu,2023,4,38.57,1.29
+Tamil Nadu,2023,5,118.77,3.83
+Tamil Nadu,2023,6,50.58,1.74
+Tamil Nadu,2023,7,64.78,2.09
+Tamil Nadu,2023,8,87.98,2.84
+Tamil Nadu,2023,9,147.47,4.92
+Tamil Nadu,2023,10,92.76,2.99
+Tamil Nadu,2023,11,249.4,8.31
+Tamil Nadu,2023,12,129.17,4.17
+Tamil Nadu,2024,1,54.08,1.74
+Tamil Nadu,2024,2,2.25,0.08
+Tamil Nadu,2024,3,0.01,0.0
+Telangana,2009,1,0.01,0.0
+Telangana,2009,2,0.0,0.0
+Telangana,2009,3,6.91,0.22
+Telangana,2009,4,4.49,0.15
+Telangana,2009,5,41.85,1.35
+Telangana,2009,6,106.17,3.54
+Telangana,2009,7,116.8,3.77
+Telangana,2009,8,175.29,5.65
+Telangana,2009,9,143.54,4.78
+Telangana,2009,10,87.38,2.82
+Telangana,2009,11,52.11,1.74
+Telangana,2009,12,1.59,0.05
+Telangana,2010,1,7.11,0.23
+Telangana,2010,2,5.31,0.19
+Telangana,2010,3,1.06,0.03
+Telangana,2010,4,10.94,0.36
+Telangana,2010,5,46.94,1.51
+Telangana,2010,6,110.03,3.67
+Telangana,2010,7,394.26,12.72
+Telangana,2010,8,293.59,9.47
+Telangana,2010,9,245.32,8.18
+Telangana,2010,10,102.43,3.3
+Telangana,2010,11,52.74,1.76
+Telangana,2010,12,26.87,0.87
+Telangana,2011,1,0.1,0.0
+Telangana,2011,2,9.39,0.34
+Telangana,2011,3,1.97,0.06
+Telangana,2011,4,34.09,1.14
+Telangana,2011,5,17.81,0.57
+Telangana,2011,6,76.65,2.56
+Telangana,2011,7,232.31,7.49
+Telangana,2011,8,216.21,6.97
+Telangana,2011,9,86.07,2.87
+Telangana,2011,10,25.8,0.83
+Telangana,2011,11,2.47,0.08
+Telangana,2011,12,0.06,0.0
+Telangana,2012,1,10.57,0.34
+Telangana,2012,2,0.0,0.0
+Telangana,2012,3,0.57,0.02
+Telangana,2012,4,20.52,0.68
+Telangana,2012,5,15.46,0.5
+Telangana,2012,6,112.4,3.75
+Telangana,2012,7,273.91,8.84
+Telangana,2012,8,226.19,7.3
+Telangana,2012,9,197.26,6.58
+Telangana,2012,10,83.52,2.69
+Telangana,2012,11,76.32,2.54
+Telangana,2012,12,0.0,0.0
+Telangana,2013,1,2.82,0.09
+Telangana,2013,2,32.19,1.15
+Telangana,2013,3,0.12,0.0
+Telangana,2013,4,27.76,0.93
+Telangana,2013,5,14.01,0.45
+Telangana,2013,6,200.13,6.67
+Telangana,2013,7,396.27,12.78
+Telangana,2013,8,223.54,7.21
+Telangana,2013,9,166.83,5.56
+Telangana,2013,10,241.7,7.8
+Telangana,2013,11,16.57,0.55
+Telangana,2013,12,1.6,0.05
+Telangana,2014,1,0.21,0.01
+Telangana,2014,2,1.63,0.06
+Telangana,2014,3,44.66,1.44
+Telangana,2014,4,9.69,0.32
+Telangana,2014,5,69.65,2.25
+Telangana,2014,6,59.18,1.97
+Telangana,2014,7,177.72,5.73
+Telangana,2014,8,188.61,6.08
+Telangana,2014,9,157.75,5.26
+Telangana,2014,10,50.58,1.63
+Telangana,2014,11,15.0,0.5
+Telangana,2014,12,1.56,0.05
+Telangana,2015,1,14.7,0.47
+Telangana,2015,2,0.0,0.0
+Telangana,2015,3,28.54,0.92
+Telangana,2015,4,63.98,2.13
+Telangana,2015,5,24.8,0.8
+Telangana,2015,6,259.13,8.64
+Telangana,2015,7,94.22,3.04
+Telangana,2015,8,167.5,5.4
+Telangana,2015,9,172.25,5.74
+Telangana,2015,10,22.61,0.73
+Telangana,2015,11,8.88,0.3
+Telangana,2015,12,1.43,0.05
+Telangana,2016,1,1.37,0.04
+Telangana,2016,2,0.13,0.0
+Telangana,2016,3,12.84,0.41
+Telangana,2016,4,4.38,0.15
+Telangana,2016,5,54.03,1.74
+Telangana,2016,6,211.12,7.04
+Telangana,2016,7,241.57,7.79
+Telangana,2016,8,144.37,4.66
+Telangana,2016,9,346.52,11.55
+Telangana,2016,10,69.3,2.24
+Telangana,2016,11,0.78,0.03
+Telangana,2016,12,0.73,0.02
+Telangana,2017,1,0.0,0.0
+Telangana,2017,2,0.0,0.0
+Telangana,2017,3,9.86,0.32
+Telangana,2017,4,3.78,0.13
+Telangana,2017,5,23.98,0.77
+Telangana,2017,6,197.56,6.59
+Telangana,2017,7,160.73,5.18
+Telangana,2017,8,210.6,6.79
+Telangana,2017,9,119.0,3.97
+Telangana,2017,10,114.66,3.7
+Telangana,2017,11,6.31,0.21
+Telangana,2017,12,0.0,0.0
+Telangana,2018,1,0.0,0.0
+Telangana,2018,2,1.9,0.07
+Telangana,2018,3,5.93,0.19
+Telangana,2018,4,25.17,0.84
+Telangana,2018,5,40.98,1.32
+Telangana,2018,6,170.6,5.69
+Telangana,2018,7,227.54,7.34
+Telangana,2018,8,320.14,10.33
+Telangana,2018,9,87.9,2.93
+Telangana,2018,10,18.72,0.6
+Telangana,2018,11,2.37,0.08
+Telangana,2018,12,28.93,0.93
+Telangana,2019,1,25.01,0.81
+Telangana,2019,2,1.4,0.05
+Telangana,2019,3,3.4,0.11
+Telangana,2019,4,16.09,0.54
+Telangana,2019,5,13.0,0.42
+Telangana,2019,6,91.55,3.05
+Telangana,2019,7,238.38,7.69
+Telangana,2019,8,284.96,9.19
+Telangana,2019,9,255.36,8.51
+Telangana,2019,10,170.56,5.5
+Telangana,2019,11,10.48,0.35
+Telangana,2019,12,3.05,0.1
+Telangana,2020,1,12.74,0.41
+Telangana,2020,2,8.55,0.29
+Telangana,2020,3,20.23,0.65
+Telangana,2020,4,22.11,0.74
+Telangana,2020,5,22.43,0.8
+Telangana,2020,6,175.82,5.86
+Telangana,2020,7,149.08,9.32
+Telangana,2020,8,434.93,14.03
+Telangana,2020,9,254.78,8.49
+Telangana,2020,10,170.76,5.51
+Telangana,2020,11,14.79,0.49
+Telangana,2020,12,0.19,0.01
+Telangana,2021,1,1.35,0.04
+Telangana,2021,2,1.85,0.07
+Telangana,2021,3,0.13,0.0
+Telangana,2021,4,25.87,0.89
+Telangana,2021,5,40.56,1.4
+Telangana,2021,6,176.74,7.36
+Telangana,2021,7,319.2,11.01
+Telangana,2021,8,195.13,6.29
+Telangana,2021,9,289.43,9.65
+Telangana,2021,10,59.76,1.93
+Telangana,2021,11,38.91,1.3
+Telangana,2021,12,2.15,0.07
+Telangana,2022,1,37.23,1.2
+Telangana,2022,2,0.01,0.0
+Telangana,2022,3,2.25,0.08
+Telangana,2022,4,5.97,0.21
+Telangana,2022,5,39.09,1.26
+Telangana,2022,6,151.33,5.04
+Telangana,2022,7,538.63,18.57
+Telangana,2022,8,199.08,6.42
+Telangana,2022,9,224.05,7.47
+Telangana,2022,10,113.65,3.67
+Telangana,2022,11,1.73,0.06
+Telangana,2022,12,7.63,0.25
+Telangana,2023,1,0.24,0.01
+Telangana,2023,2,0.0,0.0
+Telangana,2023,3,47.7,1.54
+Telangana,2023,4,49.52,1.65
+Telangana,2023,5,71.17,2.3
+Telangana,2023,6,71.07,2.45
+Telangana,2023,7,508.7,16.41
+Telangana,2023,8,91.22,2.94
+Telangana,2023,9,226.27,7.54
+Telangana,2023,10,6.78,0.22
+Telangana,2023,11,20.41,0.68
+Telangana,2023,12,39.95,1.29
+Telangana,2024,1,0.08,0.0
+Telangana,2024,2,0.7,0.02
+Telangana,2024,3,5.06,0.25
+The Dadra And Nagar Haveli And Daman And Diu,2009,1,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2009,2,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2009,3,0.64,0.02
+The Dadra And Nagar Haveli And Daman And Diu,2009,4,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2009,5,0.23,0.01
+The Dadra And Nagar Haveli And Daman And Diu,2009,6,140.79,4.69
+The Dadra And Nagar Haveli And Daman And Diu,2009,7,1075.91,34.71
+The Dadra And Nagar Haveli And Daman And Diu,2009,8,188.48,6.08
+The Dadra And Nagar Haveli And Daman And Diu,2009,9,212.54,7.08
+The Dadra And Nagar Haveli And Daman And Diu,2009,10,99.4,3.21
+The Dadra And Nagar Haveli And Daman And Diu,2009,11,47.16,1.57
+The Dadra And Nagar Haveli And Daman And Diu,2009,12,1.14,0.04
+The Dadra And Nagar Haveli And Daman And Diu,2010,1,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2010,2,0.14,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2010,3,0.13,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2010,4,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2010,5,0.98,0.03
+The Dadra And Nagar Haveli And Daman And Diu,2010,6,139.78,4.66
+The Dadra And Nagar Haveli And Daman And Diu,2010,7,734.91,23.71
+The Dadra And Nagar Haveli And Daman And Diu,2010,8,725.31,23.4
+The Dadra And Nagar Haveli And Daman And Diu,2010,9,450.73,15.02
+The Dadra And Nagar Haveli And Daman And Diu,2010,10,48.44,1.56
+The Dadra And Nagar Haveli And Daman And Diu,2010,11,34.26,1.14
+The Dadra And Nagar Haveli And Daman And Diu,2010,12,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2011,1,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2011,2,0.02,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2011,3,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2011,4,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2011,5,0.12,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2011,6,224.37,7.48
+The Dadra And Nagar Haveli And Daman And Diu,2011,7,765.01,24.68
+The Dadra And Nagar Haveli And Daman And Diu,2011,8,693.97,22.39
+The Dadra And Nagar Haveli And Daman And Diu,2011,9,226.76,7.56
+The Dadra And Nagar Haveli And Daman And Diu,2011,10,64.81,2.09
+The Dadra And Nagar Haveli And Daman And Diu,2011,11,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2011,12,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2012,1,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2012,2,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2012,3,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2012,4,0.36,0.01
+The Dadra And Nagar Haveli And Daman And Diu,2012,5,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2012,6,108.26,3.61
+The Dadra And Nagar Haveli And Daman And Diu,2012,7,458.6,14.79
+The Dadra And Nagar Haveli And Daman And Diu,2012,8,347.09,11.2
+The Dadra And Nagar Haveli And Daman And Diu,2012,9,409.78,13.66
+The Dadra And Nagar Haveli And Daman And Diu,2012,10,77.29,2.49
+The Dadra And Nagar Haveli And Daman And Diu,2012,11,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2012,12,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2013,1,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2013,2,0.16,0.01
+The Dadra And Nagar Haveli And Daman And Diu,2013,3,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2013,4,0.06,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2013,5,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2013,6,556.42,18.55
+The Dadra And Nagar Haveli And Daman And Diu,2013,7,1021.17,32.94
+The Dadra And Nagar Haveli And Daman And Diu,2013,8,425.08,13.71
+The Dadra And Nagar Haveli And Daman And Diu,2013,9,473.82,15.79
+The Dadra And Nagar Haveli And Daman And Diu,2013,10,81.32,2.62
+The Dadra And Nagar Haveli And Daman And Diu,2013,11,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2013,12,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2014,1,2.04,0.07
+The Dadra And Nagar Haveli And Daman And Diu,2014,2,0.43,0.02
+The Dadra And Nagar Haveli And Daman And Diu,2014,3,0.94,0.03
+The Dadra And Nagar Haveli And Daman And Diu,2014,4,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2014,5,3.59,0.12
+The Dadra And Nagar Haveli And Daman And Diu,2014,6,94.14,3.14
+The Dadra And Nagar Haveli And Daman And Diu,2014,7,1104.05,35.61
+The Dadra And Nagar Haveli And Daman And Diu,2014,8,480.08,15.49
+The Dadra And Nagar Haveli And Daman And Diu,2014,9,341.49,11.38
+The Dadra And Nagar Haveli And Daman And Diu,2014,10,12.42,0.4
+The Dadra And Nagar Haveli And Daman And Diu,2014,11,3.5,0.12
+The Dadra And Nagar Haveli And Daman And Diu,2014,12,1.27,0.04
+The Dadra And Nagar Haveli And Daman And Diu,2015,1,0.21,0.01
+The Dadra And Nagar Haveli And Daman And Diu,2015,2,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2015,3,12.79,0.41
+The Dadra And Nagar Haveli And Daman And Diu,2015,4,2.59,0.09
+The Dadra And Nagar Haveli And Daman And Diu,2015,5,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2015,6,316.87,10.56
+The Dadra And Nagar Haveli And Daman And Diu,2015,7,518.5,16.73
+The Dadra And Nagar Haveli And Daman And Diu,2015,8,214.23,6.91
+The Dadra And Nagar Haveli And Daman And Diu,2015,9,298.24,9.94
+The Dadra And Nagar Haveli And Daman And Diu,2015,10,8.82,0.28
+The Dadra And Nagar Haveli And Daman And Diu,2015,11,6.59,0.22
+The Dadra And Nagar Haveli And Daman And Diu,2015,12,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2016,1,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2016,2,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2016,3,1.27,0.04
+The Dadra And Nagar Haveli And Daman And Diu,2016,4,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2016,5,1.03,0.03
+The Dadra And Nagar Haveli And Daman And Diu,2016,6,161.45,5.38
+The Dadra And Nagar Haveli And Daman And Diu,2016,7,923.19,29.78
+The Dadra And Nagar Haveli And Daman And Diu,2016,8,911.17,29.39
+The Dadra And Nagar Haveli And Daman And Diu,2016,9,379.54,12.65
+The Dadra And Nagar Haveli And Daman And Diu,2016,10,73.6,2.37
+The Dadra And Nagar Haveli And Daman And Diu,2016,11,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2016,12,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2017,1,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2017,2,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2017,3,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2017,4,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2017,5,1.04,0.03
+The Dadra And Nagar Haveli And Daman And Diu,2017,6,546.24,18.21
+The Dadra And Nagar Haveli And Daman And Diu,2017,7,1197.6,38.63
+The Dadra And Nagar Haveli And Daman And Diu,2017,8,587.15,18.94
+The Dadra And Nagar Haveli And Daman And Diu,2017,9,221.08,7.37
+The Dadra And Nagar Haveli And Daman And Diu,2017,10,85.83,2.77
+The Dadra And Nagar Haveli And Daman And Diu,2017,11,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2017,12,48.34,1.56
+The Dadra And Nagar Haveli And Daman And Diu,2018,1,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2018,2,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2018,3,0.09,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2018,4,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2018,5,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2018,6,348.8,11.63
+The Dadra And Nagar Haveli And Daman And Diu,2018,7,1294.54,41.76
+The Dadra And Nagar Haveli And Daman And Diu,2018,8,328.74,10.6
+The Dadra And Nagar Haveli And Daman And Diu,2018,9,54.71,1.82
+The Dadra And Nagar Haveli And Daman And Diu,2018,10,5.5,0.18
+The Dadra And Nagar Haveli And Daman And Diu,2018,11,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2018,12,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2019,1,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2019,2,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2019,3,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2019,4,0.02,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2019,5,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2019,6,314.86,10.5
+The Dadra And Nagar Haveli And Daman And Diu,2019,7,1139.47,36.76
+The Dadra And Nagar Haveli And Daman And Diu,2019,8,840.55,27.11
+The Dadra And Nagar Haveli And Daman And Diu,2019,9,724.1,24.14
+The Dadra And Nagar Haveli And Daman And Diu,2019,10,79.82,2.57
+The Dadra And Nagar Haveli And Daman And Diu,2019,11,56.73,1.89
+The Dadra And Nagar Haveli And Daman And Diu,2019,12,0.02,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2020,1,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2020,2,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2020,3,0.43,0.01
+The Dadra And Nagar Haveli And Daman And Diu,2020,4,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2020,5,0.05,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2020,6,199.2,6.64
+The Dadra And Nagar Haveli And Daman And Diu,2020,7,336.09,21.01
+The Dadra And Nagar Haveli And Daman And Diu,2020,8,1169.37,37.72
+The Dadra And Nagar Haveli And Daman And Diu,2020,9,208.59,6.95
+The Dadra And Nagar Haveli And Daman And Diu,2020,10,34.9,1.13
+The Dadra And Nagar Haveli And Daman And Diu,2020,11,0.02,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2020,12,15.38,0.5
+The Dadra And Nagar Haveli And Daman And Diu,2021,1,2.43,0.08
+The Dadra And Nagar Haveli And Daman And Diu,2021,2,0.13,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2021,3,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2021,4,0.27,0.01
+The Dadra And Nagar Haveli And Daman And Diu,2021,5,169.14,5.83
+The Dadra And Nagar Haveli And Daman And Diu,2021,6,238.15,9.92
+The Dadra And Nagar Haveli And Daman And Diu,2021,7,597.55,20.61
+The Dadra And Nagar Haveli And Daman And Diu,2021,8,345.66,11.15
+The Dadra And Nagar Haveli And Daman And Diu,2021,9,888.08,29.6
+The Dadra And Nagar Haveli And Daman And Diu,2021,10,78.12,2.52
+The Dadra And Nagar Haveli And Daman And Diu,2021,11,44.35,1.48
+The Dadra And Nagar Haveli And Daman And Diu,2021,12,78.87,2.54
+The Dadra And Nagar Haveli And Daman And Diu,2022,1,0.46,0.01
+The Dadra And Nagar Haveli And Daman And Diu,2022,2,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2022,3,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2022,4,0.31,0.01
+The Dadra And Nagar Haveli And Daman And Diu,2022,5,0.18,0.01
+The Dadra And Nagar Haveli And Daman And Diu,2022,6,178.99,5.97
+The Dadra And Nagar Haveli And Daman And Diu,2022,7,1631.34,56.25
+The Dadra And Nagar Haveli And Daman And Diu,2022,8,517.86,16.71
+The Dadra And Nagar Haveli And Daman And Diu,2022,9,573.81,19.13
+The Dadra And Nagar Haveli And Daman And Diu,2022,10,87.0,2.81
+The Dadra And Nagar Haveli And Daman And Diu,2022,11,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2022,12,0.35,0.01
+The Dadra And Nagar Haveli And Daman And Diu,2023,1,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2023,2,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2023,3,7.88,0.25
+The Dadra And Nagar Haveli And Daman And Diu,2023,4,1.32,0.04
+The Dadra And Nagar Haveli And Daman And Diu,2023,5,13.04,0.42
+The Dadra And Nagar Haveli And Daman And Diu,2023,6,376.73,12.99
+The Dadra And Nagar Haveli And Daman And Diu,2023,7,1381.25,44.56
+The Dadra And Nagar Haveli And Daman And Diu,2023,8,136.39,4.4
+The Dadra And Nagar Haveli And Daman And Diu,2023,9,301.06,10.04
+The Dadra And Nagar Haveli And Daman And Diu,2023,10,6.74,0.22
+The Dadra And Nagar Haveli And Daman And Diu,2023,11,24.87,0.83
+The Dadra And Nagar Haveli And Daman And Diu,2023,12,0.26,0.01
+The Dadra And Nagar Haveli And Daman And Diu,2024,1,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2024,2,0.0,0.0
+The Dadra And Nagar Haveli And Daman And Diu,2024,3,0.0,0.0
+Tripura,2009,1,0.0,0.0
+Tripura,2009,2,3.92,0.14
+Tripura,2009,3,23.53,0.76
+Tripura,2009,4,174.92,5.83
+Tripura,2009,5,425.04,13.71
+Tripura,2009,6,260.11,8.67
+Tripura,2009,7,400.0,12.9
+Tripura,2009,8,309.48,9.98
+Tripura,2009,9,294.62,9.82
+Tripura,2009,10,151.74,4.89
+Tripura,2009,11,11.14,0.37
+Tripura,2009,12,0.0,0.0
+Tripura,2010,1,0.05,0.0
+Tripura,2010,2,3.49,0.12
+Tripura,2010,3,108.65,3.5
+Tripura,2010,4,401.18,13.37
+Tripura,2010,5,517.5,16.69
+Tripura,2010,6,452.03,15.07
+Tripura,2010,7,281.34,9.08
+Tripura,2010,8,315.39,10.17
+Tripura,2010,9,263.12,8.77
+Tripura,2010,10,252.63,8.15
+Tripura,2010,11,8.9,0.3
+Tripura,2010,12,32.73,1.06
+Tripura,2011,1,6.8,0.22
+Tripura,2011,2,7.72,0.28
+Tripura,2011,3,45.74,1.48
+Tripura,2011,4,59.72,1.99
+Tripura,2011,5,429.46,13.85
+Tripura,2011,6,391.18,13.04
+Tripura,2011,7,414.13,13.36
+Tripura,2011,8,436.91,14.09
+Tripura,2011,9,192.9,6.43
+Tripura,2011,10,56.72,1.83
+Tripura,2011,11,0.0,0.0
+Tripura,2011,12,0.07,0.0
+Tripura,2012,1,11.0,0.35
+Tripura,2012,2,10.55,0.36
+Tripura,2012,3,20.23,0.65
+Tripura,2012,4,330.22,11.01
+Tripura,2012,5,198.71,6.41
+Tripura,2012,6,556.7,18.56
+Tripura,2012,7,294.78,9.51
+Tripura,2012,8,336.76,10.86
+Tripura,2012,9,183.12,6.1
+Tripura,2012,10,179.44,5.79
+Tripura,2012,11,0.0,0.0
+Tripura,2012,12,0.0,0.0
+Tripura,2013,1,0.22,0.01
+Tripura,2013,2,4.25,0.15
+Tripura,2013,3,4.76,0.15
+Tripura,2013,4,70.94,2.36
+Tripura,2013,5,567.67,18.31
+Tripura,2013,6,238.42,7.95
+Tripura,2013,7,264.61,8.54
+Tripura,2013,8,341.03,11.0
+Tripura,2013,9,243.42,8.11
+Tripura,2013,10,131.63,4.25
+Tripura,2013,11,0.0,0.0
+Tripura,2013,12,2.01,0.06
+Tripura,2014,1,0.0,0.0
+Tripura,2014,2,10.57,0.38
+Tripura,2014,3,14.71,0.47
+Tripura,2014,4,70.53,2.35
+Tripura,2014,5,316.62,10.21
+Tripura,2014,6,369.32,12.31
+Tripura,2014,7,336.64,10.86
+Tripura,2014,8,300.2,9.68
+Tripura,2014,9,350.64,11.69
+Tripura,2014,10,61.66,1.99
+Tripura,2014,11,2.13,0.07
+Tripura,2014,12,0.0,0.0
+Tripura,2015,1,3.03,0.1
+Tripura,2015,2,11.75,0.42
+Tripura,2015,3,8.62,0.28
+Tripura,2015,4,298.76,9.96
+Tripura,2015,5,287.11,9.26
+Tripura,2015,6,302.03,10.07
+Tripura,2015,7,504.26,16.27
+Tripura,2015,8,440.7,14.22
+Tripura,2015,9,288.68,9.62
+Tripura,2015,10,137.48,4.43
+Tripura,2015,11,4.11,0.14
+Tripura,2015,12,11.16,0.36
+Tripura,2016,1,4.48,0.14
+Tripura,2016,2,49.69,1.71
+Tripura,2016,3,119.85,3.87
+Tripura,2016,4,238.99,7.97
+Tripura,2016,5,437.44,14.11
+Tripura,2016,6,285.02,9.5
+Tripura,2016,7,326.89,10.54
+Tripura,2016,8,355.36,11.46
+Tripura,2016,9,298.3,9.94
+Tripura,2016,10,150.15,4.84
+Tripura,2016,11,138.9,4.63
+Tripura,2016,12,2.15,0.07
+Tripura,2017,1,0.22,0.01
+Tripura,2017,2,19.81,0.71
+Tripura,2017,3,195.63,6.31
+Tripura,2017,4,425.18,14.17
+Tripura,2017,5,230.57,7.44
+Tripura,2017,6,624.96,20.83
+Tripura,2017,7,395.99,12.77
+Tripura,2017,8,511.2,16.49
+Tripura,2017,9,309.19,10.31
+Tripura,2017,10,328.5,10.6
+Tripura,2017,11,4.97,0.17
+Tripura,2017,12,88.86,2.87
+Tripura,2018,1,4.85,0.16
+Tripura,2018,2,9.77,0.35
+Tripura,2018,3,35.85,1.16
+Tripura,2018,4,218.28,7.28
+Tripura,2018,5,500.63,16.15
+Tripura,2018,6,499.1,16.64
+Tripura,2018,7,305.76,9.86
+Tripura,2018,8,371.88,12.0
+Tripura,2018,9,170.39,5.68
+Tripura,2018,10,114.27,3.69
+Tripura,2018,11,12.35,0.41
+Tripura,2018,12,14.49,0.47
+Tripura,2019,1,0.08,0.0
+Tripura,2019,2,45.64,1.63
+Tripura,2019,3,39.59,1.28
+Tripura,2019,4,190.31,6.34
+Tripura,2019,5,322.94,10.42
+Tripura,2019,6,279.79,9.33
+Tripura,2019,7,658.04,21.23
+Tripura,2019,8,259.18,8.36
+Tripura,2019,9,278.08,9.27
+Tripura,2019,10,177.97,5.74
+Tripura,2019,11,58.45,1.95
+Tripura,2019,12,5.93,0.19
+Tripura,2020,1,35.26,1.14
+Tripura,2020,2,2.91,0.1
+Tripura,2020,3,7.1,0.23
+Tripura,2020,4,196.74,6.56
+Tripura,2020,5,302.03,10.79
+Tripura,2020,6,388.81,12.96
+Tripura,2020,7,225.85,14.12
+Tripura,2020,8,216.08,6.97
+Tripura,2020,9,264.59,8.82
+Tripura,2020,10,282.61,9.12
+Tripura,2020,11,28.97,0.97
+Tripura,2020,12,0.0,0.0
+Tripura,2021,1,6.09,0.2
+Tripura,2021,2,0.0,0.0
+Tripura,2021,3,43.48,1.4
+Tripura,2021,4,46.95,1.62
+Tripura,2021,5,180.66,6.23
+Tripura,2021,6,256.59,10.69
+Tripura,2021,7,357.76,12.34
+Tripura,2021,8,379.48,12.24
+Tripura,2021,9,248.0,8.27
+Tripura,2021,10,130.21,4.2
+Tripura,2021,11,22.33,0.74
+Tripura,2021,12,99.68,3.22
+Tripura,2022,1,13.2,0.43
+Tripura,2022,2,21.73,0.8
+Tripura,2022,3,33.93,1.13
+Tripura,2022,4,116.38,4.16
+Tripura,2022,5,421.21,13.59
+Tripura,2022,6,386.9,12.9
+Tripura,2022,7,259.87,8.96
+Tripura,2022,8,287.6,9.28
+Tripura,2022,9,228.34,7.61
+Tripura,2022,10,206.7,6.67
+Tripura,2022,11,0.21,0.01
+Tripura,2022,12,5.35,0.17
+Tripura,2023,1,0.01,0.0
+Tripura,2023,2,2.28,0.08
+Tripura,2023,3,73.97,2.39
+Tripura,2023,4,98.9,3.3
+Tripura,2023,5,103.96,3.35
+Tripura,2023,6,339.22,11.7
+Tripura,2023,7,359.28,11.59
+Tripura,2023,8,438.16,14.13
+Tripura,2023,9,264.88,8.83
+Tripura,2023,10,97.64,3.15
+Tripura,2023,11,116.29,3.88
+Tripura,2023,12,41.33,1.33
+Tripura,2024,1,0.43,0.01
+Tripura,2024,2,62.89,2.17
+Tripura,2024,3,6.43,0.32
+Uttar Pradesh,2009,1,0.89,0.03
+Uttar Pradesh,2009,2,2.55,0.09
+Uttar Pradesh,2009,3,1.23,0.04
+Uttar Pradesh,2009,4,4.51,0.15
+Uttar Pradesh,2009,5,23.42,0.76
+Uttar Pradesh,2009,6,34.79,1.16
+Uttar Pradesh,2009,7,161.32,5.2
+Uttar Pradesh,2009,8,214.18,6.91
+Uttar Pradesh,2009,9,144.48,4.82
+Uttar Pradesh,2009,10,87.01,2.81
+Uttar Pradesh,2009,11,9.23,0.31
+Uttar Pradesh,2009,12,3.42,0.11
+Uttar Pradesh,2010,1,4.62,0.15
+Uttar Pradesh,2010,2,16.74,0.6
+Uttar Pradesh,2010,3,0.24,0.01
+Uttar Pradesh,2010,4,1.35,0.05
+Uttar Pradesh,2010,5,27.15,0.88
+Uttar Pradesh,2010,6,24.32,0.81
+Uttar Pradesh,2010,7,260.95,8.42
+Uttar Pradesh,2010,8,248.41,8.01
+Uttar Pradesh,2010,9,233.49,7.78
+Uttar Pradesh,2010,10,12.62,0.41
+Uttar Pradesh,2010,11,7.92,0.26
+Uttar Pradesh,2010,12,2.08,0.07
+Uttar Pradesh,2011,1,2.51,0.08
+Uttar Pradesh,2011,2,15.77,0.56
+Uttar Pradesh,2011,3,4.84,0.16
+Uttar Pradesh,2011,4,8.26,0.28
+Uttar Pradesh,2011,5,37.12,1.2
+Uttar Pradesh,2011,6,185.52,6.18
+Uttar Pradesh,2011,7,241.43,7.79
+Uttar Pradesh,2011,8,273.29,8.82
+Uttar Pradesh,2011,9,172.16,5.74
+Uttar Pradesh,2011,10,1.17,0.04
+Uttar Pradesh,2011,11,0.0,0.0
+Uttar Pradesh,2011,12,0.25,0.01
+Uttar Pradesh,2012,1,33.42,1.08
+Uttar Pradesh,2012,2,8.37,0.29
+Uttar Pradesh,2012,3,7.32,0.24
+Uttar Pradesh,2012,4,9.84,0.33
+Uttar Pradesh,2012,5,0.91,0.03
+Uttar Pradesh,2012,6,24.93,0.83
+Uttar Pradesh,2012,7,291.22,9.39
+Uttar Pradesh,2012,8,247.0,7.97
+Uttar Pradesh,2012,9,218.26,7.28
+Uttar Pradesh,2012,10,1.98,0.06
+Uttar Pradesh,2012,11,0.48,0.02
+Uttar Pradesh,2012,12,2.73,0.09
+Uttar Pradesh,2013,1,12.72,0.41
+Uttar Pradesh,2013,2,62.15,2.22
+Uttar Pradesh,2013,3,3.18,0.1
+Uttar Pradesh,2013,4,6.39,0.21
+Uttar Pradesh,2013,5,2.23,0.07
+Uttar Pradesh,2013,6,267.34,8.91
+Uttar Pradesh,2013,7,230.16,7.42
+Uttar Pradesh,2013,8,260.66,8.41
+Uttar Pradesh,2013,9,71.52,2.38
+Uttar Pradesh,2013,10,87.21,2.81
+Uttar Pradesh,2013,11,0.95,0.03
+Uttar Pradesh,2013,12,3.92,0.13
+Uttar Pradesh,2014,1,46.59,1.5
+Uttar Pradesh,2014,2,32.03,1.14
+Uttar Pradesh,2014,3,19.7,0.64
+Uttar Pradesh,2014,4,3.21,0.11
+Uttar Pradesh,2014,5,11.5,0.37
+Uttar Pradesh,2014,6,41.49,1.38
+Uttar Pradesh,2014,7,203.89,6.58
+Uttar Pradesh,2014,8,127.91,4.13
+Uttar Pradesh,2014,9,97.06,3.24
+Uttar Pradesh,2014,10,51.12,1.65
+Uttar Pradesh,2014,11,0.0,0.0
+Uttar Pradesh,2014,12,12.96,0.42
+Uttar Pradesh,2015,1,30.91,1.0
+Uttar Pradesh,2015,2,5.19,0.19
+Uttar Pradesh,2015,3,55.1,1.78
+Uttar Pradesh,2015,4,22.77,0.76
+Uttar Pradesh,2015,5,8.2,0.26
+Uttar Pradesh,2015,6,89.6,2.99
+Uttar Pradesh,2015,7,193.95,6.26
+Uttar Pradesh,2015,8,170.98,5.52
+Uttar Pradesh,2015,9,26.2,0.87
+Uttar Pradesh,2015,10,10.64,0.34
+Uttar Pradesh,2015,11,0.92,0.03
+Uttar Pradesh,2015,12,3.37,0.11
+Uttar Pradesh,2016,1,4.33,0.14
+Uttar Pradesh,2016,2,1.62,0.06
+Uttar Pradesh,2016,3,10.71,0.35
+Uttar Pradesh,2016,4,0.29,0.01
+Uttar Pradesh,2016,5,36.83,1.19
+Uttar Pradesh,2016,6,75.27,2.51
+Uttar Pradesh,2016,7,352.15,11.36
+Uttar Pradesh,2016,8,206.19,6.65
+Uttar Pradesh,2016,9,112.4,3.75
+Uttar Pradesh,2016,10,21.84,0.7
+Uttar Pradesh,2016,11,0.0,0.0
+Uttar Pradesh,2016,12,0.03,0.0
+Uttar Pradesh,2017,1,14.43,0.47
+Uttar Pradesh,2017,2,0.45,0.02
+Uttar Pradesh,2017,3,5.68,0.18
+Uttar Pradesh,2017,4,2.3,0.08
+Uttar Pradesh,2017,5,23.5,0.76
+Uttar Pradesh,2017,6,62.82,2.09
+Uttar Pradesh,2017,7,264.74,8.54
+Uttar Pradesh,2017,8,182.36,5.88
+Uttar Pradesh,2017,9,114.33,3.81
+Uttar Pradesh,2017,10,3.14,0.1
+Uttar Pradesh,2017,11,0.0,0.0
+Uttar Pradesh,2017,12,0.69,0.02
+Uttar Pradesh,2018,1,1.58,0.05
+Uttar Pradesh,2018,2,4.55,0.16
+Uttar Pradesh,2018,3,0.79,0.03
+Uttar Pradesh,2018,4,14.06,0.47
+Uttar Pradesh,2018,5,16.96,0.55
+Uttar Pradesh,2018,6,52.76,1.76
+Uttar Pradesh,2018,7,307.11,9.91
+Uttar Pradesh,2018,8,311.33,10.04
+Uttar Pradesh,2018,9,135.48,4.52
+Uttar Pradesh,2018,10,2.62,0.08
+Uttar Pradesh,2018,11,0.4,0.01
+Uttar Pradesh,2018,12,0.19,0.01
+Uttar Pradesh,2019,1,13.23,0.43
+Uttar Pradesh,2019,2,20.98,0.75
+Uttar Pradesh,2019,3,5.35,0.17
+Uttar Pradesh,2019,4,5.72,0.19
+Uttar Pradesh,2019,5,2.31,0.07
+Uttar Pradesh,2019,6,45.02,1.5
+Uttar Pradesh,2019,7,316.96,10.22
+Uttar Pradesh,2019,8,178.33,5.75
+Uttar Pradesh,2019,9,232.58,7.75
+Uttar Pradesh,2019,10,19.95,0.64
+Uttar Pradesh,2019,11,4.8,0.16
+Uttar Pradesh,2019,12,28.62,0.92
+Uttar Pradesh,2020,1,31.38,1.01
+Uttar Pradesh,2020,2,12.69,0.44
+Uttar Pradesh,2020,3,41.53,1.34
+Uttar Pradesh,2020,4,15.39,0.51
+Uttar Pradesh,2020,5,30.75,1.1
+Uttar Pradesh,2020,6,151.62,5.05
+Uttar Pradesh,2020,7,159.27,9.95
+Uttar Pradesh,2020,8,203.99,6.58
+Uttar Pradesh,2020,9,98.88,3.3
+Uttar Pradesh,2020,10,1.36,0.04
+Uttar Pradesh,2020,11,5.53,0.18
+Uttar Pradesh,2020,12,1.16,0.04
+Uttar Pradesh,2021,1,5.25,0.17
+Uttar Pradesh,2021,2,1.95,0.07
+Uttar Pradesh,2021,3,0.65,0.02
+Uttar Pradesh,2021,4,3.61,0.12
+Uttar Pradesh,2021,5,103.89,3.58
+Uttar Pradesh,2021,6,150.43,6.27
+Uttar Pradesh,2021,7,228.44,7.88
+Uttar Pradesh,2021,8,233.29,7.53
+Uttar Pradesh,2021,9,172.19,5.74
+Uttar Pradesh,2021,10,100.69,3.25
+Uttar Pradesh,2021,11,0.12,0.0
+Uttar Pradesh,2021,12,5.61,0.18
+Uttar Pradesh,2022,1,42.83,1.38
+Uttar Pradesh,2022,2,17.58,0.65
+Uttar Pradesh,2022,3,0.03,0.0
+Uttar Pradesh,2022,4,0.32,0.01
+Uttar Pradesh,2022,5,26.69,0.86
+Uttar Pradesh,2022,6,50.96,1.7
+Uttar Pradesh,2022,7,152.72,5.27
+Uttar Pradesh,2022,8,161.47,5.21
+Uttar Pradesh,2022,9,222.8,7.43
+Uttar Pradesh,2022,10,157.79,5.09
+Uttar Pradesh,2022,11,0.13,0.0
+Uttar Pradesh,2022,12,0.1,0.0
+Uttar Pradesh,2023,1,7.35,0.24
+Uttar Pradesh,2023,2,0.04,0.0
+Uttar Pradesh,2023,3,25.11,0.81
+Uttar Pradesh,2023,4,12.24,0.41
+Uttar Pradesh,2023,5,37.45,1.21
+Uttar Pradesh,2023,6,78.95,2.72
+Uttar Pradesh,2023,7,227.33,7.33
+Uttar Pradesh,2023,8,215.66,6.96
+Uttar Pradesh,2023,9,127.66,4.26
+Uttar Pradesh,2023,10,30.15,0.97
+Uttar Pradesh,2023,11,2.97,0.1
+Uttar Pradesh,2023,12,6.14,0.2
+Uttar Pradesh,2024,1,2.44,0.08
+Uttar Pradesh,2024,2,17.82,0.61
+Uttar Pradesh,2024,3,14.6,0.73
+Uttarakhand,2009,1,2.35,0.08
+Uttarakhand,2009,2,20.82,0.74
+Uttarakhand,2009,3,8.95,0.29
+Uttarakhand,2009,4,29.44,0.98
+Uttarakhand,2009,5,62.62,2.02
+Uttarakhand,2009,6,46.52,1.55
+Uttarakhand,2009,7,245.7,7.93
+Uttarakhand,2009,8,245.76,7.93
+Uttarakhand,2009,9,228.99,7.63
+Uttarakhand,2009,10,113.43,3.66
+Uttarakhand,2009,11,12.45,0.42
+Uttarakhand,2009,12,1.28,0.04
+Uttarakhand,2010,1,8.52,0.27
+Uttarakhand,2010,2,83.27,2.97
+Uttarakhand,2010,3,1.23,0.04
+Uttarakhand,2010,4,19.84,0.66
+Uttarakhand,2010,5,57.26,1.85
+Uttarakhand,2010,6,115.97,3.87
+Uttarakhand,2010,7,508.36,16.4
+Uttarakhand,2010,8,508.29,16.4
+Uttarakhand,2010,9,515.17,17.17
+Uttarakhand,2010,10,13.1,0.42
+Uttarakhand,2010,11,4.07,0.14
+Uttarakhand,2010,12,21.78,0.7
+Uttarakhand,2011,1,26.77,0.86
+Uttarakhand,2011,2,65.2,2.33
+Uttarakhand,2011,3,19.3,0.62
+Uttarakhand,2011,4,32.1,1.07
+Uttarakhand,2011,5,60.86,1.96
+Uttarakhand,2011,6,235.25,7.84
+Uttarakhand,2011,7,319.17,10.3
+Uttarakhand,2011,8,469.81,15.16
+Uttarakhand,2011,9,119.9,4.0
+Uttarakhand,2011,10,4.73,0.15
+Uttarakhand,2011,11,1.61,0.05
+Uttarakhand,2011,12,4.04,0.13
+Uttarakhand,2012,1,46.99,1.52
+Uttarakhand,2012,2,11.62,0.4
+Uttarakhand,2012,3,40.44,1.3
+Uttarakhand,2012,4,36.21,1.21
+Uttarakhand,2012,5,3.18,0.1
+Uttarakhand,2012,6,26.03,0.87
+Uttarakhand,2012,7,294.01,9.48
+Uttarakhand,2012,8,431.65,13.92
+Uttarakhand,2012,9,199.83,6.66
+Uttarakhand,2012,10,0.73,0.02
+Uttarakhand,2012,11,1.01,0.03
+Uttarakhand,2012,12,8.36,0.27
+Uttarakhand,2013,1,71.49,2.31
+Uttarakhand,2013,2,182.81,6.53
+Uttarakhand,2013,3,23.92,0.77
+Uttarakhand,2013,4,26.96,0.9
+Uttarakhand,2013,5,23.56,0.76
+Uttarakhand,2013,6,462.09,15.4
+Uttarakhand,2013,7,437.42,14.11
+Uttarakhand,2013,8,353.19,11.39
+Uttarakhand,2013,9,111.68,3.72
+Uttarakhand,2013,10,29.12,0.94
+Uttarakhand,2013,11,3.66,0.12
+Uttarakhand,2013,12,4.33,0.14
+Uttarakhand,2014,1,40.94,1.32
+Uttarakhand,2014,2,101.83,3.64
+Uttarakhand,2014,3,73.2,2.36
+Uttarakhand,2014,4,42.85,1.43
+Uttarakhand,2014,5,55.29,1.78
+Uttarakhand,2014,6,66.2,2.21
+Uttarakhand,2014,7,461.97,14.9
+Uttarakhand,2014,8,270.64,8.73
+Uttarakhand,2014,9,107.34,3.58
+Uttarakhand,2014,10,41.49,1.34
+Uttarakhand,2014,11,0.01,0.0
+Uttarakhand,2014,12,43.6,1.41
+Uttarakhand,2015,1,63.54,2.05
+Uttarakhand,2015,2,76.29,2.72
+Uttarakhand,2015,3,129.67,4.18
+Uttarakhand,2015,4,62.49,2.08
+Uttarakhand,2015,5,39.41,1.27
+Uttarakhand,2015,6,187.95,6.26
+Uttarakhand,2015,7,314.19,10.14
+Uttarakhand,2015,8,286.49,9.24
+Uttarakhand,2015,9,51.89,1.73
+Uttarakhand,2015,10,16.63,0.54
+Uttarakhand,2015,11,2.25,0.08
+Uttarakhand,2015,12,8.43,0.27
+Uttarakhand,2016,1,7.64,0.25
+Uttarakhand,2016,2,31.91,1.1
+Uttarakhand,2016,3,49.67,1.6
+Uttarakhand,2016,4,11.43,0.38
+Uttarakhand,2016,5,109.76,3.54
+Uttarakhand,2016,6,195.13,6.5
+Uttarakhand,2016,7,535.49,17.27
+Uttarakhand,2016,8,319.42,10.3
+Uttarakhand,2016,9,119.13,3.97
+Uttarakhand,2016,10,17.92,0.58
+Uttarakhand,2016,11,0.0,0.0
+Uttarakhand,2016,12,3.91,0.13
+Uttarakhand,2017,1,37.86,1.22
+Uttarakhand,2017,2,15.57,0.56
+Uttarakhand,2017,3,49.95,1.61
+Uttarakhand,2017,4,69.02,2.3
+Uttarakhand,2017,5,113.9,3.67
+Uttarakhand,2017,6,175.85,5.86
+Uttarakhand,2017,7,501.19,16.17
+Uttarakhand,2017,8,394.24,12.72
+Uttarakhand,2017,9,203.73,6.79
+Uttarakhand,2017,10,6.79,0.22
+Uttarakhand,2017,11,0.09,0.0
+Uttarakhand,2017,12,10.38,0.33
+Uttarakhand,2018,1,18.54,0.6
+Uttarakhand,2018,2,14.14,0.5
+Uttarakhand,2018,3,30.35,0.98
+Uttarakhand,2018,4,68.12,2.27
+Uttarakhand,2018,5,62.17,2.01
+Uttarakhand,2018,6,198.23,6.61
+Uttarakhand,2018,7,461.66,14.89
+Uttarakhand,2018,8,490.54,15.82
+Uttarakhand,2018,9,216.08,7.2
+Uttarakhand,2018,10,3.96,0.13
+Uttarakhand,2018,11,20.84,0.69
+Uttarakhand,2018,12,2.53,0.08
+Uttarakhand,2019,1,85.4,2.75
+Uttarakhand,2019,2,137.85,4.92
+Uttarakhand,2019,3,41.35,1.33
+Uttarakhand,2019,4,52.1,1.74
+Uttarakhand,2019,5,32.33,1.04
+Uttarakhand,2019,6,94.81,3.16
+Uttarakhand,2019,7,306.08,9.87
+Uttarakhand,2019,8,399.93,12.9
+Uttarakhand,2019,9,264.33,8.81
+Uttarakhand,2019,10,34.61,1.12
+Uttarakhand,2019,11,26.96,0.9
+Uttarakhand,2019,12,57.73,1.86
+Uttarakhand,2020,1,134.41,4.34
+Uttarakhand,2020,2,38.92,1.34
+Uttarakhand,2020,3,113.11,3.65
+Uttarakhand,2020,4,50.37,1.68
+Uttarakhand,2020,5,69.61,2.49
+Uttarakhand,2020,6,170.05,5.67
+Uttarakhand,2020,7,253.02,15.81
+Uttarakhand,2020,8,402.48,12.98
+Uttarakhand,2020,9,71.81,2.39
+Uttarakhand,2020,10,0.24,0.01
+Uttarakhand,2020,11,9.46,0.32
+Uttarakhand,2020,12,7.18,0.23
+Uttarakhand,2021,1,29.24,0.94
+Uttarakhand,2021,2,16.41,0.59
+Uttarakhand,2021,3,13.89,0.45
+Uttarakhand,2021,4,63.36,2.18
+Uttarakhand,2021,5,187.37,6.46
+Uttarakhand,2021,6,256.08,10.67
+Uttarakhand,2021,7,365.52,12.6
+Uttarakhand,2021,8,346.64,11.18
+Uttarakhand,2021,9,217.91,7.26
+Uttarakhand,2021,10,221.13,7.13
+Uttarakhand,2021,11,2.44,0.08
+Uttarakhand,2021,12,18.2,0.59
+Uttarakhand,2022,1,100.43,3.24
+Uttarakhand,2022,2,54.48,2.02
+Uttarakhand,2022,3,3.41,0.11
+Uttarakhand,2022,4,10.57,0.38
+Uttarakhand,2022,5,100.07,3.23
+Uttarakhand,2022,6,145.31,4.84
+Uttarakhand,2022,7,420.67,14.51
+Uttarakhand,2022,8,327.43,10.56
+Uttarakhand,2022,9,298.11,9.94
+Uttarakhand,2022,10,124.68,4.02
+Uttarakhand,2022,11,2.84,0.09
+Uttarakhand,2022,12,0.17,0.01
+Uttarakhand,2023,1,30.31,1.01
+Uttarakhand,2023,2,9.64,0.34
+Uttarakhand,2023,3,62.5,2.02
+Uttarakhand,2023,4,66.08,2.2
+Uttarakhand,2023,5,97.03,3.13
+Uttarakhand,2023,6,160.32,5.53
+Uttarakhand,2023,7,556.8,17.96
+Uttarakhand,2023,8,395.47,12.76
+Uttarakhand,2023,9,179.59,5.99
+Uttarakhand,2023,10,24.48,0.79
+Uttarakhand,2023,11,2.08,0.07
+Uttarakhand,2023,12,4.99,0.16
+Uttarakhand,2024,1,0.21,0.01
+Uttarakhand,2024,2,53.42,1.84
+Uttarakhand,2024,3,67.01,3.35
+West Bengal,2009,1,0.35,0.01
+West Bengal,2009,2,2.57,0.09
+West Bengal,2009,3,17.7,0.57
+West Bengal,2009,4,31.17,1.04
+West Bengal,2009,5,228.37,7.37
+West Bengal,2009,6,155.66,5.19
+West Bengal,2009,7,334.37,10.79
+West Bengal,2009,8,434.04,14.0
+West Bengal,2009,9,262.63,8.75
+West Bengal,2009,10,146.68,4.73
+West Bengal,2009,11,8.02,0.27
+West Bengal,2009,12,0.81,0.03
+West Bengal,2010,1,0.1,0.0
+West Bengal,2010,2,7.96,0.28
+West Bengal,2010,3,16.99,0.55
+West Bengal,2010,4,66.26,2.21
+West Bengal,2010,5,185.69,5.99
+West Bengal,2010,6,301.12,10.04
+West Bengal,2010,7,324.52,10.47
+West Bengal,2010,8,261.53,8.44
+West Bengal,2010,9,249.44,8.31
+West Bengal,2010,10,87.85,2.83
+West Bengal,2010,11,7.0,0.23
+West Bengal,2010,12,24.03,0.78
+West Bengal,2011,1,1.44,0.05
+West Bengal,2011,2,3.11,0.11
+West Bengal,2011,3,33.14,1.07
+West Bengal,2011,4,74.35,2.48
+West Bengal,2011,5,119.6,3.86
+West Bengal,2011,6,342.25,11.41
+West Bengal,2011,7,338.41,10.92
+West Bengal,2011,8,351.83,11.35
+West Bengal,2011,9,276.59,9.22
+West Bengal,2011,10,24.12,0.78
+West Bengal,2011,11,4.82,0.16
+West Bengal,2011,12,0.61,0.02
+West Bengal,2012,1,32.2,1.04
+West Bengal,2012,2,5.27,0.18
+West Bengal,2012,3,5.93,0.19
+West Bengal,2012,4,71.28,2.38
+West Bengal,2012,5,83.3,2.69
+West Bengal,2012,6,271.26,9.04
+West Bengal,2012,7,351.33,11.33
+West Bengal,2012,8,211.21,6.81
+West Bengal,2012,9,230.72,7.69
+West Bengal,2012,10,70.16,2.26
+West Bengal,2012,11,24.99,0.83
+West Bengal,2012,12,6.17,0.2
+West Bengal,2013,1,2.35,0.08
+West Bengal,2013,2,12.56,0.45
+West Bengal,2013,3,8.25,0.27
+West Bengal,2013,4,55.44,1.85
+West Bengal,2013,5,202.32,6.53
+West Bengal,2013,6,287.47,9.58
+West Bengal,2013,7,348.45,11.24
+West Bengal,2013,8,401.92,12.97
+West Bengal,2013,9,260.19,8.67
+West Bengal,2013,10,298.09,9.62
+West Bengal,2013,11,1.07,0.04
+West Bengal,2013,12,0.14,0.0
+West Bengal,2014,1,0.88,0.03
+West Bengal,2014,2,43.67,1.56
+West Bengal,2014,3,19.2,0.62
+West Bengal,2014,4,11.3,0.38
+West Bengal,2014,5,172.95,5.58
+West Bengal,2014,6,292.95,9.76
+West Bengal,2014,7,316.61,10.21
+West Bengal,2014,8,388.44,12.53
+West Bengal,2014,9,274.75,9.16
+West Bengal,2014,10,40.54,1.31
+West Bengal,2014,11,0.72,0.02
+West Bengal,2014,12,0.49,0.02
+West Bengal,2015,1,13.88,0.45
+West Bengal,2015,2,8.33,0.3
+West Bengal,2015,3,24.87,0.8
+West Bengal,2015,4,111.87,3.73
+West Bengal,2015,5,133.78,4.32
+West Bengal,2015,6,348.04,11.6
+West Bengal,2015,7,568.24,18.33
+West Bengal,2015,8,388.32,12.53
+West Bengal,2015,9,210.87,7.03
+West Bengal,2015,10,41.37,1.33
+West Bengal,2015,11,7.63,0.25
+West Bengal,2015,12,4.54,0.15
+West Bengal,2016,1,9.33,0.3
+West Bengal,2016,2,33.63,1.16
+West Bengal,2016,3,28.16,0.91
+West Bengal,2016,4,29.2,0.97
+West Bengal,2016,5,146.91,4.74
+West Bengal,2016,6,296.16,9.87
+West Bengal,2016,7,451.04,14.55
+West Bengal,2016,8,343.98,11.1
+West Bengal,2016,9,295.32,9.84
+West Bengal,2016,10,94.62,3.05
+West Bengal,2016,11,14.27,0.48
+West Bengal,2016,12,0.04,0.0
+West Bengal,2017,1,1.65,0.05
+West Bengal,2017,2,0.53,0.02
+West Bengal,2017,3,48.7,1.57
+West Bengal,2017,4,56.62,1.89
+West Bengal,2017,5,135.99,4.39
+West Bengal,2017,6,265.07,8.84
+West Bengal,2017,7,477.15,15.39
+West Bengal,2017,8,411.16,13.26
+West Bengal,2017,9,236.02,7.87
+West Bengal,2017,10,212.66,6.86
+West Bengal,2017,11,15.4,0.51
+West Bengal,2017,12,11.82,0.38
+West Bengal,2018,1,0.02,0.0
+West Bengal,2018,2,3.46,0.12
+West Bengal,2018,3,13.15,0.42
+West Bengal,2018,4,123.45,4.11
+West Bengal,2018,5,145.33,4.69
+West Bengal,2018,6,247.85,8.26
+West Bengal,2018,7,352.39,11.37
+West Bengal,2018,8,266.34,8.59
+West Bengal,2018,9,247.53,8.25
+West Bengal,2018,10,59.56,1.92
+West Bengal,2018,11,2.84,0.09
+West Bengal,2018,12,19.53,0.63
+West Bengal,2019,1,0.11,0.0
+West Bengal,2019,2,71.25,2.54
+West Bengal,2019,3,39.21,1.26
+West Bengal,2019,4,75.21,2.51
+West Bengal,2019,5,148.8,4.8
+West Bengal,2019,6,170.93,5.7
+West Bengal,2019,7,379.94,12.26
+West Bengal,2019,8,290.22,9.36
+West Bengal,2019,9,318.49,10.62
+West Bengal,2019,10,153.57,4.95
+West Bengal,2019,11,58.0,1.93
+West Bengal,2019,12,8.69,0.28
+West Bengal,2020,1,26.2,0.85
+West Bengal,2020,2,9.47,0.33
+West Bengal,2020,3,55.68,1.8
+West Bengal,2020,4,94.92,3.16
+West Bengal,2020,5,270.14,9.65
+West Bengal,2020,6,394.78,13.16
+West Bengal,2020,7,247.89,15.49
+West Bengal,2020,8,344.87,11.12
+West Bengal,2020,9,303.43,10.11
+West Bengal,2020,10,79.15,2.55
+West Bengal,2020,11,5.03,0.17
+West Bengal,2020,12,0.34,0.01
+West Bengal,2021,1,1.33,0.04
+West Bengal,2021,2,1.75,0.06
+West Bengal,2021,3,9.32,0.3
+West Bengal,2021,4,32.93,1.14
+West Bengal,2021,5,248.93,8.58
+West Bengal,2021,6,328.06,13.67
+West Bengal,2021,7,392.73,13.54
+West Bengal,2021,8,345.9,11.16
+West Bengal,2021,9,363.24,12.11
+West Bengal,2021,10,179.74,5.8
+West Bengal,2021,11,18.8,0.63
+West Bengal,2021,12,49.13,1.58
+West Bengal,2022,1,19.2,0.62
+West Bengal,2022,2,44.88,1.66
+West Bengal,2022,3,6.45,0.22
+West Bengal,2022,4,57.52,2.05
+West Bengal,2022,5,191.01,6.16
+West Bengal,2022,6,301.0,10.03
+West Bengal,2022,7,220.99,7.62
+West Bengal,2022,8,308.0,9.94
+West Bengal,2022,9,259.44,8.65
+West Bengal,2022,10,128.04,4.13
+West Bengal,2022,11,0.15,0.01
+West Bengal,2022,12,0.55,0.02
+West Bengal,2023,1,0.04,0.0
+West Bengal,2023,2,2.55,0.09
+West Bengal,2023,3,65.28,2.11
+West Bengal,2023,4,48.44,1.61
+West Bengal,2023,5,111.77,3.61
+West Bengal,2023,6,295.08,10.18
+West Bengal,2023,7,288.44,9.3
+West Bengal,2023,8,352.23,11.36
+West Bengal,2023,9,261.21,8.71
+West Bengal,2023,10,152.36,4.91
+West Bengal,2023,11,3.47,0.12
+West Bengal,2023,12,38.1,1.23
+West Bengal,2024,1,8.56,0.28
+West Bengal,2024,2,14.96,0.52
+West Bengal,2024,3,26.8,1.34
